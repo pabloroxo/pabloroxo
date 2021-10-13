@@ -35,7 +35,7 @@ Completed – 2009 to 2014
 ## Actual jobs
 
 - Systems Analyst (full-time) – PHP, Laravel, Vue.js, JavaScript, MongoDB, Redis<br>
-Capgemini – September/2021 until nowadays
+Jettax – September/2021 until nowadays
 - College Teacher (part-time, two days a week, night shift)<br>
 Subjects: Algorithms; Object-Oriented Programming, Web Development (frontend); and Web Development (backend)<br>
 União Metropolitana de Educação e Cultura (UNIME) – March/2021 until nowadays
