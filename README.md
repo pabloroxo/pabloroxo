@@ -2,14 +2,12 @@
 
 Hello, everyone! I'm Pablo Roxo, a software developer from Salvador, Brazil.
 
-I'm slowly bringing information from my resume in [roxo.dev.br/resume](https://roxo.dev.br/resume) to this github profile.
-
 # </> Languages
 
 - Portuguese – Native
 - English – Advanced
 - Spanish – Advanced
-- French – Basic (intending to study more)
+- French – Basic
 
 # </> Education
 
@@ -29,12 +27,11 @@ Completed - 2016 to 2018
 Universidade Salvador (UNIFACS)<br>
 Completed – 2009 to 2014
 
-
 # </> Work experience
 
 ## Actual jobs
 
-- Systems Analyst (full-time) – PHP, Laravel, Vue.js, JavaScript, MongoDB, Redis<br>
+- Software Developer (full-time) – PHP, Laravel, Vue.js, JavaScript, MongoDB, Redis<br>
 Jettax – September/2021 until nowadays
 - College Teacher (part-time, two days a week, night shift)<br>
 Subjects: Algorithms; Object-Oriented Programming, Web Development (frontend); and Web Development (backend)<br>
@@ -44,36 +41,36 @@ União Metropolitana de Educação e Cultura (UNIME) – March/2021 until nowada
 
 ### Full time
 
-- SR Systems Analyst (full-time) – PHP, Laravel, Vue.js, JavaScript, SQL Server, MongoDB<br>
+- SR Software Developer – PHP, Laravel, Vue.js, JavaScript, SQL Server, MongoDB<br>
 Capgemini – July/2020 until September/2021
-- Systems Analyst – PHP, Laravel, Lumen, Flutter, Dart, IONIC, Angular, TypeScript, SQL Server, Firebird<br>
+- Software Developer – PHP, Laravel, Lumen, Flutter, Dart, IONIC, Angular, TypeScript, SQL Server, Firebird<br>
 Assembleia Legislativa da Bahia (ALBA) – May/2019 until June/2020
-- JR Systems Analyst – PHP, CodeIgniter, PostgreSQL<br>
+- JR Software Developer – PHP, CodeIgniter, PostgreSQL<br>
 eCGlobal – August/2018 until November/2018
-- JR Systems Analyst – Java, Camunda, Cassandra <br>
+- JR Software Developer – Java, Camunda, Cassandra <br>
 Ericsson Inovação S. A. (EISA) – August/2017 until November/2017
 - Researcher – OpenCV, C/C++, MATLAB, LaTeX<br>
 Fundo de Amparo à Pesquisa no Estado da Bahia (FAPESB) – September/2015 until August/2016 (temporary: 1 year)
 - Technical School Teacher<br>
 Subjects: Algorithms; Object-oriented Programming; Databases; Web Development (frontend); Web Development (backend); Applied Math; and Completion of Course Work<br>
 Serviço Nacional de Aprendizagem Industrial (SENAI) – February/2014 until February/2015 (temporary: 1 year)
-- JR Systems Analyst – Delphi, Firebird<br>
+- JR Software Developer – Delphi, Firebird<br>
 Colégio e Faculdade São Tomaz de Aquino – November/2006 until January/2009
 
 ### Temporary
 
-- Systems Analyst – PHP, Laravel, MySQL<br>
+- Software Developer – PHP, Laravel, MySQL<br>
 Sábio Portal Educacional – August/2019 until March/2020 (freelancer)
-- Systems Analyst – IONIC, Angular, TypeScript, Python<br>
+- Software Developer – IONIC, Angular, TypeScript, Python<br>
 StartOnApp – October/2018 until May/2019 (freelancer)
-- Systems Analyst – PHP, MySQL<br>
+- Software Developer – PHP, MySQL<br>
 Serviço Nacional de Aprendizagem Industrial (SENAI) – November/2017 until February/2018 (3 months)
 - Technical School Teacher<br>
 Subjects: Projects of Applications<br>
 Serviço Nacional de Aprendizagem Industrial (SENAI) – August/2017 until August/2017 (60 hours)
-- Systems Analyst – PHP, MySQL, IONIC, Angular, Typescript<br>
+- Software Developer – PHP, MySQL, IONIC, Angular, Typescript<br>
 Quântica Comunicação Digital – March/2017 until June/2017 (freelancer)
-- Systems Analyst – PHP, MySQL<br>
+- Software Developer – PHP, MySQL<br>
 Serviço Nacional de Aprendizagem Industrial (SENAI) – September/2016 until December/2016 (3 months)
 - Technical School Teacher<br>
 Subjects: Data Modelling; Atelier Platform Development; Microsoft Windows; and Microsoft Office<br>
@@ -84,11 +81,11 @@ Centro Tecnológico Social do Pelourinho e Dossier Digital – January/2011 unti
 - College Teacher<br>
 Subject: Algorithms<br>
 Universidade Federal da Bahia (UFBA) – May/2017 until September/2017 (temporary: 1 semester)
-- Systems Analyst – PHP, MySQL<br>
+- Software Developer – PHP, MySQL<br>
 CNP Promotora – Correspondente Bradesco Promotora – April/2012 until February/2013
-- Systems Analyst – Delphi, Firebird<br>
+- Software Developer – Delphi, Firebird<br>
 RH Soft – November/2011 until March/2012
-- Systems Analyst – PHP, MySQL<br>
+- Software Developer – PHP, MySQL<br>
 eCGlobal – November/2009 until January/2011
 - Technical Support<br>
 Faculdade Área 1 – April/2009 until September/2009
@@ -185,6 +182,8 @@ Faculdade Área 1 – April/2009 until September/2009
 - LinguÁgil 2010 (2010)
 - III Semana TIC da Bahia (2009)
 - II Semana TIC da Bahia (2008)
-- Volunteer work
+
+# </> Volunteer work
+
 - Introduction to the use of computers, Office and Internet in social projects (15h, UNIFACS, 2013)
 - Introduction to the use of computers, Office and Internet in social projects (18h, UNIFACS, 2010)
