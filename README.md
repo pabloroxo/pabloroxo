@@ -14,15 +14,12 @@ Hello, everyone! I'm Pablo Roxo, a software developer from Salvador, Brazil.
 - Master's in Software and Product Engineering<br>
 Instituto Federal da Bahia (IFBA)<br>
 Ongoing – 2020 to 2022
-
 - Specialization in Data Science & Big Data<br>
 Pontifícia Universidade Católica de Minas Gerais (PUC Minas)<br>
 Completed – 2019 to 2021
-
 - Specialization in Mobile Apps Development<br>
 Serviço Nacional de Aprendizagem Industrial (SENAI)<br>
 Completed - 2016 to 2018
-
 - Bachelor's in Computer Science<br>
 Universidade Salvador (UNIFACS)<br>
 Completed – 2009 to 2014
