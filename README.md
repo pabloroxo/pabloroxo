@@ -1,15 +1,15 @@
-## </> About me
+## 😎 About me
 
 Hello, everyone! I'm Pablo Roxo, a software developer and a college teacher.
 
-## </> Languages
+## 🌎 Languages
 
 - Portuguese – Native
 - English – Advanced
 - Spanish – Advanced
 - French – Basic
 
-## </> Education
+## 🎓 Education
 
 - Master's in Software and Product Engineering<br>
 Instituto Federal da Bahia (IFBA)<br>
@@ -24,7 +24,7 @@ Completed - 2016 to 2018
 Universidade Salvador (UNIFACS)<br>
 Completed – 2009 to 2014
 
-## </> Work experience
+## 💼 Work experience
 
 ### Actual jobs
 
@@ -87,18 +87,18 @@ eCGlobal – November/2009 until January/2011
 - Technical Support<br>
 Faculdade Área 1 – April/2009 until September/2009
 
-## </> Published papers
+## 📄 Published papers
 
 - ROXO. P.; MARQUES NETO, M. C. 2DrowSys: An Anti-drowsiness Device for Motorcyclists. In: WEBMEDIA’21 – XXVII Simpósio Brasileiro de Sistemas Multimídia e Web. São João del Rei-MG. 2021.
 - ROXO. P.; SALVADOR, L. do N. BlinALT: Projeto de um Sistema Colaborativo de Audiodescrição de Imagens para Deficientes Visuais. In: WEPGCOMP’17 – II Workshop de Estudantes do Programa de Pós-graduação em Ciência da Computação. Salvador-BA. 2017.
 - PENHA, J. P. G.; ROXO, P.; OLIVEIRA, L. R. Visual Analysis of Morphological Features of Live Cattle From RGB-D-T Data. In: SIBGRAPI’16 – XXIX Conference on Graphics, Patterns and Images. São José dos Campos-SP. 2016.
 
-## </> Participation in hackathons
+## 💻 Participation in hackathons
 - Competitor at HackSerpro: Inovação pelo Brasil (Serpro, 2020)
 - Mentor and technical appraiser at Hackathon MPBA 2019: Maratona de Programação em Prol da Sociedade (MPBA, 2019)
 - Mentor at Maratona de Inovação: Hackathon + UJ (Unijorge, 2018)
  
-## </> Scientific divulgation
+## 👨‍🏫 Scientific divulgation
 
 ### Courses given
 
@@ -119,7 +119,7 @@ Faculdade Área 1 – April/2009 until September/2009
 - Location-based mobile games: aa project of a location-based game (1h, UNIFACS, 2013)
 - The relevance of Mathematics’ subjects in Computer Science course (1h, UNIFACS, 2013)
 
-## </> Courses
+## 👨‍🏫 Courses
 
 - Robot Beginner with Selenium Webdriver (5h, QAninja Academy, 2021).
 - Computational Reasoning (4h, UFBA, 2018)
@@ -136,7 +136,7 @@ Faculdade Área 1 – April/2009 until September/2009
 - Installation and maintenance of computers and networks (120h, SOS Computadores, 2007)
 - Robotics with Lego Mindstorm (8h, UNIFACS, 2006)
 
-## </> Lectures
+## 👨‍🏫 Lectures
 
 - Web automation (web-scraping) with Python (2h, Hashtag Treinamentos, 2021)
 - Complete project of Data Science + Machine Learning (2h, Hashtag Treinamentos, 2021)
@@ -159,7 +159,7 @@ Faculdade Área 1 – April/2009 until September/2009
 - ITIL and COBIT (3h, FIB, 2009)
 - iOS x Android (2h, UNIFACS, 2009)
 
-## </> Events
+## 👨‍🏫 Events
 
 - XXVII WebMedia  (speaker, 2021)
 - Cursos de Férias – UNIME (speaker, 2021)
@@ -185,7 +185,7 @@ Faculdade Área 1 – April/2009 until September/2009
 - III Semana TIC da Bahia (2009)
 - II Semana TIC da Bahia (2008)
 
-## </> Volunteer work
+## 👨‍🏫 Volunteer work
 
 - Introduction to the use of computers, Office and Internet in social projects (15h, UNIFACS, 2013)
 - Introduction to the use of computers, Office and Internet in social projects (18h, UNIFACS, 2010)
