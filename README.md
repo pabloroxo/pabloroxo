@@ -1,6 +1,6 @@
 ## </> About me
 
-Hello, everyone! I'm Pablo Roxo, a software developer from Salvador, Brazil.
+Hello, everyone! I'm Pablo Roxo, a software developer and a college teacher.
 
 ## </> Languages
 
