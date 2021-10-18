@@ -98,7 +98,9 @@ Faculdade Área 1 – April/2009 until September/2009
 - Mentor and technical appraiser at Hackathon MPBA 2019: Maratona de Programação em Prol da Sociedade (MPBA, 2019)
 - Mentor at Maratona de Inovação: Hackathon + UJ (Unijorge, 2018)
  
-## </> Courses and lectures given
+## </> Scientific divulgation
+
+### Courses given
 
 - Manipulating and testing the frontend with Robot Framework (3h, UNIME, 2021)
 - Manipulating and testing the backend with Postman (3h, UNIME, 2021)
@@ -106,10 +108,13 @@ Faculdade Área 1 – April/2009 until September/2009
 - Software versioning with Git (3h, UNIME, 2021)
 - Laravel: Hands On! (8h, Espaço Colabore, 2019)
 - Mobile apps development (IONIC) with webservice manipulation (PHP) (4h, UFBA, 2019)
+- Digital Image Processing: applications with OpenCV in C/C++ (4h, UFBA, 2015)
+
+### Lectures given
+
 - Assistive Technology: Computer Science as human function restorer of people with disabilities (1h, UFBA, 2019)
 - BlinG: a gamebook platform for mobile devices and users with visual impairment (1h, SENAI, 2018)
 - Digital Image Processing: a theoretical and practical introduction with OpenCV (1h, UFBA, 2015)
-- Digital Image Processing: applications with OpenCV in C/C++ (4h, UFBA, 2015)
 - Ubiquitous Computing: omnipresence of technology (2h, SENAI, 2014)
 - Location-based mobile games: aa project of a location-based game (1h, UNIFACS, 2013)
 - The relevance of Mathematics’ subjects in Computer Science course (1h, UNIFACS, 2013)
