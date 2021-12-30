@@ -33,7 +33,7 @@ Completed – 2009 to 2014
 ### Actual job
 
 - Software Developer – PHP, Laravel, Vue.js, JavaScript, MongoDB, Redis<br>
-Jettax – September/2021 until nowadays
+Jettax Automação Fiscal – September/2021 until nowadays
 
 ### Previous jobs
 
