@@ -4,7 +4,7 @@ Hello, everyone! I'm Pablo Roxo, a full stack developer currently working with L
 
 ## 🛠️ Best skills
 
-Software development on PHP platform, with or without frameworks like Laravel. Also improving day by day my skills with Vue.js and frontend in general. All the time I worked with relational databases, such as SQL Server and MySQL, but I'm currently working with NoSQL databases, such as MongoDB.
+Software development on PHP platform, with or without frameworks like Laravel. Also improving day by day my skills with Vue.js and frontend in general. All the time I worked with relational databases, such as SQL Server and MySQL, but I'm currently working with NoSQL databases, precisely MongoDB.
 
 ## 🌎 Languages
 
