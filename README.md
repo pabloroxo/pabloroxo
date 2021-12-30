@@ -1,6 +1,10 @@
 ## 😎 About me
 
-Hello, everyone! I'm Pablo Roxo, a software developer and a college teacher.
+Hello, everyone! I'm Pablo Roxo, a full stack developer currently working with Laravel, Vue.js and MongoDB.
+
+## 🛠️ Best skills
+
+Software development on PHP platform, with or without frameworks like Laravel. Also improving day by day my skills with Vue.js and frontend in general. All the time I worked with relational databases, such as SQL Server and MySQL, but I'm currently working with NoSQL databases, such as MongoDB.
 
 ## 🌎 Languages
 
@@ -26,21 +30,21 @@ Completed – 2009 to 2014
 
 ## 💼 Work experience
 
-### Actual jobs
+### Actual job
 
-- Software Developer (full-time) – PHP, Laravel, Vue.js, JavaScript, MongoDB, Redis<br>
+- Software Developer – PHP, Laravel, Vue.js, JavaScript, MongoDB, Redis<br>
 Jettax – September/2021 until nowadays
-- College Teacher (part-time, two days a week, night shift)<br>
-Subjects: Algorithms; Object-Oriented Programming, Web Development (frontend); and Web Development (backend)<br>
-União Metropolitana de Educação e Cultura (UNIME) – March/2021 until nowadays
 
 ### Previous jobs
 
-#### Full time
+#### Full time/part time
 
+- College Teacher (part-time, two days a week, night shift)<br>
+Subjects: Algorithms; Object-Oriented Programming, Web Development (frontend); and Web Development (backend)<br>
+União Metropolitana de Educação e Cultura (UNIME) – March/2021 until December/2021
 - SR Software Developer – PHP, Laravel, Vue.js, JavaScript, SQL Server, MongoDB<br>
 Capgemini – July/2020 until September/2021
-- Software Developer – PHP, Laravel, Lumen, Flutter, Dart, IONIC, Angular, TypeScript, SQL Server, Firebird<br>
+- Software Developer – PHP, Laravel, Lumen, JavaScript, jQuery, Flutter, Dart, IONIC, Angular, TypeScript, SQL Server, Firebird<br>
 Assembleia Legislativa da Bahia (ALBA) – May/2019 until June/2020
 - JR Software Developer – PHP, CodeIgniter, PostgreSQL<br>
 eCGlobal – August/2018 until November/2018
@@ -62,7 +66,7 @@ Sábio Portal Educacional – August/2019 until March/2020 (freelancer)
 StartOnApp – October/2018 until May/2019 (freelancer)
 - Software Developer – PHP, MySQL<br>
 Serviço Nacional de Aprendizagem Industrial (SENAI) – November/2017 until February/2018 (3 months)
-- Technical School Teacher<br>
+- College Teacher<br>
 Subjects: Projects of Applications<br>
 Serviço Nacional de Aprendizagem Industrial (SENAI) – August/2017 until August/2017 (60 hours)
 - Software Developer – PHP, MySQL, IONIC, Angular, Typescript<br>
