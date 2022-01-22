@@ -29,7 +29,7 @@ Completed – 2009 to 2014
 
 ### Actual job
 
-- Software Developer – PHP, Laravel, Vue.js, JavaScript, MongoDB, Redis, Beanstalkd<br>
+- Software Developer – PHP, Laravel, Vue.js, JavaScript, MongoDB, Redis, Beanstalkd, S3<br>
 Jettax Automação Fiscal – September/2021 until nowadays
 
 ### Previous jobs
