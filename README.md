@@ -1,10 +1,15 @@
-## 😎 About me
+## ✉️ Contact and links
 
-Hello, everyone! I'm Pablo Roxo, a full stack developer currently working with Laravel, Vue.js and MongoDB.
+- +55 71 9 2000 3786
+- pabloricardoroxosilva@gmail.com
+- https://www.linkedin.com/in/pabloroxo
+- https://github.com/pabloroxo
+- https://www.instagram.com/pabloroxo/
 
-## 🛠️ Best skills
+## 🙂 About me
 
-Software development on PHP platform, with or without frameworks like Laravel. Also improving day by day my skills with Vue.js and frontend in general. All the time I worked with relational databases, such as SQL Server and MySQL, but I'm currently working with NoSQL databases, precisely MongoDB.
+Full stack developer currently working with Laravel and Vue.js. As a computer scientist, I love everything about programming. Willing to be a software architect. I have worked for over 10 years with software development, mostly in PHP platform, with or without framework. Also I am experienced with relational and NoSQL databases. 
+
 
 ## 🌎 Languages
 
