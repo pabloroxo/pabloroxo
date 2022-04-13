@@ -1,10 +1,8 @@
 ## ✉️ Contact and links
 
-- +55 71 9 2000 3786
-- pabloricardoroxosilva@gmail.com
+- Due to receiving multiple spam in my mailbox, I'll ask you to contact me in my LinkedIn profile.
 - https://www.linkedin.com/in/pabloroxo
 - https://github.com/pabloroxo
-- https://www.instagram.com/pabloroxo/
 
 ## 🙂 About me
 
