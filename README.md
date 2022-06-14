@@ -44,7 +44,7 @@ Jettax Automação Fiscal – September/2021 until nowadays
 
 - College Teacher (part-time, two days a week, night shift)<br>
 Subjects: Algorithms; Object-Oriented Programming, Web Development (frontend); and Web Development (backend)<br>
-União Metropolitana de Educação e Cultura (UNIME) – March/2021 until January/2022
+União Metropolitana de Educação e Cultura (UNIME) – January/2021 until December/2021 (temporary: 2 semesters)
 - SR Software Engineer – PHP, Laravel, Vue.js, JavaScript, SQL Server, MongoDB<br>
 Capgemini – July/2020 until September/2021
 - Software Engineer – PHP, Laravel, Lumen, JavaScript, jQuery, Flutter, Dart, IONIC, Angular, TypeScript, SQL Server, Firebird<br>
