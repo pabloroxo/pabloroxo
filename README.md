@@ -1,12 +1,12 @@
 ## ✉️ Contact and links
 
-- Due to receiving multiple spam in my mailbox, I'll ask you to contact me in my LinkedIn profile.
+- Due to receiving multiple spam in my mailbox, I'll ask you to reach me at my LinkedIn profile.
 - https://www.linkedin.com/in/pabloroxo
 - https://github.com/pabloroxo
 
 ## 🙂 About me
 
-Full stack developer currently working with Laravel and Vue.js. As a computer scientist, I love everything about programming. Willing to be a software architect. I have worked for over 10 years with software development, mostly in PHP platform, with or without framework. Also I am experienced with relational and NoSQL databases. 
+Software engineer currently working with Laravel and Vue.js. As a computer scientist, I love everything about programming. Willing to be a software architect. I have worked for over 10 years with software development, mostly in PHP platform, with or without framework. Also I am experienced with relational and NoSQL databases. 
 
 
 ## 🌎 Languages
@@ -35,7 +35,7 @@ Completed – 2009 to 2014
 
 ### Actual job
 
-- Software Developer – PHP, Laravel, Vue.js, JavaScript, MongoDB, Redis, Beanstalkd, S3<br>
+- Software Engineer – PHP, Laravel, Vue.js, JavaScript, MongoDB, Redis, Beanstalkd, S3<br>
 Jettax Automação Fiscal – September/2021 until nowadays
 
 ### Previous jobs
@@ -45,36 +45,36 @@ Jettax Automação Fiscal – September/2021 until nowadays
 - College Teacher (part-time, two days a week, night shift)<br>
 Subjects: Algorithms; Object-Oriented Programming, Web Development (frontend); and Web Development (backend)<br>
 União Metropolitana de Educação e Cultura (UNIME) – March/2021 until January/2022
-- SR Software Developer – PHP, Laravel, Vue.js, JavaScript, SQL Server, MongoDB<br>
+- SR Software Engineer – PHP, Laravel, Vue.js, JavaScript, SQL Server, MongoDB<br>
 Capgemini – July/2020 until September/2021
-- Software Developer – PHP, Laravel, Lumen, JavaScript, jQuery, Flutter, Dart, IONIC, Angular, TypeScript, SQL Server, Firebird<br>
+- Software Engineer – PHP, Laravel, Lumen, JavaScript, jQuery, Flutter, Dart, IONIC, Angular, TypeScript, SQL Server, Firebird<br>
 Assembleia Legislativa da Bahia (ALBA) – May/2019 until June/2020
-- JR Software Developer – PHP, CodeIgniter, PostgreSQL<br>
+- JR Software Engineer – PHP, CodeIgniter, PostgreSQL<br>
 eCGlobal – August/2018 until November/2018
-- JR Software Developer – Java, Camunda, Cassandra <br>
+- JR Software Engineer – Java, Camunda, Cassandra <br>
 Ericsson Inovação S. A. (EISA) – August/2017 until November/2017
 - Researcher – OpenCV, C/C++, MATLAB, LaTeX<br>
 Fundo de Amparo à Pesquisa no Estado da Bahia (FAPESB) – September/2015 until August/2016 (temporary: 1 year)
 - Technical School Teacher<br>
 Subjects: Algorithms; Object-oriented Programming; Databases; Web Development (frontend); Web Development (backend); Applied Math; and Completion of Course Work<br>
 Serviço Nacional de Aprendizagem Industrial (SENAI) – February/2014 until February/2015 (temporary: 1 year)
-- JR Software Developer – Delphi, Firebird<br>
+- JR Software Engineer – Delphi, Firebird<br>
 Colégio e Faculdade São Tomaz de Aquino – November/2006 until January/2009
 
 #### Temporary
 
-- Software Developer – PHP, Laravel, MySQL<br>
+- Software Engineer – PHP, Laravel, MySQL<br>
 Sábio Portal Educacional – August/2019 until March/2020 (freelancer)
-- Software Developer – IONIC, Angular, TypeScript, Python<br>
+- Software Engineer – IONIC, Angular, TypeScript, Python<br>
 StartOnApp – October/2018 until May/2019 (freelancer)
-- Software Developer – PHP, MySQL<br>
+- Software Engineer – PHP, MySQL<br>
 Serviço Nacional de Aprendizagem Industrial (SENAI) – November/2017 until February/2018 (3 months)
 - College Teacher<br>
 Subjects: Projects of Applications<br>
 Serviço Nacional de Aprendizagem Industrial (SENAI) – August/2017 until August/2017 (60 hours)
-- Software Developer – PHP, MySQL, IONIC, Angular, Typescript<br>
+- Software Engineer – PHP, MySQL, IONIC, Angular, Typescript<br>
 Quântica Comunicação Digital – March/2017 until June/2017 (freelancer)
-- Software Developer – PHP, MySQL<br>
+- Software Engineer – PHP, MySQL<br>
 Serviço Nacional de Aprendizagem Industrial (SENAI) – September/2016 until December/2016 (3 months)
 - Technical School Teacher<br>
 Subjects: Data Modelling; Atelier Platform Development; Microsoft Windows; and Microsoft Office<br>
@@ -85,11 +85,11 @@ Centro Tecnológico Social do Pelourinho e Dossier Digital – January/2011 unti
 - College Teacher<br>
 Subject: Algorithms<br>
 Universidade Federal da Bahia (UFBA) – May/2017 until September/2017 (temporary: 1 semester)
-- Software Developer – PHP, MySQL<br>
+- Software Engineer – PHP, MySQL<br>
 CNP Promotora – Correspondente Bradesco Promotora – April/2012 until February/2013
-- Software Developer – Delphi, Firebird<br>
+- Software Engineer – Delphi, Firebird<br>
 RH Soft – November/2011 until March/2012
-- Software Developer – PHP, MySQL<br>
+- Software Engineer – PHP, MySQL<br>
 eCGlobal – November/2009 until January/2011
 - Technical Support<br>
 Faculdade Área 1 – April/2009 until September/2009
@@ -126,7 +126,7 @@ Faculdade Área 1 – April/2009 until September/2009
 - Location-based mobile games: aa project of a location-based game (1h, UNIFACS, 2013)
 - The relevance of Mathematics’ subjects in Computer Science course (1h, UNIFACS, 2013)
 
-## 👨‍🏫 Courses
+## 👨‍🏫 Courses taken
 
 - Robot Beginner with Selenium Webdriver (5h, QAninja Academy, 2021).
 - Computational Reasoning (4h, UFBA, 2018)
@@ -143,8 +143,10 @@ Faculdade Área 1 – April/2009 until September/2009
 - Installation and maintenance of computers and networks (120h, SOS Computadores, 2007)
 - Robotics with Lego Mindstorm (8h, UNIFACS, 2006)
 
-## 👨‍🏫 Lectures
+## 👨‍🏫 Lectures taken
 
+-	Unidev Tech Day: Blockchain and Bitcoin (3h, UNIME, 2022)
+-	Artificial Intelligence applied in companies (2h, SEBRAE, 2022)
 - Web automation (web-scraping) with Python (2h, Hashtag Treinamentos, 2021)
 - Complete project of Data Science + Machine Learning (2h, Hashtag Treinamentos, 2021)
 - Data analysis with Python (2h, Hashtag Treinamentos, 2021)
