@@ -18,9 +18,6 @@ Software engineer currently working with Laravel and Vue.js. As a computer scien
 
 ## 🎓 Education
 
-- Master's in System Engineering<br>
-Instituto Federal da Bahia (IFBA)<br>
-Ongoing
 - Specialization in Data Science & Big Data<br>
 Pontifícia Universidade Católica de Minas Gerais (PUC Minas)<br>
 Completed – 2019 to 2021
