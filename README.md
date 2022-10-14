@@ -31,13 +31,13 @@ Completed – 2009 to 2014
 
 ### Actual job
 
-- Software Engineer – PHP, Laravel, Vue.js, JavaScript, MongoDB, Redis, Beanstalkd, S3<br>
-Jettax Automação Fiscal – September/2021 until nowadays
+None.
 
 ### Previous jobs
 
 #### Full time/part time
-
+- Software Engineer – PHP, Laravel, Vue.js, JavaScript, MongoDB, Redis, Beanstalkd, S3<br>
+Jettax Automação Fiscal – September/2021 until nowadays
 - College Teacher (part-time, two days a week, night shift)<br>
 Subjects: Algorithms; Object-Oriented Programming, Web Development (frontend); and Web Development (backend)<br>
 União Metropolitana de Educação e Cultura (UNIME) – January/2021 until December/2021 (temporary: 2 semesters)
