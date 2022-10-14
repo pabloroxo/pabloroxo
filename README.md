@@ -5,7 +5,7 @@ Due to receiving multiple spam in my mailbox, I'll ask you to reach me at my Lin
 
 ## 🙂 About me
 
-Software engineer currently working with Laravel and Vue.js. As a computer scientist, I love everything about programming. Willing to be a software architect. I have worked for over 10 years with software development, mostly in PHP platform, with or without framework. Also I am experienced with relational and NoSQL databases. 
+<b>As a computer scientist and software engineer, I love absolute everything about computing and programming.</b>
 
 
 ## 🌎 Languages
