@@ -1,8 +1,7 @@
 ## ✉️ Contact and links
 
-- Due to receiving multiple spam in my mailbox, I'll ask you to reach me at my LinkedIn profile.
-- https://www.linkedin.com/in/pabloroxo
-- https://github.com/pabloroxo
+Due to receiving multiple spam in my mailbox, I'll ask you to reach me at my LinkedIn profile: https://www.linkedin.com/in/pabloroxo
+
 
 ## 🙂 About me
 
