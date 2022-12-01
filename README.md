@@ -5,7 +5,7 @@ Due to receiving multiple spam in my mailbox, I'll ask you to reach me at my Lin
 
 ## 🙂 About me
 
-<b>As a computer scientist and software engineer, I love absolute everything about computing and programming.</b>
+<b>As a computer scientist and software engineer, I love absolute everything about computing and programming. Looking for job positions to develop applications in Vue.js or Flutter in the frontend, and Laravel in the backend. I’m also open to work with other stacks including Angular, React + Native, Kotlin, Swift, Python, Go, Rust…</b>
 
 
 ## 🌎 Languages
@@ -36,7 +36,7 @@ None.
 ### Previous jobs
 
 #### Full time/part time
-- Software Engineer – PHP, Laravel, Vue.js, JavaScript, MongoDB, Redis, Beanstalkd, S3<br>
+- Software Engineer – PHP, Laravel, Vue.js, JavaScript, MongoDB, Redis, Beanstalkd, S3, Docker<br>
 Jettax Automação Fiscal – September/2021 until nowadays
 - College Teacher (part-time, two days a week, night shift)<br>
 Subjects: Algorithms; Object-Oriented Programming, Web Development (frontend); and Web Development (backend)<br>
@@ -45,7 +45,7 @@ União Metropolitana de Educação e Cultura (UNIME) – January/2021 until Dece
 Capgemini – July/2020 until September/2021
 - Software Engineer – PHP, Laravel, Lumen, JavaScript, jQuery, Flutter, Dart, IONIC, Angular, TypeScript, SQL Server, Firebird<br>
 Assembleia Legislativa da Bahia (ALBA) – May/2019 until June/2020
-- JR Software Engineer – PHP, CodeIgniter, PostgreSQL<br>
+- JR Software Engineer – PHP, CodeIgniter, PostgreSQL, Docker<br>
 eCGlobal – August/2018 until November/2018
 - JR Software Engineer – Java, Camunda, Cassandra <br>
 Ericsson Inovação S. A. (EISA) – August/2017 until November/2017
@@ -115,6 +115,7 @@ Faculdade Área 1 – April/2009 until September/2009
 
 ### Lectures given
 
+-	IT Professional's Career Ahead to 2023 (2h, ICEIA, 2023)
 - Assistive Technology: Computer Science as human function restorer of people with disabilities (1h, UFBA, 2019)
 - BlinG: a gamebook platform for mobile devices and users with visual impairment (1h, SENAI, 2018)
 - Digital Image Processing: a theoretical and practical introduction with OpenCV (1h, UFBA, 2015)
