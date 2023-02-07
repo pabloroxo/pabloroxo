@@ -5,7 +5,11 @@ Due to receiving multiple spam in my mailbox, I'll ask you to reach me at my Lin
 
 ## 🙂 About me
 
-<b>As a computer scientist and software engineer, I love absolute everything about computing and programming. Looking for job positions to develop applications in Vue.js or Flutter in the frontend, and Laravel in the backend. I’m also open to work with other stacks including Angular, React + Native, Kotlin, Swift, Python, Go, Rust…</b>
+<b>As a computer scientist and software engineer, I love absolute everything about computing and programming.</b><br>
+<b>Looking for job positions as full stack developer. My major experience is with Laravel, Vue.js and Flutter.</b><br>
+<b>I’m also open to work with other stacks including Angular, React + Native, Flutter, Kotlin, Swift, Node, Python, Go…</b><br>
+<b>Experienced in databases, relational or not.</b><br>
+<b>Willing to be a software architect.</b>
 
 
 ## 🌎 Languages
@@ -36,16 +40,16 @@ None.
 ### Previous jobs
 
 #### Full time/part time
-- Software Engineer – PHP, Laravel, Vue.js, JavaScript, MongoDB, Redis, Beanstalkd, S3, Docker<br>
+- Software Engineer – PHP, Laravel, Vue.js, JavaScript, Bootstrap, MongoDB, Redis, Beanstalkd, S3, Docker<br>
 Jettax Automação Fiscal – September/2021 until nowadays
 - College Teacher (part-time, two days a week, night shift)<br>
 Subjects: Algorithms; Object-Oriented Programming, Web Development (frontend); and Web Development (backend)<br>
 União Metropolitana de Educação e Cultura (UNIME) – January/2021 until December/2021 (temporary: 2 semesters)
 - SR Software Engineer – PHP, Laravel, Vue.js, JavaScript, SQL Server, MongoDB, Robot, Swagger<br>
 Capgemini – July/2020 until September/2021
-- Software Engineer – PHP, Laravel, Lumen, JavaScript, jQuery, Flutter, Dart, IONIC, Angular, TypeScript, SQL Server, Firebird<br>
+- Software Engineer – PHP, Laravel, Lumen, JavaScript, jQuery, Bootstrap, Flutter, Dart, IONIC, Angular, TypeScript, SQL Server, Firebird<br>
 Assembleia Legislativa da Bahia (ALBA) – May/2019 until June/2020
-- JR Software Engineer – PHP, CodeIgniter, PostgreSQL, Docker<br>
+- JR Software Engineer – PHP, CodeIgniter, JavaScript, PostgreSQL, Docker<br>
 eCGlobal – August/2018 until November/2018
 - JR Software Engineer – Java, Camunda, Cassandra <br>
 Ericsson Inovação S. A. (EISA) – August/2017 until November/2017
@@ -59,18 +63,18 @@ Colégio e Faculdade São Tomaz de Aquino – November/2006 until January/2009
 
 #### Temporary
 
-- Software Engineer – PHP, Laravel, MySQL<br>
+- Software Engineer – PHP, Laravel, JavaScript, MySQL<br>
 Sábio Portal Educacional – August/2019 until March/2020 (freelancer)
-- Software Engineer – IONIC, Angular, TypeScript, Python<br>
+- Software Engineer – JavaScript, Boostrap, IONIC, Angular, TypeScript<br>
 StartOnApp – October/2018 until May/2019 (freelancer)
-- Software Engineer – PHP, MySQL<br>
+- Software Engineer – PHP, JavaScript, jQuery, MySQL<br>
 Serviço Nacional de Aprendizagem Industrial (SENAI) – November/2017 until February/2018 (3 months)
 - College Teacher<br>
 Subjects: Projects of Applications<br>
 Serviço Nacional de Aprendizagem Industrial (SENAI) – August/2017 until August/2017 (60 hours)
-- Software Engineer – PHP, MySQL, IONIC, Angular, Typescript<br>
+- Software Engineer – PHP, JavaScript, jQuery, Bootstrap, IONIC, Angular, TypeScript, MySQL<br>
 Quântica Comunicação Digital – March/2017 until June/2017 (freelancer)
-- Software Engineer – PHP, MySQL<br>
+- Software Engineer – PHP, JavaScript, jQuery, MySQL<br>
 Serviço Nacional de Aprendizagem Industrial (SENAI) – September/2016 until December/2016 (3 months)
 - Technical School Teacher<br>
 Subjects: Data Modelling; Atelier Platform Development; Microsoft Windows; and Microsoft Office<br>
@@ -85,7 +89,7 @@ Universidade Federal da Bahia (UFBA) – May/2017 until September/2017 (temporar
 CNP Promotora – Correspondente Bradesco Promotora – April/2012 until February/2013
 - Software Engineer – Delphi, Firebird<br>
 RH Soft – November/2011 until March/2012
-- Software Engineer – PHP, MySQL<br>
+- Software Engineer – PHP, JavaScript, MySQL<br>
 eCGlobal – November/2009 until January/2011
 - Technical Support<br>
 Faculdade Área 1 – April/2009 until September/2009
