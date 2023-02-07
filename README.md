@@ -129,7 +129,10 @@ Faculdade Área 1 – April/2009 until September/2009
 
 ## 👨‍🏫 Courses taken
 
-- Robot Beginner with Selenium Webdriver (5h, QAninja Academy, 2021).
+- Fundamentals of Backend Communications and Protocols (26h, Udemy, 2023)
+- Robot Beginner with Selenium Webdriver (5h, QAninja Academy, 2021)
+- Creating your first Flutter app (2h, Balta, 2020)
+- Algorithms with Dart (5h, Balta, 2020)
 - Computational Reasoning (4h, UFBA, 2018)
 - Introduction to test automation in the context of the Java language (6h, UFBA, 2017)
 - #PraCegoVer: Image description course for social networks (4h, ALBA, 2017)
