@@ -1,15 +1,17 @@
 ## ✉️ Contact and links
 
-Due to receiving multiple spam in my mailbox, I'll ask you to reach me at my LinkedIn profile: https://www.linkedin.com/in/pabloroxo
+Reach me at my LinkedIn profile: https://www.linkedin.com/in/pabloroxo
 
 
 ## 🙂 About me
 
-<b>As a computer scientist and software engineer, I love absolute everything about computing and programming.</b><br>
-<b>Looking for job positions as full stack developer. My major experience is with Laravel, Vue.js and Flutter.</b><br>
-<b>I’m also open to work with other stacks including Angular, React + Native, Flutter, Kotlin, Swift, Node, Python, Go…</b><br>
-<b>Experienced in databases, relational or not.</b><br>
-<b>Willing to be a software architect.</b>
+<b>As a computer scientist and software engineer, I love absolute everything about computing and programming.</b>
+
+<b>Looking for job positions as full stack developer. My major experience is with Laravel, Vue.js and Flutter.</b>
+
+<b>I’m also open to work with other stacks such as Angular, React + Native, Node, Express, Nest, C#, Python, Go, Flutter, Kotlin, Swift… since I have some time get ready.</b>
+
+<b>Experienced in RESTful APIs, databases (relational or not), software requirements and user point of view. Willing to be a software architect.</b>
 
 
 ## 🌎 Languages
@@ -129,6 +131,7 @@ Faculdade Área 1 – April/2009 until September/2009
 
 ## 👨‍🏫 Courses taken
 
+- Flutter Hands On: From scratch to app (8h, Espaço Colabore, 2023)
 - Fundamentals of Backend Communications and Protocols (26h, Udemy, 2023)
 - Robot Beginner with Selenium Webdriver (5h, QAninja Academy, 2021)
 - Creating your first Flutter app (2h, Balta, 2020)
