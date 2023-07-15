@@ -225,6 +225,7 @@ Completed - 2009 to 2014
 
 ## 👨‍🏫 Lectures taken
 
+-	Flutter news for 2023 (1h, Google, 2023)
 -	Best Accessibility Practices in Android App Development (1h, Google, 2023)
 -	Incredible news for Android in 2023 (1h, Google, 2023)
 -	What’s new in CSS (1h, Google, 2023)
