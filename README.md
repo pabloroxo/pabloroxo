@@ -54,7 +54,7 @@ Completed - 2009 to 2014
   -	Subjects taught: Algorithms, Object-Oriented Programming II, Web Development I and Web Development II.
 
 - <b>Capgemini - July/2020 until September/2021</b>
-  -	Role: Senior Software Engineer and team leader.
+  -	Role: Senior Software Engineer and Team Leader.
   -	Project: Verbas. A software for complementing paycheck information with complex calculations, apart from an existing paycheck software. 
     -	Frontend: HTML, CSS, JavaScript, Bootstrap and Vue.
     -	Backend: PHP and Laravel.
