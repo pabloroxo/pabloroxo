@@ -110,7 +110,7 @@ Completed - 2009 to 2014
   -	Subjects taught: Algorithms, Object-oriented Programming, Databases, Web Development (frontend), Web Development (backend), Applied Math and Completion of Course Work
 
 - <b>Colégio e Faculdade São Tomaz de Aquino – November/2006 until January/2009</b>
-  -	Role: JR Software Engineer.
+  -	Role: Junior Software Engineer.
   -	Project: Jaguar. A software to manage all information about students, teachers and classes at an education institution.
   -	Technologies: Delphi, SQL and Firebird.
 
