@@ -2,105 +2,178 @@
 
 Reach me at my LinkedIn profile: https://www.linkedin.com/in/pabloroxo
 
-
 ## 🙂 About me
 
 <b>As a computer scientist and software engineer, I love absolute everything about computing and programming.</b>
 
-<b>Looking for job positions as full stack developer. My major experience is with Laravel, Vue.js and Flutter.</b>
-
-<b>I’m also open to work with other stacks such as Angular, React + Native, Node, Express, Nest, C#, Python, Go, Flutter, Kotlin, Swift… since I have some time get ready.</b>
-
 <b>Experienced in RESTful APIs, databases (relational or not), software requirements and user point of view. Willing to be a software architect.</b>
 
+<b>Willing to be a software engineering specialist and, in the future, a software architect.</b>
 
 ## 🌎 Languages
 
-- Portuguese – Native
-- English – Advanced
-- Spanish – Advanced
-- French – Basic
+- Portuguese - Native
+- English - Advanced
+- Spanish - Advanced
+- French - Basic
 
 ## 🎓 Education
 
 - Specialization in Data Science & Big Data<br>
 Pontifícia Universidade Católica de Minas Gerais (PUC Minas)<br>
-Completed – 2019 to 2021
+Completed - 2019 to 2021
 - Specialization in Mobile Apps Development<br>
 Serviço Nacional de Aprendizagem Industrial (SENAI)<br>
 Completed - 2016 to 2018
 - Bachelor's in Computer Science<br>
 Universidade Salvador (UNIFACS)<br>
-Completed – 2009 to 2014
+Completed - 2009 to 2014
 
 ## 💼 Work experience
 
 ### Actual job
 
-None.
+- <b>Aubay - July/2023 until nowadays.</b>
+  -	Role: Senior Software Engineer.
+  -	Project: not yet allocated.
 
 ### Previous jobs
 
 #### Full time/part time
-- Software Engineer – PHP, Laravel, Vue.js, JavaScript, Bootstrap, MongoDB, Redis, Beanstalkd, S3, Docker<br>
-Jettax Automação Fiscal – September/2021 until nowadays
-- College Teacher (part-time, two days a week, night shift)<br>
-Subjects: Algorithms; Object-Oriented Programming, Web Development (frontend); and Web Development (backend)<br>
-União Metropolitana de Educação e Cultura (UNIME) – January/2021 until December/2021 (temporary: 2 semesters)
-- SR Software Engineer – PHP, Laravel, Vue.js, JavaScript, SQL Server, MongoDB, Robot, Swagger<br>
-Capgemini – July/2020 until September/2021
-- Software Engineer – PHP, Laravel, Lumen, JavaScript, jQuery, Bootstrap, Flutter, Dart, IONIC, Angular, TypeScript, SQL Server, Firebird<br>
-Assembleia Legislativa da Bahia (ALBA) – May/2019 until June/2020
-- JR Software Engineer – PHP, CodeIgniter, JavaScript, PostgreSQL, Docker<br>
-eCGlobal – August/2018 until November/2018
-- JR Software Engineer – Java, Camunda, Cassandra <br>
-Ericsson Inovação S. A. (EISA) – August/2017 until November/2017
-- Researcher – OpenCV, C/C++, MATLAB, LaTeX<br>
-Fundo de Amparo à Pesquisa no Estado da Bahia (FAPESB) – September/2015 until August/2016 (temporary: 1 year)
-- Technical School Teacher<br>
-Subjects: Algorithms; Object-oriented Programming; Databases; Web Development (frontend); Web Development (backend); Applied Math; and Completion of Course Work<br>
-Serviço Nacional de Aprendizagem Industrial (SENAI) – February/2014 until February/2015 (temporary: 1 year)
-- JR Software Engineer – Delphi, Firebird<br>
-Colégio e Faculdade São Tomaz de Aquino – November/2006 until January/2009
+
+- <b>Jettax Automação Fiscal – September/2021 until October/2022</b>
+  -	Role: Software Engineer.
+  -	Project: Jettax 360. A software for accounting automation that retrieves all invoices from companies from different sources and then audit all of them, presenting an easy-to-read report for accountants and their managers.
+  -	Frontend: HTML, CSS, JavaScript, Bootstrap and Vue.
+  -	Backend: PHP and Laravel.
+  -	Database: MongoDB.
+  -	Others: Redis, Beanstalkd, Amazon S3 and Docker.
+
+- <b>União Metropolitana de Educação e Cultura (UNIME) - January/2021 until December/2022</b>
+  -	Role: College Teacher (part-time, two days a week, night shift).
+  -	Subjects taught: Algorithms, Object-Oriented Programming II, Web Development I and Web Development II.
+
+- <b>Capgemini - July/2020 until September/2021</b>
+  -	Role: Senior Software Engineer and team leader.
+  -	Project: Verbas. A software for complementing paycheck information with complex calculations, apart from an existing paycheck software. 
+    -	Frontend: HTML, CSS, JavaScript, Bootstrap and Vue.
+    -	Backend: PHP and Laravel.
+    -	Database: SQL and Microsoft SQL Server.
+    -	Others: Robot and Swagger.
+  -	Project: Uno. A software for managing the processing of confidential court cases.
+    -	Frontend: HTML, CSS, JavaScript, Bootstrap and Blade.
+    -	Backend: PHP and Laravel.
+    -	Database: MongoDB.
+  -	Project: Despesas Miúdas. A software for managing small government projects which don’t need public biddings.
+    -	Frontend: HTML, CSS, JavaScript, Bootstrap and Vue.
+    -	Backend: PHP and Laravel.
+    -	Database: : SQL and SQL Server.
+    -	Others: Robot, Swagger.
+
+- <b>Assembleia Legislativa da Bahia (ALBA) - May/2019 until June/2020</b>
+  -	Role: Software Engineer (government employee).
+  -	Project: Portal RH ALBA. A software for managing all information about government employees and politicians (deputies) of the state of Bahia.
+    -	Frontend: HTML, CSS, JavaScript, Bootstrap, jQuery and Datatables.
+    -	Backend: PHP, Laravel and Lumen.
+    -	Database: SQL, Microsoft SQL Server and Firebird.
+  -	Project: Portal RH ALBA. A mobile application that has the same content of Portal RH ALBA’s website. It was released in both Apple App Store and Google Play Store. This app was rewritten in Flutter and Dart, but this version wasn’t released.
+    -	Mobile: IONIC, Angular and TypeScript.
+    -	Backend: PHP and Laravel.
+    -	Database: SQL and Microsoft SQL Server.
+  -	Project: Constituição da Bahia. A mobile application with the entire constitution of the state of Bahia. It was released in both Apple App Store and Google Play Store.
+    -	Mobile: IONIC, Angular and TypeScript.
+    -	Backend: PHP and Laravel.
+    -	Database: SQL and Microsoft SQL Server.
+
+- <b>Junior Software Engineer - eCGlobal - August/2018 until November/2018</b>
+  -	Role: Junior Software Engineer.
+  -	Project: eCGlobal. A software for creating and managing custom social networks focused on surveys. Users could gather points and exchange for prizes after answering questions.
+  -	Frontend: HTML, CSS and JavaScript.
+  -	Backend: PHP and CodeIgniter.
+  -	Database: SQL and PostgreSQL.
+  -	Others: Docker.
+
+- <b>Junior Software Engineer – Ericsson Inovação S. A. (EISA) – August/2017 until November/2017</b>
+  -	Role: Junior Software Engineer.
+  -	Project: Revenue Manager (RM). A software for managing information of a mobile operator in Ukraine.
+  -	Backend: Java (SE).
+  -	Database: Cassandra.
+  -	Others: Camunda.
+
+- <b>Fundo de Amparo à Pesquisa no Estado da Bahia (FAPESB) – September/2015 until August/2016 (temporary: 1 year)</b>
+  -	Role: Researcher.
+  -	Project: during an uncompleted master’s program, I worked developing computer vision software to analyze marbling of beef cuts.
+  -	Technologies: C/C++, OpenCV, MATLAB and LaTeX.
+
+- <b>Serviço Nacional de Aprendizagem Industrial (SENAI) – February/2014 until February/2015 (temporary: 1 year)</b>
+  -	Role: Technical School Teacher.
+  -	Subjects taught: Algorithms, Object-oriented Programming, Databases, Web Development (frontend), Web Development (backend), Applied Math and Completion of Course Work
+
+- <b>Colégio e Faculdade São Tomaz de Aquino – November/2006 until January/2009</b>
+  -	Role: JR Software Engineer.
+  -	Project: Jaguar. A software to manage all information about students, teachers and classes at an education institution.
+  -	Technologies: Delphi, SQL and Firebird.
 
 #### Temporary
 
-- Software Engineer – PHP, Laravel, JavaScript, MySQL<br>
-Sábio Portal Educacional – August/2019 until March/2020 (freelancer)
-- Software Engineer – JavaScript, Boostrap, IONIC, Angular, TypeScript<br>
-StartOnApp – October/2018 until May/2019 (freelancer)
-- Software Engineer – PHP, JavaScript, jQuery, MySQL<br>
-Serviço Nacional de Aprendizagem Industrial (SENAI) – November/2017 until February/2018 (3 months)
-- College Teacher<br>
-Subjects: Projects of Applications<br>
-Serviço Nacional de Aprendizagem Industrial (SENAI) – August/2017 until August/2017 (60 hours)
-- Software Engineer – PHP, JavaScript, jQuery, Bootstrap, IONIC, Angular, TypeScript, MySQL<br>
-Quântica Comunicação Digital – March/2017 until June/2017 (freelancer)
-- Software Engineer – PHP, JavaScript, jQuery, MySQL<br>
-Serviço Nacional de Aprendizagem Industrial (SENAI) – September/2016 until December/2016 (3 months)
-- Technical School Teacher<br>
-Subjects: Data Modelling; Atelier Platform Development; Microsoft Windows; and Microsoft Office<br>
-Centro Tecnológico Social do Pelourinho e Dossier Digital – January/2011 until November/2011 (10 months)
+- <b>ObservaBaía (UFBA) - May/2023 until August/2023 (freelancer)</b>
+  -	Role: Software Engineer.
+  -	Technolgies: HTML, CSS, JavaScript, jQuery, Bootstrap, Leaflet, PHP, WordPress, SQL and MySQL.
+
+- <b>Sábio Portal Educacional - August/2019 until March/2020 (freelancer)</b>
+  -	Role: Software Engineer.
+  -	Technolgies: HTML, CSS, JavaScript, jQuery, PHP, Laravel, SQL and MySQL.
+
+- <b>StartOnApp - October/2018 until May/2019 (freelancer)</b>
+  -	Role: Software Engineer.
+  -	Technolgies: HTML, CSS, JavaScript, Boostrap, IONIC, Angular and TypeScript.
+
+- <b>Serviço Nacional de Aprendizagem Industrial (SENAI) - November/2017 until February/2018 (3 months)</b>
+  -	Role: Software Engineer.
+  -	Technolgies: HTML, CSS, JavaScript, jQuery, PHP, SQL and MySQL.
+
+- <b>Serviço Nacional de Aprendizagem Industrial (SENAI) - August/2017 until August/2017 (60 hours)</b>
+  -	Role: Technical School Teacher.
+  -	Subjects: Projects of Applications.
+
+- <b>Quântica Comunicação Digital - March/2017 until June/2017 (freelancer)</b>
+  -	Role: Software Engineer.
+  -	Technolgies: HTML, CSS, JavaScript, jQuery, Bootstrap, PHP, WordPress, IONIC, Angular, TypeScript, SQL and MySQL.
+
+- <b>Serviço Nacional de Aprendizagem Industrial (SENAI) - September/2016 until December/2016 (3 months)</b>
+  -	Role: Software Engineer.
+  -	Technolgies: HTML, CSS, JavaScript, jQuery, PHP, SQL and MySQL.
+
+- <b>Centro Tecnológico Social do Pelourinho e Dossier Digital - January/2011 until November/2011 (10 months)</b>
+  -	Role: Technical School Teacher.
+  -	Subjects: Data Modelling, Atelier Platform Development, Microsoft Windows and Microsoft Office.
 
 #### Intern
 
-- College Teacher<br>
-Subject: Algorithms<br>
-Universidade Federal da Bahia (UFBA) – May/2017 until September/2017 (temporary: 1 semester)
-- Software Engineer – PHP, MySQL<br>
-CNP Promotora – Correspondente Bradesco Promotora – April/2012 until February/2013
-- Software Engineer – Delphi, Firebird<br>
-RH Soft – November/2011 until March/2012
-- Software Engineer – PHP, JavaScript, MySQL<br>
-eCGlobal – November/2009 until January/2011
-- Technical Support<br>
-Faculdade Área 1 – April/2009 until September/2009
+- <b>Universidade Federal da Bahia (UFBA) - May/2017 until September/2017 (temporary: 1 semester)</b>
+  -	Role: College Teacher.
+  -	Subjects: Algorithms. 
+
+- <b>CNP Promotora - Correspondente Bradesco Promotora - April/2012 until February/2013</b>
+  -	Role: Software Engineer.
+  -	Technologies: HTML, CSS, JavaScript, PHP, SQL and MySQL. 
+
+- <b>RH Soft - November/2011 until March/2012</b>
+  -	Role: Software Engineer.
+  -	Technologies: Delphi, SQL and Firebird. 
+
+- <b>eCGlobal - November/2009 until January/2011</b>
+  -	Role: Software Engineer.
+  -	Technologies: HTML, CSS, JavaScript, PHP, SQL and MySQL. 
+
+- <b>Faculdade Área 1 - April/2009 until September/2009</b>
+  -	Role: Technical Support.
 
 ## 📄 Published papers
 
-- ROXO. P.; MARQUES NETO, M. C. 2DrowSys: An Anti-drowsiness Device for Motorcyclists. In: WEBMEDIA’21 – XXVII Simpósio Brasileiro de Sistemas Multimídia e Web. São João del Rei-MG. 2021.
-- ROXO. P.; SALVADOR, L. do N. BlinALT: Projeto de um Sistema Colaborativo de Audiodescrição de Imagens para Deficientes Visuais. In: WEPGCOMP’17 – II Workshop de Estudantes do Programa de Pós-graduação em Ciência da Computação. Salvador-BA. 2017.
-- PENHA, J. P. G.; ROXO, P.; OLIVEIRA, L. R. Visual Analysis of Morphological Features of Live Cattle From RGB-D-T Data. In: SIBGRAPI’16 – XXIX Conference on Graphics, Patterns and Images. São José dos Campos-SP. 2016.
+- ROXO. P.; MARQUES NETO, M. C. 2DrowSys: An Anti-drowsiness Device for Motorcyclists. In: WEBMEDIA’21 - XXVII Simpósio Brasileiro de Sistemas Multimídia e Web. São João del Rei-MG. 2021.
+- ROXO. P.; SALVADOR, L. do N. BlinALT: Projeto de um Sistema Colaborativo de Audiodescrição de Imagens para Deficientes Visuais. In: WEPGCOMP’17 - II Workshop de Estudantes do Programa de Pós-graduação em Ciência da Computação. Salvador-BA. 2017.
+- PENHA, J. P. G.; ROXO, P.; OLIVEIRA, L. R. Visual Analysis of Morphological Features of Live Cattle From RGB-D-T Data. In: SIBGRAPI’16 - XXIX Conference on Graphics, Patterns and Images. São José dos Campos-SP. 2016.
 
 ## 💻 Participation in hackathons
 - Competitor at HackSerpro: Inovação pelo Brasil (Serpro, 2020)
@@ -152,6 +225,9 @@ Faculdade Área 1 – April/2009 until September/2009
 
 ## 👨‍🏫 Lectures taken
 
+-	Best Accessibility Practices in Android App Development (1h, Google, 2023)
+-	Incredible news for Android in 2023 (1h, Google, 2023)
+-	What’s new in CSS (1h, Google, 2023)
 -	Unidev Tech Day: Blockchain and Bitcoin (3h, UNIME, 2022)
 -	Artificial Intelligence applied in companies (2h, SEBRAE, 2022)
 - Web automation (web-scraping) with Python (2h, Hashtag Treinamentos, 2021)
@@ -177,8 +253,9 @@ Faculdade Área 1 – April/2009 until September/2009
 
 ## 👨‍🏫 Events
 
+-	Google IO Extended Brasil 2023 (2023)
 - XXVII WebMedia  (speaker, 2021)
-- Cursos de Férias – UNIME (speaker, 2021)
+- Cursos de Férias - UNIME (speaker, 2021)
 - LinguÁgil 2018 (2018)
 - Interações (2018)
 - II WEPGCOMP (speaker, 2017)
