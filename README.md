@@ -51,7 +51,7 @@ Completed - 2009 to 2014
 
 - <b>União Metropolitana de Educação e Cultura (UNIME) - January/2021 until December/2022</b>
   -	Role: College Teacher (part-time, two days a week, night shift).
-  -	Subjects taught: Algorithms, Object-Oriented Programming II, Web Development I and Web Development II.
+  -	Subjects taught: Algorithms; Object-Oriented Programming II; Web Development I; and Web Development II.
 
 - <b>Capgemini - July/2020 until September/2021</b>
   -	Role: Senior Software Engineer and Team Leader.
@@ -67,7 +67,7 @@ Completed - 2009 to 2014
   -	Project: Despesas Miúdas. A software for managing small government projects which don’t need public biddings.
     -	Frontend: HTML, CSS, JavaScript, Bootstrap and Vue.
     -	Backend: PHP and Laravel.
-    -	Database: : SQL and SQL Server.
+    -	Database: SQL and SQL Server.
     -	Others: Robot, Swagger.
 
 - <b>Assembleia Legislativa da Bahia (ALBA) - May/2019 until June/2020</b>
