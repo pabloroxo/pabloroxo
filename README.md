@@ -6,7 +6,7 @@ Reach me at my LinkedIn profile: https://www.linkedin.com/in/pabloroxo
 
 <b>As a computer scientist and software engineer, I love absolute everything about computing and programming.</b>
 
-<b>Experienced in RESTful APIs, databases (relational or not), software requirements and user point of view. Willing to be a software architect.</b>
+<b>Experienced in RESTful APIs, databases (relational or not), software requirements and user point of view.</b>
 
 <b>Willing to be a software engineering specialist and, in the future, a software architect.</b>
 
