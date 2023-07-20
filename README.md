@@ -67,7 +67,7 @@ Completed - 2009 to 2014
   -	Project: Despesas Miúdas. A software for managing small government projects which don’t need public biddings.
     -	Frontend: HTML, CSS, JavaScript, Bootstrap and Vue.
     -	Backend: PHP and Laravel.
-    -	Database: SQL and SQL Server.
+    -	Database: SQL and Microsoft SQL Server.
     -	Others: Robot, Swagger.
 
 - <b>Assembleia Legislativa da Bahia (ALBA) - May/2019 until June/2020</b>
