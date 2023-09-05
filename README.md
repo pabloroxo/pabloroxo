@@ -39,6 +39,8 @@ Universidade Salvador (UNIFACS)<br>
 - Database/Cache/Cloud: <b>SQL</b>, <b>MySQL</b>, <b>Microsoft SQL Server</b>, PostgreSQL, FireBird, MongoDB, Redis, Amazon S3.
 - Others: <b>JSON</b>, Scikit-Learn, Docker, OpenCV, Beanstalkd, WordPress, Robot, Swagger, XML, MATLAB, LaTeX.
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pabloroxo&layout=compact&custom_title=Most%20used%20languages%20here&card_width=1000)
+
 ## Work Experience (as software engineer)
 
 - <b>Aubay</b><br>
