@@ -2,7 +2,7 @@
 
 <b>Computer Scientist and Senior Software Engineer</b>
 
-<b>I love absolute everything about computing, programming and mathematics.<br>
+<b>I love absolutely everything about computing, programming and mathematics.<br>
 Experienced in algorithms, data structures, web and mobile development, RESTful APIs and databases.<br>
 Willing to be a software engineering specialist and, in the future, a software architect.</b>
 
