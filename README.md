@@ -10,16 +10,16 @@ Willing to be a software engineering specialist and, in the future, a software a
 
 ### Post-Graduation
 
-- Specialization in Data Science & Big Data<br>
+- <b>Specialization in Data Science & Big Data</b><br>
 Pontifícia Universidade Católica de Minas Gerais (PUC Minas)<br>
 2021
-- Specialization in Mobile Apps Development<br>
+- <b>Specialization in Mobile Apps Development</b><br>
 Serviço Nacional de Aprendizagem Industrial (SENAI)<br>
 2018
 
 ### Graduation
 
-- Bachelor's in Computer Science<br>
+- <b>Bachelor's in Computer Science</b><br>
 Universidade Salvador (UNIFACS)<br>
 2014
 
@@ -120,11 +120,11 @@ Technologies: Delphi, SQL and Firebird.
 
 ## Work Experience (as college teacher)
 
-- União Metropolitana de Educação e Cultura (UNIME)<br>
+- <b>União Metropolitana de Educação e Cultura (UNIME)</b><br>
 January/2021 - December/2022<br>
 Subjects taught: Algorithms; Object-Oriented Programming II; Web Development I; and Web Development II.
 
-- Serviço Nacional de Aprendizagem Industrial (SENAI)<br>
+- <b>Serviço Nacional de Aprendizagem Industrial (SENAI)</b><br>
 February/2014 - February/2015<br>
 Subjects taught: Algorithms, Object-oriented Programming, Databases, Web Development (frontend), Web Development (backend), Applied Math and Completion of Course Work.
 
