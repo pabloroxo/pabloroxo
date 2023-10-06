@@ -128,7 +128,12 @@ Subjects taught: Algorithms; Object-Oriented Programming II; Web Development I; 
 February/2014 - February/2015<br>
 Subjects taught: Algorithms, Object-oriented Programming, Databases, Web Development (frontend), Web Development (backend), Applied Math and Completion of Course Work.
 
-## Work Experience (as temporary worker, freelancer and intern)
+## Work Experience (as temporary worker, freelancer or intern)
+
+- <b>Prefeitura de Gaspar-SC</b><br>
+October/2023 - Nowadays<br>
+Role: Software Engineer (freelancer).<br>
+Technolgies: HTML, CSS, JavaScript, jQuery, Bootstrap, PHP, Laravel, SQL, MySQL.
 
 - <b>Loginfo</b><br>
 August/2023 - September/2023<br>
