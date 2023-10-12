@@ -26,9 +26,9 @@ Universidade Salvador (UNIFACS)<br>
 ## Languages
 
 - Portuguese: Native
-- English: Advanced
-- Spanish: Advanced
-- French: Basic
+- English: B2
+- Spanish: B2
+- French: A1
 - Cyrillic: Know the alphabet and some words and sentences, after living in Kyiv (Ukraine), for one month in 2018 as a tourist
 
 ## Tech Skills (bold items: bigger experience)
@@ -42,11 +42,6 @@ Universidade Salvador (UNIFACS)<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pabloroxo&layout=compact&custom_title=Most%20used%20languages%20here&card_width=1000)
 
 ## Work Experience (as software engineer)
-
-- <b>Aubay</b><br>
-October/2023 - nowadays<br>
-Role: Senior Software Engineer.<br>
-Project: not yet allocated.
 
 - <b>Jettax Automação Fiscal</b><br>
 September/2021 - October/2022<br>
@@ -122,18 +117,18 @@ Technologies: Delphi, SQL and Firebird.
 
 - <b>União Metropolitana de Educação e Cultura (UNIME)</b><br>
 January/2021 - December/2022<br>
-Subjects taught: Algorithms; Object-Oriented Programming II; Web Development I; and Web Development II.
+Subjects taught: Algorithms; Object-Oriented Programming II; Web Development I; Web Development II.
 
 - <b>Serviço Nacional de Aprendizagem Industrial (SENAI)</b><br>
 February/2014 - February/2015<br>
-Subjects taught: Algorithms, Object-oriented Programming, Databases, Web Development (frontend), Web Development (backend), Applied Math and Completion of Course Work.
+Subjects taught: Algorithms; Object-oriented Programming; Databases; Web Development I; Web Development II; Applied Math; Completion of Course Work.
 
 ## Work Experience (as temporary worker, freelancer or intern)
 
 - <b>Prefeitura de Gaspar-SC</b><br>
 October/2023 - Nowadays<br>
 Role: Software Engineer (freelancer).<br>
-Technolgies: HTML, CSS, JavaScript, jQuery, Bootstrap, PHP, Laravel, SQL, MySQL.
+Technolgies: HTML, CSS, JavaScript, jQuery, Bootstrap, DataTables, Leaflet, PHP, Laravel, SQL, MySQL, Backblaze B2.
 
 - <b>Loginfo</b><br>
 August/2023 - September/2023<br>
@@ -234,7 +229,7 @@ Technologies: Windows.
 
 ## Lectures Given
 
--	IT Professional's Career Ahead to 2023 (2h, ICEIA, 2023)
+- IT Professional's Career Ahead to 2023 (2h, ICEIA, 2023)
 - Assistive Technology: Computer Science as human function restorer of people with disabilities (1h, UFBA, 2019)
 - BlinG: a gamebook platform for mobile devices and users with visual impairment (1h, SENAI, 2018)
 - Digital Image Processing: a theoretical and practical introduction with OpenCV (1h, UFBA, 2015)
@@ -265,12 +260,12 @@ Technologies: Windows.
 
 ## Lectures Taken
 
--	Flutter news for 2023 (1h, Google, 2023)
--	Best Accessibility Practices in Android App Development (1h, Google, 2023)
--	Incredible news for Android in 2023 (1h, Google, 2023)
--	What’s new in CSS (1h, Google, 2023)
--	Unidev Tech Day: Blockchain and Bitcoin (3h, UNIME, 2022)
--	Artificial Intelligence applied in companies (2h, SEBRAE, 2022)
+- Flutter news for 2023 (1h, Google, 2023)
+- Best Accessibility Practices in Android App Development (1h, Google, 2023)
+- Incredible news for Android in 2023 (1h, Google, 2023)
+- What’s new in CSS (1h, Google, 2023)
+- Unidev Tech Day: Blockchain and Bitcoin (3h, UNIME, 2022)
+- Artificial Intelligence applied in companies (2h, SEBRAE, 2022)
 - Web automation (web-scraping) with Python (2h, Hashtag Treinamentos, 2021)
 - Complete project of Data Science + Machine Learning (2h, Hashtag Treinamentos, 2021)
 - Data analysis with Python (2h, Hashtag Treinamentos, 2021)
@@ -294,7 +289,7 @@ Technologies: Windows.
 
 ## Participation in Events
 
--	Google IO Extended Brasil 2023 (2023)
+- Google IO Extended Brasil 2023 (2023)
 - XXVII WebMedia  (speaker, 2021)
 - Cursos de Férias - UNIME (speaker, 2021)
 - LinguÁgil 2018 (2018)
