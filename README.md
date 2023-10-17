@@ -28,16 +28,20 @@ Universidade Salvador (UNIFACS)<br>
 - Portuguese: Native
 - English: B2
 - Spanish: B2
-- French: A1
+- French: A1 (intending to learn and practice more)
 - Cyrillic: Know the alphabet and some words and sentences, after living in Kyiv (Ukraine), for one month in 2018 as a tourist
 
-## Tech Skills (bold items: bigger experience)
+## Tech Skills (bold items: bigger expertise; years of experience and year of start)
 
-- Frontend: <b>HTML</b>, <b>CSS</b>, <b>JavaScript</b>, TypeScript, <b>Vue</b>, Angular, <b>jQuery</b>, <b>Bootstrap</b>, Blade, SASS/SCSS/Less, jQuery Mobile, DataTables, Leaflet.
-- Backend/Algorithms: <b>PHP</b>, <b>Laravel</b>, Lumen, Nest, Express, Python, Java, Dart, C/C++, Delphi/Pascal.
-- Mobile: IONIC, Flutter, Kotlin, Swift.
-- Database/Cache/Cloud: <b>SQL</b>, <b>MySQL</b>, <b>Microsoft SQL Server</b>, PostgreSQL, FireBird, MongoDB, Redis, Amazon S3.
-- Others: <b>JSON</b>, Scikit-Learn, Docker, OpenCV, Beanstalkd, WordPress, Robot, Swagger, XML, MATLAB, LaTeX.
+- Frontend: <b>HTML</b> (14y, 2009) | <b>CSS</b> (14y, 2009) | <b>JavaScript</b> (14y, 2009) | TypeScript (3y, 2017) | <b>Vue</b> (3y, 2019) | Angular(4y, 2017) | <b>jQuery</b> (14y, 2009) | <b>Bootstrap</b> (6y, 2017) | Blade (3y, 2018) | SASS/SCSS/Less (3y, 2017) | jQuery Mobile (1y, 2013) | DataTables (3y, 2019) | Leaflet (1y, 2023)		
+
+- Backend/Algorithms: <b>PHP</b> (14y, 2009) | <b>Laravel</b> (5y, 2018) | Lumen (1y, 2019) | Nest (1y, 2020) | Express (1y, 2020) | Python (1y, 2020) | Java (SE) (3y, 2009) | Dart (2y, 2020) | C/C++ (2y, 2009) | Delphi/Pascal (3y, 2006)
+
+- Mobile: IONIC (3y, 2017) | Flutter (2y, 2020) | Java (Android) (1y, 2018) | Kotlin (Android) (1y, 2023) | Swift (iOS) (1y, 2018)
+
+- Database/Cache/Cloud: <b>SQL</b> (17y, 2006) | <b>MySQL</b> (14y, 2009) | <b>SQL Server</b> (3y, 2019) | PostgreSQL (2y, 2018) | FireBird (4y, 2006) | MongoDB (2y, 2020)	Redis (1y, 2021) | Amazon S3 (1y, 2021) | Backblaze B2 (1y, 2023)	
+
+- Others: <b>JSON</b> (14y, 2009) | Scikit-Learn (1y, 2020) | Docker (3y, 2017) | OpenCV (1y, 2015) | Beanstalkd (1y, 2021) | WordPress (3y, 2014) | Robot (1y, 2020) | Swagger (1y, 2020)		
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pabloroxo&layout=compact&custom_title=Most%20used%20languages%20here&card_width=1000)
 
@@ -128,37 +132,37 @@ Subjects taught: Algorithms; Object-oriented Programming; Databases; Web Develop
 - <b>Prefeitura de Gaspar-SC</b><br>
 October/2023 - Nowadays<br>
 Role: Software Engineer (freelancer).<br>
-Technolgies: HTML, CSS, JavaScript, jQuery, Bootstrap, DataTables, Leaflet, PHP, Laravel, SQL, MySQL, Backblaze B2.
+Technologies: HTML, CSS, JavaScript, jQuery, Bootstrap, DataTables, Leaflet, PHP, Laravel, SQL, MySQL, Backblaze B2.
 
 - <b>Loginfo</b><br>
 August/2023 - September/2023<br>
 Role: Software Engineer (freelancer).<br>
-Technolgies: HTML, CSS, JavaScript, jQuery, Bootstrap, PHP, Laravel, SQL, MySQL.
+Technologies: HTML, CSS, JavaScript, jQuery, Bootstrap, PHP, Laravel, SQL, MySQL.
 
 - <b>Loovi</b><br>
 July/2023 - August/2023<br>
 Role: Software Engineer (freelancer).<br>
-Technolgies: HTML, CSS, JavaScript, Angular.
+Technologies: HTML, CSS, JavaScript, Angular.
 
 - <b>ObservaBaía (UFBA)</b><br>
 May/2023 - August/2023<br>
 Role: Software Engineer (freelancer).<br>
-Technolgies: HTML, CSS, JavaScript, jQuery, Bootstrap, Leaflet, PHP, WordPress, SQL, MySQL.
+Technologies: HTML, CSS, JavaScript, jQuery, Bootstrap, Leaflet, PHP, WordPress, SQL, MySQL.
 
 - <b>Sábio Portal Educacional</b><br>
 August/2019 - March/2020<br>
 Role: Software Engineer (freelancer).<br>
-Technolgies: HTML, CSS, JavaScript, jQuery, PHP, Laravel, SQL, MySQL.
+Technologies: HTML, CSS, JavaScript, jQuery, PHP, Laravel, SQL, MySQL.
 
 - <b>StartOnApp</b><br>
 October/2018 - May/2019<br>
 Role: Software Engineer (freelancer).<br>
-Technolgies: HTML, CSS, JavaScript, Boostrap, IONIC, Angular, TypeScript.
+Technologies: HTML, CSS, JavaScript, Boostrap, IONIC, Angular, TypeScript.
 
 - <b>Serviço Nacional de Aprendizagem Industrial (SENAI)</b><br>
 November/2017 - February/2018<br>
 Role: Software Engineer (freelancer).<br>
-Technolgies: HTML, CSS, JavaScript, jQuery, PHP, SQL, MySQL.
+Technologies: HTML, CSS, JavaScript, jQuery, PHP, SQL, MySQL.
 
 - <b>Serviço Nacional de Aprendizagem Industrial (SENAI)</b><br>
 August/2017 - August/2017<br>
@@ -173,12 +177,17 @@ Subjects: Algorithms.
 - <b>Quântica Comunicação Digital</b><br>
 March/2017 - June/2017<br>
 Role: Software Engineer (freelancer).<br>
-Technolgies: HTML, CSS, JavaScript, jQuery, Bootstrap, PHP, WordPress, IONIC, Angular, TypeScript, SQL, MySQL.
+Technologies: HTML, CSS, JavaScript, jQuery, Bootstrap, PHP, WordPress, IONIC, Angular, TypeScript, SQL, MySQL.
 
 - <b>Serviço Nacional de Aprendizagem Industrial (SENAI)</b><br>
 September/2016 - December/2016<br>
 Role: Software Engineer (temporary).<br>
-Technolgies: HTML, CSS, JavaScript, jQuery, PHP, SQL, MySQL.
+Technologies: HTML, CSS, JavaScript, jQuery, PHP, SQL, MySQL.
+
+- <b>KD Inovação</b><br>
+August/2015 - September/2015<br>
+Role: Software Engineer (freelancer).<br>
+Technologies: HTML, CSS, JavaScript, PHP, SQL, MySQL.
 
 - <b>CNP Promotora - Correspondente Bradesco Promotora</b><br>
 April/2012 - February/2013<br>
