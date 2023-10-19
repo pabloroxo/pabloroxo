@@ -58,7 +58,7 @@ Others: Redis, Beanstalkd, Amazon S3, Docker.
 
 - <b>Capgemini</b><br>
 July/2020 - September/2021<br>
-Role: Senior Software Engineer
+Role: Senior Software Engineer.
   - Project: Verbas. A software for complementing paycheck information with complex calculations, apart from an existing paycheck software. <br>
 Frontend: HTML, CSS, JavaScript, Bootstrap, Vue.<br>
 Backend: PHP, Laravel.<br>
@@ -76,7 +76,7 @@ Others: Robot, Swagger.
 
 - <b>Assembleia Legislativa da Bahia (ALBA)</b><br>
 May/2019 - June/2020<br>
-Role: Software Engineer<br>
+Role: Software Engineer.<br>
   - Project: Portal RH ALBA. A software for managing all information about government employees and politicians (deputies) of the state of Bahia.<br>
 Frontend: HTML, CSS, JavaScript, Bootstrap, Blade, jQuery, Datatables.
 Backend: PHP, Laravel, Lumen.<br>
@@ -157,7 +157,7 @@ Technologies: HTML, CSS, JavaScript, jQuery, PHP, Laravel, SQL, MySQL.
 - <b>StartOnApp</b><br>
 October/2018 - May/2019<br>
 Role: Software Engineer (freelancer).<br>
-Technologies: HTML, CSS, JavaScript, Boostrap, IONIC, Angular, TypeScript.
+Technologies: HTML, CSS, JavaScript, Bootstrap, IONIC, Angular, TypeScript.
 
 - <b>Serviço Nacional de Aprendizagem Industrial (SENAI)</b><br>
 November/2017 - February/2018<br>
@@ -191,7 +191,7 @@ Technologies: HTML, CSS, JavaScript, PHP, SQL, MySQL.
 
 - <b>CNP Promotora - Correspondente Bradesco Promotora</b><br>
 April/2012 - February/2013<br>
-Role: Software Engineer.<br>
+Role: Software Engineer (intern).<br>
 Technologies: HTML, CSS, JavaScript, PHP, SQL, MySQL. 
 
 - <b>RH Soft</b><br>
