@@ -142,7 +142,7 @@ Technologies: HTML, CSS, JavaScript, jQuery, Bootstrap, PHP, Laravel, SQL, MySQL
 - <b>Loovi</b><br>
 July/2023 - August/2023<br>
 Role: Software Engineer (freelancer).<br>
-Technologies: HTML, CSS, JavaScript, Angular.
+Technologies: HTML, CSS, JavaScript, Angular, TypeScript.
 
 - <b>ObservaBaía (UFBA)</b><br>
 May/2023 - August/2023<br>
