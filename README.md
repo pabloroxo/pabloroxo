@@ -47,9 +47,12 @@ Universidade Salvador (UNIFACS)<br>
 
 ## Work Experience (as software engineer)
 
+_\* Note: in this most recent job, the company I was working for had a mass layoff, and I took the opportunity to take some time to organize my life and move to Portugal. I continued working in freelancer projects since nowadays, as you can see in “Work Experience (as temporary worker, freelancer and intern)” section._
+
 - <b>Jettax Automação Fiscal</b><br>
 September/2021 - October/2022<br>
 Role: Software Engineer.<br>
+Activities: Software prototipation, software development, database modelling, software maintenance.<br>
 Project: Jettax 360. A software for accounting automation that retrieves all invoices from companies from different sources and then audit all of them, presenting an easy-to-read report for accountants and their managers.<br>
 Frontend: HTML, CSS, JavaScript, Bootstrap, Vue.<br>
 Backend: PHP, Laravel.<br>
@@ -58,7 +61,8 @@ Others: Redis, Beanstalkd, Amazon S3, Docker.
 
 - <b>Capgemini</b><br>
 July/2020 - September/2021<br>
-Role: Senior Software Engineer.
+Role: Senior Software Engineer (and team leader on project Verbas).
+Activities: Software requirements, software prototipation, software architecture, software development, database modelling, tests (automated), software maintenance, software documentation.<br>
   - Project: Verbas. A software for complementing paycheck information with complex calculations, apart from an existing paycheck software. <br>
 Frontend: HTML, CSS, JavaScript, Bootstrap, Vue.<br>
 Backend: PHP, Laravel.<br>
@@ -77,6 +81,7 @@ Others: Robot, Swagger.
 - <b>Assembleia Legislativa da Bahia (ALBA)</b><br>
 May/2019 - June/2020<br>
 Role: Software Engineer.<br>
+Activities: Software requirements,  software prototipation, software architecture, software development, database modelling, tests (not automated), user training and support, software deploying, software maintenance.<br>
   - Project: Portal RH ALBA. A software for managing all information about government employees and politicians (deputies) of the state of Bahia.<br>
 Frontend: HTML, CSS, JavaScript, Bootstrap, Blade, jQuery, Datatables.
 Backend: PHP, Laravel, Lumen.<br>
@@ -91,6 +96,7 @@ Mobile: IONIC, Angular, TypeScript.
 - <b>eCGlobal</b><br>
 August/2018 - November/2018<br>
 Role: Junior Software Engineer.<br>
+Activities: Software requirements, software prototipation, software development, database modelling, tests (not automated), user training and support, software maintenance.<br>
 Project: eCGlobal. A software for creating and managing custom social networks focused on surveys. Users could gather points and exchange for prizes after answering questions.<br>
 Frontend: HTML, CSS, JavaScript.<br>
 Backend: PHP, CodeIgniter.<br>
@@ -100,6 +106,7 @@ Others: Docker.
 - <b>Ericsson Inovação S. A. (EISA)</b><br>
 August/2017 - November/2017<br>
 Role: Junior Software Engineer.<br>
+Activities: Software development database modelling, tests (automated), user training and support, software maintenance, software documentation.<br>
 Project: Revenue Manager (RM). A software for managing information of a mobile operator in Ukraine.<br>
 Backend: Java.<br>
 Database: Cassandra.<br>
@@ -108,12 +115,14 @@ Others: Camunda.
 - <b>Fundo de Amparo à Pesquisa no Estado da Bahia (FAPESB)</b><br>
 September/2015 - August/2016<br>
 Role: Researcher.<br>
+Activities: Software requirements, software prototipation, software architecture, software development, tests (not automated), software deploying.<br>
 Project: during an uncompleted master’s program, I worked developing computer vision software to analyze marbling of beef cuts.<br>
 Technologies: C/C++, OpenCV, MATLAB, LaTeX.
 
 - <b>Colégio e Faculdade São Tomaz de Aquino</b><br>
 November/2006 - January/2009<br>
 Role: Junior Software Engineer.<br>
+Activities: Software requirements, software prototipation, software development, database modelling, tests (not automated), user training and support, software deploying, software maintenance.<br>
 Project: Jaguar. A software to manage all information about students, teachers and classes at an education institution.<br>
 Technologies: Delphi, SQL and Firebird.
 
@@ -130,7 +139,7 @@ Subjects taught: Algorithms; Object-oriented Programming; Databases; Web Develop
 ## Work Experience (as temporary worker, freelancer or intern)
 
 - <b>Prefeitura de Gaspar-SC</b><br>
-October/2023 - Nowadays<br>
+October/2023 - Present<br>
 Role: Software Engineer (freelancer).<br>
 Technologies: HTML, CSS, JavaScript, jQuery, Bootstrap, DataTables, Leaflet, PHP, Laravel, SQL, MySQL, Backblaze B2.
 
