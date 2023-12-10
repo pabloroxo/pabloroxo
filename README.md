@@ -47,7 +47,15 @@ Universidade Salvador (UNIFACS)<br>
 
 ## Work Experience (as software engineer)
 
-_\* Note: in this most recent job, the company I was working for had a mass layoff, and I took the opportunity to take some time to organize my life and move to Portugal. I continued working in freelancer projects since nowadays, as you can see in “Work Experience (as temporary worker, freelancer and intern)” section._
+- <b>Fyld</b><br>
+December/2022 - Present<br>
+Role: Software Engineer.<br>
+Activities: Software development, software maintenance.<br>
+Client: Merkle Dach<br>
+Project: ECOM.<br>
+Backend: PHP, CSCart.<br>
+Database: MySQL.<br>
+Others: Redis.
 
 - <b>Jettax Automação Fiscal</b><br>
 September/2021 - October/2022<br>
