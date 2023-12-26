@@ -69,7 +69,7 @@ Others: Redis, Beanstalkd, Amazon S3, Docker.
 
 - <b>Capgemini</b><br>
 July/2020 - September/2021<br>
-Role: Senior Software Engineer (and team leader on project Verbas).
+Role: Senior Software Engineer (and team leader on project Verbas).<br>
 Activities: Software requirements, software prototipation, software architecture, software development, database modelling, tests (automated), software maintenance, software documentation.<br>
   - Project: Verbas. A software for complementing paycheck information with complex calculations, apart from an existing paycheck software. <br>
 Frontend: HTML, CSS, JavaScript, Bootstrap, Vue.<br>
