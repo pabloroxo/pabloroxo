@@ -47,16 +47,6 @@ Universidade Salvador (UNIFACS)<br>
 
 ## Work Experience (as software engineer)
 
-- <b>Fyld</b><br>
-December/2022 - Present<br>
-Role: Software Engineer.<br>
-Activities: Software development, software maintenance.<br>
-Client: Merkle Dach<br>
-Project: ECOM.<br>
-Backend: PHP, CSCart.<br>
-Database: MySQL.<br>
-Others: Redis.
-
 - <b>Jettax Automação Fiscal</b><br>
 September/2021 - October/2022<br>
 Role: Software Engineer.<br>
