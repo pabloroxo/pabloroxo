@@ -3,7 +3,9 @@
 <b>Computer Scientist and Senior Software Engineer</b>
 
 <b>I love absolutely everything about computing, programming and mathematics.<br>
-Experienced in algorithms, data structures, web and mobile development, RESTful APIs and databases.<br>
+Experienced in algorithms, data structures, web and mobile development, APIs, databases and tests.<br>
+Open for any stack, programming languages, frameworks, paradigms and methodologies.<br>
+Enthusiast of best practices, patterns, organization and beautifully written codes.<br>
 Willing to be a software engineering specialist and, in the future, a software architect.</b>
 
 ## Education
@@ -33,17 +35,15 @@ Universidade Salvador (UNIFACS)<br>
 
 ## Tech Skills (bold items: bigger expertise; years of experience and year of start)
 
-- Frontend: <b>HTML</b> (14y, 2009) | <b>CSS</b> (14y, 2009) | <b>JavaScript</b> (14y, 2009) | TypeScript (3y, 2017) | <b>Vue</b> (3y, 2019) | Angular(4y, 2017) | <b>jQuery</b> (14y, 2009) | <b>Bootstrap</b> (6y, 2017) | Blade (3y, 2018) | SASS/SCSS/Less (3y, 2017) | jQuery Mobile (1y, 2013) | DataTables (3y, 2019) | Leaflet (1y, 2023)		
+- Frontend: <b>HTML</b> (15y, 2009) | <b>CSS</b> (15y, 2009) | <b>JavaScript</b> (15y, 2009) | TypeScript (3y, 2017) | <b>Vue</b> (3y, 2019) | Angular(4y, 2017) | <b>jQuery</b> (15y, 2009) | <b>Bootstrap</b> (7y, 2017) | Blade (4y, 2018) | SASS/SCSS/Less (3y, 2017) | jQuery Mobile (1y, 2013) | DataTables (3y, 2019) | Leaflet (1y, 2023)
 
-- Backend/Algorithms: <b>PHP</b> (14y, 2009) | <b>Laravel</b> (5y, 2018) | Lumen (1y, 2019) | Nest (1y, 2020) | Express (1y, 2020) | Python (1y, 2020) | Java (SE) (3y, 2009) | Dart (2y, 2020) | C/C++ (2y, 2009) | Delphi/Pascal (3y, 2006)
+- Backend/Algorithms: <b>PHP</b> (15y, 2009) | <b>Laravel</b> (6y, 2018) | Lumen (1y, 2019) | Nest (1y, 2020) | Express (1y, 2020) | <b>RESTful APIs</b> (7y, 2016) | Python (1y, 2020) | Java (SE) (3y, 2009) | Dart (2y, 2020) | C/C++ (2y, 2009) | Delphi/Pascal (3y, 2006)
 
 - Mobile: IONIC (3y, 2017) | Flutter (2y, 2020) | Java (Android) (1y, 2018) | Kotlin (Android) (1y, 2023) | Swift (iOS) (1y, 2018)
 
-- Database/Cache/Cloud: <b>SQL</b> (17y, 2006) | <b>MySQL</b> (14y, 2009) | <b>SQL Server</b> (3y, 2019) | PostgreSQL (2y, 2018) | FireBird (4y, 2006) | MongoDB (2y, 2020)	Redis (1y, 2021) | Amazon S3 (1y, 2021) | Backblaze B2 (1y, 2023)	
+- Database/Cache/Cloud: <b>SQL</b> (18y, 2006) | <b>MySQL</b> (15y, 2009) | <b>SQL Server</b> (4y, 2019) | PostgreSQL (2y, 2018) | FireBird (4y, 2006) | MongoDB (2y, 2020) | Redis (1y, 2021) | Amazon S3 (1y, 2021) | Backblaze B2 (1y, 2023)
 
-- Others: <b>JSON</b> (14y, 2009) | Scikit-Learn (1y, 2020) | Docker (3y, 2017) | OpenCV (1y, 2015) | Beanstalkd (1y, 2021) | WordPress (3y, 2014) | Robot (1y, 2020) | Swagger (1y, 2020)		
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pabloroxo&layout=compact&custom_title=Most%20used%20languages%20here&card_width=1000)
+- Others: <b>JSON</b> (15y, 2009) | Scikit-Learn (1y, 2020) | Docker (3y, 2017) | OpenCV (1y, 2015) | Beanstalkd (1y, 2021) | Git (8y, 2016) | WordPress (3y, 2014) | PHPUnit (2y, 2021) | JUnit (1y, 2017) | Swagger (1y, 2020) | Scrum (7y, 2017)
 
 ## Work Experience (as software engineer)
 
