@@ -8,6 +8,8 @@ Open for any stack, programming languages, frameworks, paradigms and methodologi
 Enthusiast of best practices, patterns, organization and beautifully written codes.<br>
 Willing to be a software engineering specialist and, in the future, a software architect.</b>
 
+<a href="Pablo_Roxo_CV.pdf" download>Download my CV in PDF format</a>
+
 ## Education
 
 ### Post-Graduation
