@@ -1,6 +1,6 @@
-## Pablo Ricardo Roxo Silva
+# Pablo Ricardo Roxo Silva
 
-<b>Computer Scientist and Senior Software Engineer</b>
+## <b>Computer Scientist and Senior Software Engineer</b>
 
 <b>I love absolutely everything about computing, programming and mathematics.<br>
 Experienced in algorithms, data structures, web and mobile development, APIs, databases and tests.<br>
@@ -8,7 +8,7 @@ Open for any stack, programming languages, frameworks, paradigms and methodologi
 Enthusiast of best practices, patterns, organization and beautifully written codes.<br>
 Willing to be a software engineering specialist and, in the future, a software architect.</b>
 
-<a href="Pablo_Roxo_CV.pdf" download>Download my CV in PDF format</a>
+[Download my CV in PDF format](https://github.com/pabloroxo/pabloroxo/blob/main/Pablo_Roxo_CV.pdf)
 
 ## Education
 
