@@ -47,51 +47,74 @@ Universidade Salvador (UNIFACS)<br>
 
 ## Work Experience (as software engineer)
 
+- <b>Companhia de Processamento de Dados do Estado da Bahia (PRODEB)</b><br>
+Salvador (Brazil) - Hybrid<br>
+March/2024 - Present<br>
+Role: Senior Software Engineer (external consultant).<br>
+Activities: Software architecture, software development, database modelling, tests (automated), software deploying, software maintenance.<br>
+Project: Atende 2.0. A software to manage services and scheduling for the entity SAC (Serviço de Atendimento ao Cidadão) in the state of Bahia.<br>
+Frontend: HTML, CSS, JavaScript, Vue, Bootstrap, DataTables.<br>
+Backend: PHP, Laravel.<br>
+Database: SQL, SQL Server, Redis.<br>
+Others: RabbitMQ, PHPUnit, Docker, Kubernetes, Supervisor, Sonar, Grafana, Prometheus, Git, Scrum.
+
 - <b>Jettax Automação Fiscal</b><br>
+São Paulo (Brazil) - Remote<br>
 September/2021 - October/2022<br>
 Role: Software Engineer.<br>
 Activities: Software prototipation, software development, database modelling, software maintenance.<br>
 Project: Jettax 360. A software for accounting automation that retrieves all invoices from companies from different sources and then audit all of them, presenting an easy-to-read report for accountants and their managers.<br>
 Frontend: HTML, CSS, JavaScript, Bootstrap, Vue.<br>
 Backend: PHP, Laravel.<br>
-Database: MongoDB.<br>
-Others: Redis, Beanstalkd, Amazon S3, Docker.
+Database: MongoDB, Amazon S3, Redis.<br>
+Others: Beanstalkd, Docker, Git, Scrum.
 
 - <b>Capgemini</b><br>
+Salvador (Brazil) - Remote<br>
 July/2020 - September/2021<br>
 Role: Senior Software Engineer (and team leader on project Verbas).<br>
-Activities: Software requirements, software prototipation, software architecture, software development, database modelling, tests (automated), software maintenance, software documentation.<br>
-  - Project: Verbas. A software for complementing paycheck information with complex calculations, apart from an existing paycheck software. <br>
-Frontend: HTML, CSS, JavaScript, Bootstrap, Vue.<br>
+Activities: Software requirements, software prototipation, software architecture, software development, database modelling, tests (automated), software maintenance, software documentation.
+
+  - Project: Verbas. A software for complementing paycheck information with complex calculations, apart from an existing paycheck software.<br>
+Frontend: HTML, CSS, JavaScript, Bootstrap, Vue.
 Backend: PHP, Laravel.<br>
 Database: SQL, SQL Server.<br>
-Others: Robot, Swagger.
+Others: PHPUnit, Robot, Swagger, Git, Scrum.
+
   - Project: Uno. A software for managing the processing of confidential court cases.<br>
 Frontend: HTML, CSS, JavaScript, Bootstrap, Blade.<br>
 Backend: PHP, Laravel.<br>
-Database: MongoDB.
+Database: MongoDB.<br>
+Others: Git, Scrum.
+
   - Project: Despesas Miúdas. A software for managing small government projects which don’t need public biddings.<br>
 Frontend: HTML, CSS, JavaScript, Bootstrap, Vue.<br>
 Backend: PHP, Laravel.<br>
 Database: SQL, SQL Server.<br>
-Others: Robot, Swagger.
+Others: Robot, Swagger, Git, Scrum.
 
 - <b>Assembleia Legislativa da Bahia (ALBA)</b><br>
+Salvador (Brazil) - In-office<br>
 May/2019 - June/2020<br>
-Role: Software Engineer.<br>
-Activities: Software requirements,  software prototipation, software architecture, software development, database modelling, tests (not automated), user training and support, software deploying, software maintenance.<br>
+Role: Software Engineer (government employee).<br>
+Activities: Software requirements, software prototipation, software architecture, software development, database modelling, tests (not automated), user training and support, software deploying, software maintenance.
+
   - Project: Portal RH ALBA. A software for managing all information about government employees and politicians (deputies) of the state of Bahia.<br>
-Frontend: HTML, CSS, JavaScript, Bootstrap, Blade, jQuery, Datatables.
+Frontend: HTML, CSS, JavaScript, Bootstrap, Blade, jQuery, Datatables.<br>
 Backend: PHP, Laravel, Lumen.<br>
-Database: SQL, SQL Server, Firebird.
+Database: SQL, SQL Server, Firebird.<br>
+Others: Git.
+
   - Project: Portal RH ALBA. A mobile application that has the same content of Portal RH ALBA’s website. It was released in both Apple App Store and Google Play Store. This app was rewritten in Flutter and Dart, but this version wasn’t released.<br>
 Mobile: IONIC, Angular, TypeScript.<br>
 Backend: PHP, Laravel.<br>
 Database: SQL, SQL Server.
+
   - Project: Constituição da Bahia. A mobile application with the entire constitution of the state of Bahia. It was released in both Apple App Store and Google Play Store.<br>
 Mobile: IONIC, Angular, TypeScript.
 
 - <b>eCGlobal</b><br>
+Salvador (Brazil) - In-office<br>
 August/2018 - November/2018<br>
 Role: Junior Software Engineer.<br>
 Activities: Software requirements, software prototipation, software development, database modelling, tests (not automated), user training and support, software maintenance.<br>
@@ -99,30 +122,34 @@ Project: eCGlobal. A software for creating and managing custom social networks f
 Frontend: HTML, CSS, JavaScript.<br>
 Backend: PHP, CodeIgniter.<br>
 Database: SQL, PostgreSQL.<br>
-Others: Docker.
+Others: Docker, Git, Scrum.
 
 - <b>Ericsson Inovação S. A. (EISA)</b><br>
+Salvador (Brazil) - In-office<br>
 August/2017 - November/2017<br>
 Role: Junior Software Engineer.<br>
-Activities: Software development database modelling, tests (automated), user training and support, software maintenance, software documentation.<br>
+Activities: Software development database modelling, tests (automated), user training and support, software maintenance, software documentation.
 Project: Revenue Manager (RM). A software for managing information of a mobile operator in Ukraine.<br>
 Backend: Java.<br>
 Database: Cassandra.<br>
-Others: Camunda.
+Others: JUnit, Camunda, Sonar, Git, Scrum.
 
 - <b>Fundo de Amparo à Pesquisa no Estado da Bahia (FAPESB)</b><br>
+Salvador (Brazil) - In-office<br>
 September/2015 - August/2016<br>
 Role: Researcher.<br>
-Activities: Software requirements, software prototipation, software architecture, software development, tests (not automated), software deploying.<br>
+Activities: Software requirements, software prototipation, software architecture, software development, tests (not automated), software deploying.
 Project: during an uncompleted master’s program, I worked developing computer vision software to analyze marbling of beef cuts.<br>
 Technologies: C/C++, OpenCV, MATLAB, LaTeX.
 
 - <b>Colégio e Faculdade São Tomaz de Aquino</b><br>
-November/2006 - January/2009<br>
+Salvador (Brazil) - In-office<br>
+November/2006 - January/2009
 Role: Junior Software Engineer.<br>
 Activities: Software requirements, software prototipation, software development, database modelling, tests (not automated), user training and support, software deploying, software maintenance.<br>
 Project: Jaguar. A software to manage all information about students, teachers and classes at an education institution.<br>
-Technologies: Delphi, SQL and Firebird.
+Technologies: Delphi, SQL, Firebird.
+
 
 ## Work Experience (as college teacher)
 
@@ -136,10 +163,15 @@ Subjects taught: Algorithms; Object-oriented Programming; Databases; Web Develop
 
 ## Work Experience (as temporary worker, freelancer or intern)
 
-- <b>Prefeitura de Gaspar-SC</b><br>
-October/2023 - Present<br>
+- <b>Merkle DACH</b><br>
+December/2023 - January/2024<br>
 Role: Software Engineer (freelancer).<br>
-Technologies: HTML, CSS, JavaScript, jQuery, Bootstrap, DataTables, Leaflet, PHP, Laravel, SQL, MySQL, Backblaze B2.
+Technologies: PHP, CSCart, SQL, MySQL, PHPUnit, Git, Scrum.
+
+- <b>Prefeitura de Gaspar-SC</b><br>
+October/2023 - December/2023<br>
+Role: Software Engineer (freelancer).<br>
+Technologies: HTML, CSS, JavaScript, jQuery, Bootstrap, DataTables, Leaflet,  PHP, Laravel, SQL, MySQL, Backblaze B2, Git.
 
 - <b>Loginfo</b><br>
 August/2023 - September/2023<br>
@@ -157,14 +189,14 @@ Role: Software Engineer (freelancer).<br>
 Technologies: HTML, CSS, JavaScript, jQuery, Bootstrap, Leaflet, PHP, WordPress, SQL, MySQL.
 
 - <b>Sábio Portal Educacional</b><br>
-August/2019 - March/2020<br>
+August/2019 - March/2020 <br>
 Role: Software Engineer (freelancer).<br>
 Technologies: HTML, CSS, JavaScript, jQuery, PHP, Laravel, SQL, MySQL.
 
 - <b>StartOnApp</b><br>
 October/2018 - May/2019<br>
 Role: Software Engineer (freelancer).<br>
-Technologies: HTML, CSS, JavaScript, Bootstrap, IONIC, Angular, TypeScript.
+Technologies: HTML, CSS, JavaScript, Bootstrap, IONIC, Angular, TypeScript Git.
 
 - <b>Serviço Nacional de Aprendizagem Industrial (SENAI)</b><br>
 November/2017 - February/2018<br>
@@ -180,7 +212,7 @@ Subjects: Projects of Applications.
 May/2017 - September/2017<br>
 Role: College Teacher (intern).<br>
 Subjects: Algorithms.
-		
+
 - <b>Quântica Comunicação Digital</b><br>
 March/2017 - June/2017<br>
 Role: Software Engineer (freelancer).<br>
@@ -199,17 +231,17 @@ Technologies: HTML, CSS, JavaScript, PHP, SQL, MySQL.
 - <b>CNP Promotora - Correspondente Bradesco Promotora</b><br>
 April/2012 - February/2013<br>
 Role: Software Engineer (intern).<br>
-Technologies: HTML, CSS, JavaScript, PHP, SQL, MySQL. 
+Technologies: HTML, CSS, JavaScript, PHP, SQL, MySQL.
 
 - <b>RH Soft</b><br>
 November/2011 - March/2012<br>
 Role: Software Engineer (intern).<br>
-Technologies: Delphi, SQL, Firebird. 
+Technologies: Delphi, SQL, Firebird.
 
 - <b>Centro Tecnológico Social do Pelourinho e Dossier Digital</b><br>
 January/2011 - November/2011<br>
 Role: College Teacher (temporary).<br>
-Subjects: Data Modelling; Atelier Platform Development; and Windows and Office.
+Subjects: Data Modelling; Atelier Platform Development; Windows and Office.
 
 - <b>eCGlobal</b><br>
 November/2009 - January/2011<br>
