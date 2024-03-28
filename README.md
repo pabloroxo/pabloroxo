@@ -55,7 +55,7 @@ Universidade Salvador (UNIFACS)<br>
 - <b>Companhia de Processamento de Dados do Estado da Bahia (PRODEB)</b><br>
 Salvador (Brazil) - Hybrid<br>
 March/2024 - Present<br>
-Role: Senior Software Engineer (government employee).<br>
+Role: Senior Software Engineer (external consultant).<br>
 Activities: Software architecture, software development, database modelling, tests (automated), software deploying, software maintenance.<br>
 Project: Atende 2.0. A software to manage services and scheduling for the entity SAC (Serviço de Atendimento ao Cidadão) in the state of Bahia.<br>
 Frontend: HTML, CSS, JavaScript, Vue, Bootstrap, DataTables.<br>
@@ -154,7 +154,6 @@ Role: Junior Software Engineer.<br>
 Activities: Software requirements, software prototipation, software development, database modelling, tests (not automated), user training and support, software deploying, software maintenance.<br>
 Project: Jaguar. A software to manage all information about students, teachers and classes at an education institution.<br>
 Technologies: Delphi, SQL, Firebird.
-
 
 ## Work Experience (as college teacher)
 
