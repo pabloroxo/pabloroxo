@@ -165,7 +165,7 @@ Subjects taught: Algorithms; Object-oriented Programming; Databases; Web Develop
 
 ## Work Experience (as temporary worker, freelancer or intern)
 
-- <b>Merkle DACH</b><br>
+- <b>Merkle DACH (Portugal)</b><br>
 December/2023 - January/2024<br>
 Role: Software Engineer (freelancer).<br>
 Technologies: PHP, CSCart, SQL, MySQL, PHPUnit, Git, Scrum.
