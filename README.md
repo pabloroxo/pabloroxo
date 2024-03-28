@@ -14,6 +14,9 @@ Willing to be a software engineering specialist and, in the future, a software a
 
 ### Post-Graduation
 
+- <b>Specialization in Software Architecture</b><br>
+Pontifícia Universidade Católica de Minas Gerais (PUC Minas)<br>
+Ongoing
 - <b>Specialization in Data Science & Big Data</b><br>
 Pontifícia Universidade Católica de Minas Gerais (PUC Minas)<br>
 2021
