@@ -52,13 +52,15 @@ Universidade Salvador (UNIFACS)<br>
 
 ## Work Experience (as software engineer)
 
+_* Note: In the year 2023 I only worked on freelancer projects, living a nomadic lifestyle. <b>So please check the section “Work Experience (as temporary worker, freelancer or intern)” to see them.</b> Now I returned to a regular lifestyle and I'm working as an external consultant at PRODEB, which is a government company that hires only through public competitions. Thus, I’m still looking for a permament position._
+
 - <b>Companhia de Processamento de Dados do Estado da Bahia (PRODEB)</b><br>
 Salvador (Brazil) - Hybrid<br>
-March/2024 - Present<br>
+February/2024 - Present<br>
 Role: Senior Software Engineer (government employee).<br>
 Activities: Software architecture, software development, database modelling, tests (automated), software deploying, software maintenance.<br>
 Project: Atende 2.0. A software to manage services and scheduling for the entity SAC (Serviço de Atendimento ao Cidadão) in the state of Bahia.<br>
-Frontend: HTML, CSS, JavaScript, Vue, Bootstrap, DataTables.<br>
+Frontend: HTML, CSS, JavaScript, Vue, jQuery, Bootstrap, DataTables.<br>
 Backend: PHP, Laravel.<br>
 Database: SQL, SQL Server, Redis.<br>
 Others: RabbitMQ, PHPUnit, Docker, Kubernetes, Supervisor, Sonar, Grafana, Prometheus, Git, Scrum.
