@@ -1,12 +1,12 @@
 # Pablo Ricardo Roxo Silva
 
-## <b>Computer Scientist and Senior Software Engineer</b>
+### <b>Computer Scientist, Senior Software Engineer and aspiring Software Architect</b>
 
 <b>I love absolutely everything about computing, programming and mathematics.<br>
-Experienced in algorithms, data structures, web and mobile development, APIs, databases and tests.<br>
-Open for any stack, programming languages, frameworks, paradigms and methodologies.<br>
-Enthusiast of best practices, patterns, organization and beautifully written codes.<br>
-Willing to be a software engineering specialist and, in the future, a software architect.</b>
+Experienced in algorithms, data structures, web development, mobile development, monoliths,<br>
+RESTful APIs, microservices, relational databases, NoSQL databases and automated tests.<br>
+Open for any stack, programming languages, frameworks, architectures, paradigms and methodologies.<br>
+Enthusiast of best practices, patterns, organization and beautifully written codes.</b>
 
 [Download my CV in PDF format](https://github.com/pabloroxo/pabloroxo/blob/main/Pablo_Roxo_CV.pdf)
 
@@ -34,7 +34,7 @@ Universidade Salvador (UNIFACS)<br>
 
 - Portuguese: Native
 - English: B2
-- Spanish: B2
+- Spanish: B1
 - French: A1 (intending to learn and practice more)
 - Cyrillic: Know the alphabet and some words and sentences, after living in Kyiv (Ukraine), for one month in 2018 as a tourist
 
