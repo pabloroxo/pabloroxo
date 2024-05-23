@@ -40,7 +40,7 @@ Universidade Salvador (UNIFACS)<br>
 
 ## Tech Skills (bold items: bigger expertise; years of experience and year of start)
 
-- Frontend: <b>HTML</b> (15y, 2009) | <b>CSS</b> (15y, 2009) | <b>JavaScript</b> (15y, 2009) | TypeScript (3y, 2017) | <b>Vue</b> (3y, 2019) | Angular(4y, 2017) | <b>jQuery</b> (15y, 2009) | <b>Bootstrap</b> (7y, 2017) | Blade (4y, 2018) | SASS/SCSS/Less (3y, 2017) | jQuery Mobile (1y, 2013) | DataTables (3y, 2019) | Leaflet (1y, 2023)
+- Frontend: <b>HTML</b> (15y, 2009) | <b>CSS</b> (15y, 2009) | <b>JavaScript</b> (15y, 2009) | TypeScript (3y, 2017) | <b>Vue</b> (3y, 2019) | Angular(4y, 2017) | <b>jQuery</b> (15y, 2009) | <b>Bootstrap</b> (6y, 2017) | Tailwind (1y, 2024) | Blade (4y, 2018) | SASS/SCSS/Less (3y, 2017) | jQuery Mobile (1y, 2013) | DataTables (3y, 2019) | Leaflet (1y, 2023)
 
 - Backend/Algorithms: <b>PHP</b> (15y, 2009) | <b>Laravel</b> (6y, 2018) | Lumen (1y, 2019) | Nest (1y, 2020) | Express (1y, 2020) | <b>RESTful APIs</b> (7y, 2016) | Python (1y, 2020) | Java (SE) (3y, 2009) | Dart (2y, 2020) | C/C++ (2y, 2009) | Delphi/Pascal (3y, 2006)
 
@@ -60,7 +60,7 @@ February/2024 - Present<br>
 Role: Senior Software Engineer (government employee).<br>
 Activities: Software architecture, software development, database modelling, tests (automated), software deploying, software maintenance.<br>
 Project: Atende 2.0. A software to manage services and scheduling for the entity SAC (Serviço de Atendimento ao Cidadão) in the state of Bahia.<br>
-Frontend: HTML, CSS, JavaScript, Vue, jQuery, Bootstrap, DataTables.<br>
+Frontend: HTML, CSS, JavaScript, Vue, jQuery, Tailwind, DataTables.<br>
 Backend: PHP, Laravel.<br>
 Database: SQL, SQL Server, Redis.<br>
 Others: RabbitMQ, PHPUnit, Docker, Kubernetes, Supervisor, Sonar, Grafana, Prometheus, Git, Scrum.
@@ -160,7 +160,7 @@ Technologies: Delphi, SQL, Firebird.
 ## Work Experience (as college teacher)
 
 - <b>União Metropolitana de Educação e Cultura (UNIME)</b><br>
-January/2021 - December/2022<br>
+January/2021 - December/2021<br>
 Subjects taught: Algorithms; Object-Oriented Programming II; Web Development I; Web Development II.
 
 - <b>Serviço Nacional de Aprendizagem Industrial (SENAI)</b><br>
