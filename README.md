@@ -270,7 +270,19 @@ Technologies: Windows.
 - Competitor at HackSerpro: Inovação pelo Brasil (Serpro, 2020)
 - Mentor and technical appraiser at Hackathon MPBA 2019: Maratona de Programação em Prol da Sociedade (MPBA, 2019)
 - Mentor at Maratona de Inovação: Hackathon + UJ (Unijorge, 2018)
- 
+
+## Participation in Immersions
+
+- Hero Week (Hero Code, 2024)
+  - Final project and the success of your career as a programmer (2h)
+  - Scalable backend with clean architecture and MongoDB (2h)
+  - Discover how to create the frontend of a scalable project (2h)
+- Python Week (Hashtag Treinamentos, 2021)
+  - Web automation (web-scraping) with Python (2h)
+  - Complete project of Data Science + Machine Learning (2h)
+  - Data analysis with Python (2h)
+  - Automation of processes and tasks with Python (2h)
+
 ## Courses Given
 
 - Manipulating and testing the frontend with Robot Framework (3h, UNIME, 2021)
