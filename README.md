@@ -62,7 +62,7 @@ Activities: Software architecture, software development, database modelling, tes
 Project: Atende 2.0. A software to manage services and scheduling for the entity SAC (Serviço de Atendimento ao Cidadão) in the state of Bahia.<br>
 Frontend: HTML, CSS, JavaScript, Vue, jQuery, Tailwind, DataTables.<br>
 Backend: PHP, Laravel.<br>
-Database: SQL, SQL Server, Redis.<br>
+Database: SQL, SQL Server, PostgreSQL Redis.<br>
 Others: RabbitMQ, PHPUnit, Docker, Kubernetes, Supervisor, Sonar, Grafana, Prometheus, Git, Scrum.
 
 - <b>Jettax Automação Fiscal</b><br>
