@@ -273,6 +273,17 @@ Technologies: Windows.
 
 ## Participation in Immersions
 
+- Full Cycle (Full Cycle, 2024)
+  - GoLang from zero to deploy: a quick guide (2h)
+  - Docker from zero to deploy: a quick guide (3h)
+  - Multitenancy applications with Nest.js (3h)
+  - Intensive Next.js and React.js (3h)
+  - Practical API Gateway and Kong (2h)
+  - The great opportunity and beginning of the project (3h)
+  - API management with Kong (1h)
+  - Sales API development with Golang (3h)
+  - The latest in Frontend with React and Next.js (3h)
+  - Integrating the ticket system with Kong (1h)
 - Hero Week (Hero Code, 2024)
   - Final project and the success of your career as a programmer (2h)
   - Scalable backend with clean architecture and MongoDB (2h)
