@@ -48,7 +48,7 @@ Universidade Salvador (UNIFACS)<br>
 
 - Database/Cache/Cloud: <b>SQL</b> (18y, 2006) | <b>MySQL</b> (15y, 2009) | <b>SQL Server</b> (4y, 2019) | PostgreSQL (2y, 2018) | FireBird (4y, 2006) | MongoDB (2y, 2020) | Redis (1y, 2021) | Amazon S3 (1y, 2021) | Backblaze B2 (1y, 2023)
 
-- Others: <b>JSON</b> (15y, 2009) | Scikit-Learn (1y, 2020) | Docker (3y, 2017) | OpenCV (1y, 2015) | Beanstalkd (1y, 2021) | Git (8y, 2016) | WordPress (3y, 2014) | PHPUnit (2y, 2021) | JUnit (1y, 2017) | Swagger (1y, 2020) | Scrum (7y, 2017)
+- Others: <b>JSON</b> (15y, 2009) | Scikit-Learn (1y, 2020) | Docker (3y, 2017) | Kubernetes (1y, 2024) | Beanstalkd (1y, 2021) | OpenCV (1y, 2015) | Git (8y, 2016) | WordPress (3y, 2014) | PHPUnit (2y, 2021) | JUnit (1y, 2017) | Swagger (1y, 2020) | Scrum (7y, 2017)
 
 ## Work Experience (as software engineer)
 
