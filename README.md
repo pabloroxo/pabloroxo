@@ -44,7 +44,7 @@ Universidade Salvador (UNIFACS)<br>
 
 - Backend/Algorithms: <b>PHP</b> (15y, 2009) | <b>Laravel</b> (6y, 2018) | Lumen (1y, 2019) | Nest (1y, 2020) | Express (1y, 2020) | <b>RESTful APIs</b> (7y, 2016) | Python (1y, 2020) | Java (SE) (3y, 2009) | Dart (2y, 2020) | C/C++ (2y, 2009) | Delphi/Pascal (3y, 2006)
 
-- Mobile: IONIC (3y, 2017) | Flutter (2y, 2020) | Java (Android) (1y, 2018) | Kotlin (Android) (1y, 2023) | Swift (iOS) (1y, 2018)
+- Mobile: IONIC (3y, 2017) | Flutter (2y, 2020)
 
 - Database/Cache/Cloud: <b>SQL</b> (18y, 2006) | <b>MySQL</b> (15y, 2009) | <b>SQL Server</b> (4y, 2019) | PostgreSQL (2y, 2018) | FireBird (4y, 2006) | MongoDB (2y, 2020) | Redis (1y, 2021) | Amazon S3 (1y, 2021) | Backblaze B2 (1y, 2023)
 
@@ -168,6 +168,11 @@ February/2014 - February/2015<br>
 Subjects taught: Algorithms; Object-oriented Programming; Databases; Web Development I; Web Development II; Applied Math; Completion of Course Work.
 
 ## Work Experience (as temporary worker, freelancer or intern)
+
+- <b>Renove Psicologia</b><br>
+August/2024 - Ongoing<br>
+Role: Software Engineer (freelancer).<br>
+Technologies: HTML, CSS, JavaScript, Blade, jQuery, Bootstrap, DataTables, PHP, Laravel, SQL, MySQL.
 
 - <b>Merkle DACH (Portugal)</b><br>
 December/2023 - January/2024<br>
