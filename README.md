@@ -1,42 +1,43 @@
+🚨🚨🚨 Atenção! Currículo sendo refatorado em 04/10/2024!
+
+###### [_English version_](https://github.com/pabloroxo/pabloroxo/blob/main/en/README.md)
+
 # Pablo Ricardo Roxo Silva
 
-### <b>Computer Scientist, Senior Software Engineer and aspiring Software Architect</b>
+### <b>Cientista de Computação e Engenheiro de Software Sênior especializando em Arquitetura de Software</b>
 
-<b>I love absolutely everything about computing, programming and mathematics.<br>
-Experienced in algorithms, data structures, web development, mobile development, monoliths,<br>
-RESTful APIs, microservices, relational databases, NoSQL databases and automated tests.<br>
-Open for any stack, programming languages, frameworks, architectures, paradigms and methodologies.<br>
-Enthusiast of best practices, patterns, organization and beautifully written codes.</b>
+<b>Eu amo tudo sobre computação, programação e matemática. Programando desde 2001 e atuando profissionalmente desde 2006. Tenho experiência em algoritmos, estruturas de dados, desenvolvimento web, desenvolvimento mobile, aplicações monolíticas, APIs REST, microsserviços, bancos de dados relacionais e NoSQL, conteinerização, cache, mensageria e testes automatizados. Estou aberto a quaisquer linguagens de programação, frameworks, arquiteturas, paradigmas e metodologias. Entusiasta das melhores práticas, padrões, organização e códigos bem escritos.</b>
 
-[Download my CV in PDF format](https://github.com/pabloroxo/pabloroxo/blob/main/Pablo_Roxo_CV.pdf)
+<b>Salvador - Bahia - Brasil. Disponível para vagas presenciais e híbridas em Salvador, ou remotas de qualquer localidade. Considero mudança para outra cidade, dependendo da vaga.</b>
 
-## Education
+[Baixe meu currículo em formato PDF](https://github.com/pabloroxo/pabloroxo/blob/main/Pablo_Roxo_CV.pdf)
 
-### Post-Graduation
+## Educação
 
-- <b>Specialization in Software Architecture</b><br>
+### Pós-Graduação
+
+- <b>Especialização em Arquitetura de Soluções</b><br>
 Pontifícia Universidade Católica de Minas Gerais (PUC Minas)<br>
 Ongoing
-- <b>Specialization in Data Science & Big Data</b><br>
+- <b>Especialização em Ciência de Dados & Big Data</b><br>
 Pontifícia Universidade Católica de Minas Gerais (PUC Minas)<br>
 2021
-- <b>Specialization in Mobile Apps Development</b><br>
+- <b>Especialização em Desenvolvimento de Aplicativos para Dispostivos Móveis</b><br>
 Serviço Nacional de Aprendizagem Industrial (SENAI)<br>
 2018
 
-### Graduation
+### Educação
 
-- <b>Bachelor's in Computer Science</b><br>
+- <b>Bacharelado em Ciência da Computação</b><br>
 Universidade Salvador (UNIFACS)<br>
 2014
 
-## Languages
+## Idiomas
 
-- Portuguese: Native
-- English: B2
-- Spanish: B1
-- French: A1 (intending to learn and practice more)
-- Cyrillic: Know the alphabet and some words and sentences, after living in Kyiv (Ukraine), for one month in 2018 as a tourist
+- Português: Native
+- Inglês: Avançado
+- Espanhol: Avançado
+- Francês: Básico
 
 ## Tech Skills (bold items: bigger expertise; years of experience and year of start)
 
@@ -56,8 +57,8 @@ _* Note: In the year 2023 I only worked on freelancer projects, living a nomadic
 
 - <b>Companhia de Processamento de Dados do Estado da Bahia (PRODEB)</b><br>
 Salvador (Brazil) - Hybrid<br>
-February/2024 - Present<br>
-Role: Senior Software Engineer (government employee).<br>
+Fevereiro/2024 - Present<br>
+Nível: Senior Software Engineer (government employee).<br>
 Activities: Software architecture, software development, database modelling, tests (automated), software deploying, software maintenance.<br>
 Project: Atende 2.0. A software to manage services and scheduling for the entity SAC (Serviço de Atendimento ao Cidadão) in the state of Bahia.<br>
 Frontend: HTML, CSS, JavaScript, Vue, jQuery, Tailwind, DataTables.<br>
@@ -67,8 +68,8 @@ Others: RabbitMQ, PHPUnit, Docker, Kubernetes, Supervisor, Sonar, Grafana, Prome
 
 - <b>Jettax Automação Fiscal</b><br>
 São Paulo (Brazil) - Remote<br>
-September/2021 - October/2022<br>
-Role: Software Engineer.<br>
+Setembro/2021 - Outubro/2022<br>
+Nível: Software Engineer.<br>
 Activities: Software prototipation, software development, database modelling, software maintenance.<br>
 Project: Jettax 360. A software for accounting automation that retrieves all invoices from companies from different sources and then audit all of them, presenting an easy-to-read report for accountants and their managers.<br>
 Frontend: HTML, CSS, JavaScript, Bootstrap, Vue.<br>
@@ -78,8 +79,8 @@ Others: Beanstalkd, Docker, Git, Scrum.
 
 - <b>Capgemini</b><br>
 Salvador (Brazil) - Remote<br>
-July/2020 - September/2021<br>
-Role: Senior Software Engineer (and team leader on project Verbas).<br>
+Julho/2020 - Setembro/2021<br>
+Nível: Senior Software Engineer (and team leader on project Verbas).<br>
 Activities: Software requirements, software prototipation, software architecture, software development, database modelling, tests (automated), software maintenance, software documentation.
 
   - Project: Verbas. A software for complementing paycheck information with complex calculations, apart from an existing paycheck software.<br>
@@ -102,8 +103,8 @@ Others: Robot, Swagger, Git, Scrum.
 
 - <b>Assembleia Legislativa da Bahia (ALBA)</b><br>
 Salvador (Brazil) - In-office<br>
-May/2019 - June/2020<br>
-Role: Software Engineer (government employee).<br>
+Maio/2019 - Junho/2020<br>
+Nível: Software Engineer (government employee).<br>
 Activities: Software requirements, software prototipation, software architecture, software development, database modelling, tests (not automated), user training and support, software deploying, software maintenance.
 
   - Project: Portal RH ALBA. A software for managing all information about government employees and politicians (deputies) of the state of Bahia.<br>
@@ -122,8 +123,8 @@ Mobile: IONIC, Angular, TypeScript.
 
 - <b>eCGlobal</b><br>
 Salvador (Brazil) - In-office<br>
-August/2018 - November/2018<br>
-Role: Junior Software Engineer.<br>
+Agosto/2018 - Novembro/2018<br>
+Nível: Junior Software Engineer.<br>
 Activities: Software requirements, software prototipation, software development, database modelling, tests (not automated), user training and support, software maintenance.<br>
 Project: eCGlobal. A software for creating and managing custom social networks focused on surveys. Users could gather points and exchange for prizes after answering questions.<br>
 Frontend: HTML, CSS, JavaScript.<br>
@@ -133,8 +134,8 @@ Others: Docker, Git, Scrum.
 
 - <b>Ericsson Inovação S. A. (EISA)</b><br>
 Salvador (Brazil) - In-office<br>
-August/2017 - November/2017<br>
-Role: Junior Software Engineer.<br>
+Agosto/2017 - Novembro/2017<br>
+Nível: Junior Software Engineer.<br>
 Activities: Software development database modelling, tests (automated), user training and support, software maintenance, software documentation.
 Project: Revenue Manager (RM). A software for managing information of a mobile operator in Ukraine.<br>
 Backend: Java.<br>
@@ -143,252 +144,213 @@ Others: JUnit, Camunda, Sonar, Git, Scrum.
 
 - <b>Fundo de Amparo à Pesquisa no Estado da Bahia (FAPESB)</b><br>
 Salvador (Brazil) - In-office<br>
-September/2015 - August/2016<br>
-Role: Researcher.<br>
+Setembro/2015 - Agosto/2016<br>
+Nível: Researcher.<br>
 Activities: Software requirements, software prototipation, software architecture, software development, tests (not automated), software deploying.
 Project: during an uncompleted master’s program, I worked developing computer vision software to analyze marbling of beef cuts.<br>
-Technologies: C/C++, OpenCV, MATLAB, LaTeX.
+Tecnologias: C/C++, OpenCV, MATLAB, LaTeX.
 
 - <b>Colégio e Faculdade São Tomaz de Aquino</b><br>
 Salvador (Brazil) - In-office<br>
-November/2006 - January/2009
-Role: Junior Software Engineer.<br>
+Novembro/2006 - Janeiro/2009
+Nível: Junior Software Engineer.<br>
 Activities: Software requirements, software prototipation, software development, database modelling, tests (not automated), user training and support, software deploying, software maintenance.<br>
 Project: Jaguar. A software to manage all information about students, teachers and classes at an education institution.<br>
-Technologies: Delphi, SQL, Firebird.
+Tecnologias: Delphi, SQL, Firebird.
 
 ## Work Experience (as college teacher)
 
 - <b>União Metropolitana de Educação e Cultura (UNIME)</b><br>
-January/2021 - December/2021<br>
-Subjects taught: Algorithms; Object-Oriented Programming II; Web Development I; Web Development II.
+Janeiro/2021 - Dezembro/2021<br>
+Disciplinas: Algorithms; Object-Oriented Programming II; Web Development I; Web Development II.
 
 - <b>Serviço Nacional de Aprendizagem Industrial (SENAI)</b><br>
-February/2014 - February/2015<br>
-Subjects taught: Algorithms; Object-oriented Programming; Databases; Web Development I; Web Development II; Applied Math; Completion of Course Work.
+Fevereiro/2014 - Fevereiro/2015<br>
+Disciplinas: Algorithms; Object-oriented Programming; Databases; Web Development I; Web Development II; Applied Math; Completion of Course Work.
 
 ## Work Experience (as temporary worker, freelancer or intern)
 
 - <b>Renove Psicologia</b><br>
-August/2024 - Ongoing<br>
-Role: Software Engineer (freelancer).<br>
-Technologies: HTML, CSS, JavaScript, Blade, jQuery, Bootstrap, DataTables, PHP, Laravel, SQL, MySQL.
+Agosto/2024 - Ongoing<br>
+Tecnologias: HTML, CSS, JavaScript, Blade, jQuery, Bootstrap, DataTables, PHP, Laravel, SQL, MySQL.
 
 - <b>Merkle DACH (Portugal)</b><br>
-December/2023 - January/2024<br>
-Role: Software Engineer (freelancer).<br>
-Technologies: PHP, CSCart, SQL, MySQL, PHPUnit, Git, Scrum.
+Dezembro/2023 - Janeiro/2024<br>
+Tecnologias: PHP, CSCart, SQL, MySQL, PHPUnit, Git, Scrum.
 
 - <b>Prefeitura de Gaspar-SC</b><br>
-October/2023 - December/2023<br>
-Role: Software Engineer (freelancer).<br>
-Technologies: HTML, CSS, JavaScript, jQuery, Bootstrap, DataTables, Leaflet,  PHP, Laravel, SQL, MySQL, Backblaze B2, Git.
+Outubro/2023 - Dezembro/2023<br>
+Tecnologias: HTML, CSS, JavaScript, jQuery, Bootstrap, DataTables, Leaflet,  PHP, Laravel, SQL, MySQL, Backblaze B2, Git.
 
 - <b>Loginfo</b><br>
-August/2023 - September/2023<br>
-Role: Software Engineer (freelancer).<br>
-Technologies: HTML, CSS, JavaScript, jQuery, Bootstrap, PHP, Laravel, SQL, MySQL.
+Agosto/2023 - Setembro/2023<br>
+Tecnologias: HTML, CSS, JavaScript, jQuery, Bootstrap, PHP, Laravel, SQL, MySQL.
 
 - <b>Loovi</b><br>
-July/2023 - August/2023<br>
-Role: Software Engineer (freelancer).<br>
-Technologies: HTML, CSS, JavaScript, Angular, TypeScript.
+Julho/2023 - Agosto/2023<br>
+Tecnologias: HTML, CSS, JavaScript, Angular, TypeScript.
 
 - <b>ObservaBaía (UFBA)</b><br>
-May/2023 - August/2023<br>
-Role: Software Engineer (freelancer).<br>
-Technologies: HTML, CSS, JavaScript, jQuery, Bootstrap, Leaflet, PHP, WordPress, SQL, MySQL.
+Maio/2023 - Agosto/2023<br>
+Tecnologias: HTML, CSS, JavaScript, jQuery, Bootstrap, Leaflet, PHP, WordPress, SQL, MySQL.
 
 - <b>Sábio Portal Educacional</b><br>
-August/2019 - March/2020 <br>
-Role: Software Engineer (freelancer).<br>
-Technologies: HTML, CSS, JavaScript, jQuery, PHP, Laravel, SQL, MySQL.
+Agosto/2019 - Março/2020 <br>
+Tecnologias: HTML, CSS, JavaScript, jQuery, PHP, Laravel, SQL, MySQL.
 
 - <b>StartOnApp</b><br>
-October/2018 - May/2019<br>
-Role: Software Engineer (freelancer).<br>
-Technologies: HTML, CSS, JavaScript, Bootstrap, IONIC, Angular, TypeScript Git.
+Outubro/2018 - Maio/2019<br>
+Tecnologias: HTML, CSS, JavaScript, Bootstrap, IONIC, Angular, TypeScript Git.
 
 - <b>Serviço Nacional de Aprendizagem Industrial (SENAI)</b><br>
-November/2017 - February/2018<br>
-Role: Software Engineer (freelancer).<br>
-Technologies: HTML, CSS, JavaScript, jQuery, PHP, SQL, MySQL.
+Novembro/2017 - Fevereiro/2018<br>
+Tecnologias: HTML, CSS, JavaScript, jQuery, PHP, SQL, MySQL.
 
 - <b>Serviço Nacional de Aprendizagem Industrial (SENAI)</b><br>
-August/2017 - August/2017<br>
-Role: College Teacher (temporary).<br>
-Subjects: Projects of Applications.
+Agosto/2017 - Agosto/2017<br>
+Disciplinas: Projects of Applications.
 
 - <b>Universidade Federal da Bahia (UFBA)</b><br>
-May/2017 - September/2017<br>
-Role: College Teacher (intern).<br>
-Subjects: Algorithms.
+Maio/2017 - Setembro/2017<br>
+Disciplinas: Algorithms.
 
 - <b>Quântica Comunicação Digital</b><br>
-March/2017 - June/2017<br>
-Role: Software Engineer (freelancer).<br>
-Technologies: HTML, CSS, JavaScript, jQuery, Bootstrap, PHP, WordPress, IONIC, Angular, TypeScript, SQL, MySQL.
+Março/2017 - Junho/2017<br>
+Tecnologias: HTML, CSS, JavaScript, jQuery, Bootstrap, PHP, WordPress, IONIC, Angular, TypeScript, SQL, MySQL.
 
 - <b>Serviço Nacional de Aprendizagem Industrial (SENAI)</b><br>
-September/2016 - December/2016<br>
-Role: Software Engineer (temporary).<br>
-Technologies: HTML, CSS, JavaScript, jQuery, PHP, SQL, MySQL.
+Setembro/2016 - Dezembro/2016<br>
+Tecnologias: HTML, CSS, JavaScript, jQuery, PHP, SQL, MySQL.
 
 - <b>KD Inovação</b><br>
-August/2015 - September/2015<br>
-Role: Software Engineer (freelancer).<br>
-Technologies: HTML, CSS, JavaScript, PHP, SQL, MySQL.
+Agosto/2015 - Setembro/2015<br>
+Tecnologias: HTML, CSS, JavaScript, PHP, SQL, MySQL.
 
 - <b>CNP Promotora - Correspondente Bradesco Promotora</b><br>
-April/2012 - February/2013<br>
-Role: Software Engineer (intern).<br>
-Technologies: HTML, CSS, JavaScript, PHP, SQL, MySQL.
+April/2012 - Fevereiro/2013<br>
+Tecnologias: HTML, CSS, JavaScript, PHP, SQL, MySQL.
 
 - <b>RH Soft</b><br>
-November/2011 - March/2012<br>
-Role: Software Engineer (intern).<br>
-Technologies: Delphi, SQL, Firebird.
+Novembro/2011 - Março/2012<br>
+Tecnologias: Delphi, SQL, Firebird.
 
 - <b>Centro Tecnológico Social do Pelourinho e Dossier Digital</b><br>
-January/2011 - November/2011<br>
-Role: College Teacher (temporary).<br>
-Subjects: Data Modelling; Atelier Platform Development; Windows and Office.
+Janeiro/2011 - Novembro/2011<br>
+Disciplinas: Data Modelling; Atelier Platform Development; Windows and Office.
 
 - <b>eCGlobal</b><br>
-November/2009 - January/2011<br>
-Role: Software Engineer (intern).<br>
-Technologies: HTML, CSS, JavaScript, PHP, SQL, MySQL.
+Novembro/2009 - Janeiro/2011<br>
+Tecnologias: HTML, CSS, JavaScript, PHP, SQL, MySQL.
 
 - <b>Faculdade Área 1</b><br>
-April/2009 - September/2009<br>
-Role: Technical Support (intern).<br>
-Technologies: Windows.
+April/2009 - Setembro/2009<br>
+Tecnologias: Windows.
 
-## Published Papers
+## Artigos publicados
 
-- ROXO. P.; MARQUES NETO, M. C. 2DrowSys: An Anti-drowsiness Device for Motorcyclists. In: WEBMEDIA’21 - XXVII Simpósio Brasileiro de Sistemas Multimídia e Web. São João del Rei-MG. 2021.
-- ROXO. P.; SALVADOR, L. do N. BlinALT: Projeto de um Sistema Colaborativo de Audiodescrição de Imagens para Deficientes Visuais. In: WEPGCOMP’17 - II Workshop de Estudantes do Programa de Pós-graduação em Ciência da Computação. Salvador-BA. 2017.
-- PENHA, J. P. G.; ROXO, P.; OLIVEIRA, L. R. Visual Analysis of Morphological Features of Live Cattle From RGB-D-T Data. In: SIBGRAPI’16 - XXIX Conference on Graphics, Patterns and Images. São José dos Campos-SP. 2016.
+- ROXO. P.; MARQUES NETO, M. C. 2DrowSys: An Anti-drowsiness Device for Motorcyclists. In: WEBMEDIA’21 – XXVII Simpósio Brasileiro de Sistemas Multimídia e Web. São João del Rei-MG. 2021.
+- ROXO. P.; SALVADOR, L. do N. BlinALT: Projeto de um Sistema Colaborativo de Audiodescrição de Imagens para Deficientes Visuais. In: WEPGCOMP’17 – II Workshop de Estudantes do Programa de Pós-graduação em Ciência da Computação. Salvador-BA. 2017.
+- PENHA, J. P. G.; ROXO, P.; OLIVEIRA, L. R. Visual Analysis of Morphological Features of Live Cattle From RGB-D-T Data. In: SIBGRAPI’16 – XXIX Conference on Graphics, Patterns and Images. São José dos Campos-SP. 2016.
 
-## Participation in Hackathons
+## Participação em hackathons
 
-- Competitor at HackSerpro: Inovação pelo Brasil (Serpro, 2020)
-- Mentor and technical appraiser at Hackathon MPBA 2019: Maratona de Programação em Prol da Sociedade (MPBA, 2019)
-- Mentor at Maratona de Inovação: Hackathon + UJ (Unijorge, 2018)
+- Competidor no HackSerpro: Inovação pelo Brasil (Serpro, 2020)
+- Mentor e avaliador técnico no Hackathon MPBA 2019: Maratona de Programação em Prol da Sociedade (MPBA, 2019)
+- Mentor na Maratona de Inovação: Hackathon + UJ (Unijorge, 2018)
 
-## Participation in Immersions
+## Cursos ministrados
 
-- Full Cycle (Full Cycle, 2024)
-  - GoLang from zero to deploy: a quick guide (2h)
-  - Docker from zero to deploy: a quick guide (3h)
-  - Multitenancy applications with Nest.js (3h)
-  - Intensive Next.js and React.js (3h)
-  - Practical API Gateway and Kong (2h)
-  - The great opportunity and beginning of the project (3h)
-  - API management with Kong (1h)
-  - Sales API development with Golang (3h)
-  - The latest in Frontend with React and Next.js (3h)
-  - Integrating the ticket system with Kong (1h)
-- Hero Week (Hero Code, 2024)
-  - Final project and the success of your career as a programmer (2h)
-  - Scalable backend with clean architecture and MongoDB (2h)
-  - Discover how to create the frontend of a scalable project (2h)
-- Python Week (Hashtag Treinamentos, 2021)
-  - Web automation (web-scraping) with Python (2h)
-  - Complete project of Data Science + Machine Learning (2h)
-  - Data analysis with Python (2h)
-  - Automation of processes and tasks with Python (2h)
-
-## Courses Given
-
-- Manipulating and testing the frontend with Robot Framework (3h, UNIME, 2021)
-- Manipulating and testing the backend with Postman (3h, UNIME, 2021)
-- A full application in PHP/Laravel (3h, UNIME, 2021)
-- Software versioning with Git (3h, UNIME, 2021)
+- Manipulando e testando o frontend com Robot Framework (3h, UNIME, 2021)
+- Manipulando e testando o backend com Postman (3h, UNIME, 2021)
+- Uma aplicação completa em PHP/Laravel (3h, UNIME, 2021)
+- Versionamento de software com Git (3h, UNIME, 2021)
 - Laravel: Hands On! (8h, Espaço Colabore, 2019)
-- Mobile apps development (IONIC) with webservice manipulation (PHP) (4h, UFBA, 2019)
-- Digital Image Processing: applications with OpenCV in C/C++ (4h, UFBA, 2015)
+- Desenvolvimento de aplicativos móveis (IONIC) com manipulação de webservice (PHP) (4h, UFBA, 2019)
+- Processamento Digital de Imagens: aplicações com OpenCV em C/C++ (4h, UFBA, 2015)
 
-## Lectures Given
+## Palestras ministradas
 
-- IT Professional's Career Ahead to 2023 (2h, ICEIA, 2023)
-- Assistive Technology: Computer Science as human function restorer of people with disabilities (1h, UFBA, 2019)
-- BlinG: a gamebook platform for mobile devices and users with visual impairment (1h, SENAI, 2018)
-- Digital Image Processing: a theoretical and practical introduction with OpenCV (1h, UFBA, 2015)
-- Ubiquitous Computing: omnipresence of technology (2h, SENAI, 2014)
-- Location-based mobile games: aa project of a location-based game (1h, UNIFACS, 2013)
-- The relevance of Mathematics’ subjects in Computer Science course (1h, UNIFACS, 2013)
+- Testes automatizados de software: Um dever do programador (2h, UNIME, 2024)
+- Carreira do profissional de TI para 2023 (2h, ICEIA, 2023)
+- Tecnologia Assistiva: A Ciência da Computação como restauradora da função humana de pessoas com deficiência (1h, UFBA, 2019)
+- BlinG: uma plataforma de gamebooks para dispositivos móveis e usuários com deficiência visual (1h, SENAI, 2018)
+- Processamento Digital de Imagens: uma introdução teórica e prática com OpenCV(1h, UFBA, 2015)
+- Computação Ubíqua: onipresença da tecnologia (2h, SENAI, 2014)
+- Jogos móveis locativos: projeto de um jogo baseado em localização (1h, UNIFACS, 2013)
+- A relevância das disciplinas da Matemática no curso de Ciência da Computação (1h, UNIFACS, 2013)
 
-## Courses Taken
+## Participação em cursos
 
-- Flutter Hands On: From scratch to app (8h, Espaço Colabore, 2023)
-- Fundamentals of Backend Communications and Protocols (26h, Udemy, 2023)
-- Robot Beginner with Selenium Webdriver (5h, QAninja Academy, 2021)
-- Creating your first Flutter app (2h, Balta, 2020)
-- Algorithms with Dart (5h, Balta, 2020)
-- Computational Reasoning (4h, UFBA, 2018)
-- Introduction to test automation in the context of the Java language (6h, UFBA, 2017)
-- #PraCegoVer: Image description course for social networks (4h, ALBA, 2017)
-- Web Development with Java in Practice (3h, UFBA, 2015)
-- Android application development (8h, LinguÁgil, 2012)
-- HTML5 and CSS3 in practice (8h, LinguÁgil, 2012)
-- Android application development (8h, LinguÁgil, 2011)
-- Object-oriented JavaScript (4h, UNIFACS, 2010)
-- Java SE and MySQL (60h, Área 1, 2009)
+- Flutter Hands On: Do zero ao app (8h, Espaço Colabore, 2023)
+- Fundamentos de comunicações e protocolos de backend (26h, Udemy, 2023)
+- Robot iniciante com Selenium Webdriver (5h, QAninja Academy, 2021)
+- Criando seu primeiro aplicativo em Flutter (2h, Balta, 2020)
+- Algoritmos com Dart (5h, Balta, 2020)
+- Curso Laravel 5.3 - Sistemas com PHP (2h, EspecializaTI, 2019)
+- Raciocínio Computacional (4h, UFBA, 2018)
+- Introdução à automação de testes no contexto da linguagem Java (6h, UFBA, 2017)
+- #PraCegoVer: Curso de audiodescrição de imagens para redes sociais (4h, ALBA, 2017)
+- Desenvolvimento Web com Java na Prática (3h, UFBA, 2015)
+- Desenvolvimento de aplicativos para Android (8h, LinguÁgil, 2012)
+- HTML5 e CSS3 na prática (8h, LinguÁgil, 2012)
+- Desenvolvimento de aplicativos para Android (8h, LinguÁgil, 2011)
+- JavaScript orientado a objetos (4h, UNIFACS, 2010)
+- Java SE e MySQL (60h, Área 1, 2009)
 - UML 2.0 (16h, TecKnow, 2009)
-- Mobile applications and games with Java ME (8h, UNIFACS, 2009)
-- Installation and maintenance of computers and networks (120h, SOS Computadores, 2007)
-- Robotics with Lego Mindstorm (8h, UNIFACS, 2006)
+- Aplicativos móveis e jogos com Java ME (8h, UNIFACS, 2009)
+- Instalação e manutenção de computadores e redes (120h, SOS
+- Computadores, 2007)
+- Robótica com Lego Mindstorm (8h, UNIFACS, 2006)
 
-## Lectures Taken
+## Participação em palestras
 
-- Flutter news for 2023 (1h, Google, 2023)
-- Best Accessibility Practices in Android App Development (1h, Google, 2023)
-- Incredible news for Android in 2023 (1h, Google, 2023)
-- What’s new in CSS (1h, Google, 2023)
-- Unidev Tech Day: Blockchain and Bitcoin (3h, UNIME, 2022)
-- Artificial Intelligence applied in companies (2h, SEBRAE, 2022)
-- Web automation (web-scraping) with Python (2h, Hashtag Treinamentos, 2021)
-- Complete project of Data Science + Machine Learning (2h, Hashtag Treinamentos, 2021)
-- Data analysis with Python (2h, Hashtag Treinamentos, 2021)
-- Automation of processes and tasks with Python (2h, Hashtag Treinamentos, 2021)
-- Introduction to test automation in the context of the Java language (7h, UFBA, 2017)
-- Assistive Technology and Accessibility in the educational context (2h, UFBA, 2017)
-- The Researcher’s Career in Computer Science (2h, UFBA, 2015)
-- Web Components: An increasingly present future (1h, LinguÁgil, 2014)
-- Android Development: A new form of entrepreneurship (3h, SENAC, 2014)
-- Version Control with Git (4h, ERBASE, 2013)
-- Vehicle Networks: Models and Applications (4h, ERBASE, 2013)
-- Software Variability (4h, ERBASE, 2013)
-- Android application development (4h, ERBASE, 2012)
-- User interface in mobile applications (4h, ERBASE, 2012)
-- Context-sensitive mobile computing (4h, ERBASE, 2012)
-- Crimes on the Internet (2h, UNIFACS, 2009)
-- Interactive applications for Digital TV (2h, UNIFACS, 2009)
-- Diversity in programming languages (2h, UNIFACS, 2009)
-- ITIL and COBIT (3h, FIB, 2009)
+- Novidades do Flutter para 2023 (1h, Google, 2023)
+- Melhores práticas de acessibilidade no desenvolvimento de aplicativos para Android (1h, Google, 2023)
+- Notícias incríveis para o Android em 2023 (1h, Google, 2023)
+- O que há de novo no CSS (1h, Google, 2023)
+- Unidev Tech Day: Blockchain e Bitcoin (3h, UNIME, 2022)
+- Inteligência Artificial aplicada a empresas (2h, SEBRAE, 2022)
+- Automação web (web scraping) com Python (2h, Hashtag Treinamentos, 2021)
+- Projeto completo de Data Science + Machine Learning (2h, Hashtag Treinamentos, 2021)
+- Análise de dados com Python (2h, Hashtag Treinamentos, 2021)
+- Automação de processos e tarefas com Python (2h, Hashtag Treinamentos, 2021)
+- Introdução à automação de testes no contexto da linguagem Java (7h, UFBA, 2017)
+- Tecnologia Assistiva e Acessibilidade no contexto educacional (2h, UFBA, 2017)
+- A carreira do pesquisador em ciência da computação (2h, UFBA, 2015)
+- Componentes Web: um futuro cada vez mais presente (1h, LinguÁgil, 2014)
+- Desenvolvimento Android: uma nova forma de empreendedorismo (3h, SENAC, 2014)
+- Controle de versão com Git (4h, ERBASE, 2013)
+- Redes Veiculares: Modelos e Aplicações (4h, ERBASE, 2013)
+- Variabilidade de Software (4h, ERBASE, 2013)
+- Desenvolvimento de aplicativos para Android (4h, ERBASE, 2012)
+- Interface do usuário em aplicativos móveis (4h, ERBASE, 2012)
+- Computação móvel sensível ao contexto (4h, ERBASE, 2012)
+- Crimes na Internet (2h, UNIFACS, 2009)
+- Aplicativos interativos para TV Digital (2h, UNIFACS, 2009)
+- Diversidade em linguagens de programação (2h, UNIFACS, 2009)
+- ITIL e COBIT (3h, FIB, 2009)
 - iOS x Android (2h, UNIFACS, 2009)
 
-## Participation in Events
+## Participação em eventos
 
 - Google IO Extended Brasil 2023 (2023)
-- XXVII WebMedia  (speaker, 2021)
-- Cursos de Férias - UNIME (speaker, 2021)
+- XXVII WebMedia  (palestrante, 2021)
+- Cursos de Férias - UNIME (palestrante, 2021)
 - LinguÁgil 2018 (2018)
 - Interações (2018)
-- II WEPGCOMP (speaker, 2017)
+- II WEPGCOMP (palestrante, 2017)
 - Campus Party SP 2017 (2017)
-- SEMCOMP 2015 (speaker, 2015)
-- XXVIII SIBGRAPI (staff, 2015)
-- Mundo SENAI (speaker, 2014)
+- SEMCOMP 2015 (palestrante, 2015)
+- XXVIII SIBGRAPI (organização, 2015)
+- Mundo SENAI (palestrante, 2014)
 - LinguÁgil 2014 (2014)
 - GDG DevFest Nordeste (2014)
 - GDG TechTalk (2014)
 - XIII ERBASE (2013)
-- SEMCOMP 2013 (speaker, 2013)
+- SEMCOMP 2013 (palestrante, 2013)
 - LinguÁgil 2012 (2012)
 - XII ERBASE (2012)
-- SEMCOMP 2012 (staff, 2012)
+- SEMCOMP 2012 (organização, 2012)
 - LinguÁgil 2011 (2011)
 - Blender Day 2011 (2011)
 - CloudCamp Day (2011)
@@ -396,7 +358,7 @@ Technologies: Windows.
 - III Semana TIC da Bahia (2009)
 - II Semana TIC da Bahia (2008)
 
-## Volunteer Work
+## Trabalho voluntário
 
-- Introduction to the use of computers, Office and Internet in social projects (15h, UNIFACS, 2013)
-- Introduction to the use of computers, Office and Internet in social projects (18h, UNIFACS, 2010)
+- Introdução ao uso de computadores, Office e Internet em projetos sociais (15h, UNIFACS, 2013)
+- Introdução ao uso de computadores, Office e Internet em projetos sociais (18h, UNIFACS, 2010)
