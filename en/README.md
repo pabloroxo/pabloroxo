@@ -8,8 +8,6 @@ RESTful APIs, microservices, relational databases, NoSQL databases and automated
 Open for any stack, programming languages, frameworks, architectures, paradigms and methodologies.<br>
 Enthusiast of best practices, patterns, organization and beautifully written codes.</b>
 
-[Download my CV in PDF format](https://github.com/pabloroxo/pabloroxo/blob/main/Pablo_Roxo_CV.pdf)
-
 ## Education
 
 ### Post-Graduation
