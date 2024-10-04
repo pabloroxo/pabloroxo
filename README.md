@@ -1,4 +1,4 @@
-🚨🚨🚨 Atenção! Currículo sendo refatorado em 04/10/2024!
+🚨🚨🚨 Atenção! Currículo sendo refatorado em 05/10/2024!
 
 ###### [_English version_](https://github.com/pabloroxo/pabloroxo/blob/main/en/README.md)
 
@@ -39,7 +39,7 @@ Universidade Salvador (UNIFACS)<br>
 - Espanhol: Avançado
 - Francês: Básico
 
-## Tech Skills (bold items: bigger expertise; years of experience and year of start)
+## Competências técnicas (itens destacados: maior expertise)
 
 - Frontend: <b>HTML</b> (15y, 2009) | <b>CSS</b> (15y, 2009) | <b>JavaScript</b> (15y, 2009) | TypeScript (3y, 2017) | <b>Vue</b> (3y, 2019) | Angular(4y, 2017) | <b>jQuery</b> (15y, 2009) | <b>Bootstrap</b> (6y, 2017) | Tailwind (1y, 2024) | Blade (4y, 2018) | SASS/SCSS/Less (3y, 2017) | jQuery Mobile (1y, 2013) | DataTables (3y, 2019) | Leaflet (1y, 2023)
 
@@ -53,109 +53,107 @@ Universidade Salvador (UNIFACS)<br>
 
 ## Work Experience (as software engineer)
 
-_* Note: In the year 2023 I only worked on freelancer projects, living a nomadic lifestyle. <b>So please check the section “Work Experience (as temporary worker, freelancer or intern)” to see them.</b> Now I returned to a regular lifestyle and I'm working as a consultant at PRODEB, which is a government company that hires only through public competitions. Thus, I’m still looking for a permament position._
-
 - <b>Companhia de Processamento de Dados do Estado da Bahia (PRODEB)</b><br>
-Salvador (Brazil) - Hybrid<br>
-Fevereiro/2024 - Present<br>
-Nível: Senior Software Engineer (government employee).<br>
-Activities: Software architecture, software development, database modelling, tests (automated), software deploying, software maintenance.<br>
-Project: Atende 2.0. A software to manage services and scheduling for the entity SAC (Serviço de Atendimento ao Cidadão) in the state of Bahia.<br>
+Salvador (Brazil) - Híbrido<br>
+Fevereiro/2024 - Setembro/2024<br>
+Nível: sênior.<br>
+Atividades: Software architecture, software development, database modelling, tests (automated), software deploying, software maintenance.<br>
+Projeto: Atende 2.0. A software to manage services and scheduling for the entity SAC (Serviço de Atendimento ao Cidadão) in the state of Bahia.<br>
 Frontend: HTML, CSS, JavaScript, Vue, jQuery, Tailwind, DataTables.<br>
 Backend: PHP, Laravel.<br>
 Database: SQL, SQL Server, PostgreSQL, Redis.<br>
 Others: RabbitMQ, PHPUnit, Docker, Kubernetes, Supervisor, Sonar, Grafana, Prometheus, Git, Scrum.
 
 - <b>Jettax Automação Fiscal</b><br>
-São Paulo (Brazil) - Remote<br>
+São Paulo (Brazil) - Remoto<br>
 Setembro/2021 - Outubro/2022<br>
-Nível: Software Engineer.<br>
-Activities: Software prototipation, software development, database modelling, software maintenance.<br>
-Project: Jettax 360. A software for accounting automation that retrieves all invoices from companies from different sources and then audit all of them, presenting an easy-to-read report for accountants and their managers.<br>
+Nível: pleno.<br>
+Atividades: Software prototipation, software development, database modelling, software maintenance.<br>
+Projeto: Jettax 360. A software for accounting automation that retrieves all invoices from companies from different sources and then audit all of them, presenting an easy-to-read report for accountants and their managers.<br>
 Frontend: HTML, CSS, JavaScript, Bootstrap, Vue.<br>
 Backend: PHP, Laravel.<br>
 Database: MongoDB, Amazon S3, Redis.<br>
 Others: Beanstalkd, Docker, Git, Scrum.
 
 - <b>Capgemini</b><br>
-Salvador (Brazil) - Remote<br>
+Salvador (Brazil) - Remoto<br>
 Julho/2020 - Setembro/2021<br>
-Nível: Senior Software Engineer (and team leader on project Verbas).<br>
-Activities: Software requirements, software prototipation, software architecture, software development, database modelling, tests (automated), software maintenance, software documentation.
+Nível: sênior (líder de time no projeto Verbas).<br>
+Atividades: Software requirements, software prototipation, software architecture, software development, database modelling, tests (automated), software maintenance, software documentation.
 
-  - Project: Verbas. A software for complementing paycheck information with complex calculations, apart from an existing paycheck software.<br>
+  - Projeto: Verbas. A software for complementing paycheck information with complex calculations, apart from an existing paycheck software.<br>
 Frontend: HTML, CSS, JavaScript, Bootstrap, Vue.
 Backend: PHP, Laravel.<br>
 Database: SQL, SQL Server.<br>
 Others: PHPUnit, Robot, Swagger, Git, Scrum.
 
-  - Project: Uno. A software for managing the processing of confidential court cases.<br>
+  - Projeto: Uno. A software for managing the processing of confidential court cases.<br>
 Frontend: HTML, CSS, JavaScript, Bootstrap, Blade.<br>
 Backend: PHP, Laravel.<br>
 Database: MongoDB.<br>
 Others: Git, Scrum.
 
-  - Project: Despesas Miúdas. A software for managing small government projects which don’t need public biddings.<br>
+  - Projeto: Despesas Miúdas. A software for managing small government projects which don’t need public biddings.<br>
 Frontend: HTML, CSS, JavaScript, Bootstrap, Vue.<br>
 Backend: PHP, Laravel.<br>
 Database: SQL, SQL Server.<br>
 Others: Robot, Swagger, Git, Scrum.
 
 - <b>Assembleia Legislativa da Bahia (ALBA)</b><br>
-Salvador (Brazil) - In-office<br>
+Salvador (Brazil) - Presencial<br>
 Maio/2019 - Junho/2020<br>
-Nível: Software Engineer (government employee).<br>
-Activities: Software requirements, software prototipation, software architecture, software development, database modelling, tests (not automated), user training and support, software deploying, software maintenance.
+Nível: pleno.<br>
+Atividades: Software requirements, software prototipation, software architecture, software development, database modelling, tests (not automated), user training and support, software deploying, software maintenance.
 
-  - Project: Portal RH ALBA. A software for managing all information about government employees and politicians (deputies) of the state of Bahia.<br>
+  - Projeto: Portal RH ALBA. A software for managing all information about government employees and politicians (deputies) of the state of Bahia.<br>
 Frontend: HTML, CSS, JavaScript, Bootstrap, Blade, jQuery, Datatables.<br>
 Backend: PHP, Laravel, Lumen.<br>
 Database: SQL, SQL Server, Firebird.<br>
 Others: Git.
 
-  - Project: Portal RH ALBA. A mobile application that has the same content of Portal RH ALBA’s website. It was released in both Apple App Store and Google Play Store. This app was rewritten in Flutter and Dart, but this version wasn’t released.<br>
+  - Projeto: Portal RH ALBA. A mobile application that has the same content of Portal RH ALBA’s website. It was released in both Apple App Store and Google Play Store. This app was rewritten in Flutter and Dart, but this version wasn’t released.<br>
 Mobile: IONIC, Angular, TypeScript.<br>
 Backend: PHP, Laravel.<br>
 Database: SQL, SQL Server.
 
-  - Project: Constituição da Bahia. A mobile application with the entire constitution of the state of Bahia. It was released in both Apple App Store and Google Play Store.<br>
+  - Projeto: Constituição da Bahia. A mobile application with the entire constitution of the state of Bahia. It was released in both Apple App Store and Google Play Store.<br>
 Mobile: IONIC, Angular, TypeScript.
 
 - <b>eCGlobal</b><br>
-Salvador (Brazil) - In-office<br>
+Salvador (Brazil) - Presencial<br>
 Agosto/2018 - Novembro/2018<br>
-Nível: Junior Software Engineer.<br>
-Activities: Software requirements, software prototipation, software development, database modelling, tests (not automated), user training and support, software maintenance.<br>
-Project: eCGlobal. A software for creating and managing custom social networks focused on surveys. Users could gather points and exchange for prizes after answering questions.<br>
+Nível: júnior.<br>
+Atividades: Software requirements, software prototipation, software development, database modelling, tests (not automated), user training and support, software maintenance.<br>
+Projeto: eCGlobal. A software for creating and managing custom social networks focused on surveys. Users could gather points and exchange for prizes after answering questions.<br>
 Frontend: HTML, CSS, JavaScript.<br>
 Backend: PHP, CodeIgniter.<br>
 Database: SQL, PostgreSQL.<br>
 Others: Docker, Git, Scrum.
 
 - <b>Ericsson Inovação S. A. (EISA)</b><br>
-Salvador (Brazil) - In-office<br>
+Salvador (Brazil) - Presencial<br>
 Agosto/2017 - Novembro/2017<br>
-Nível: Junior Software Engineer.<br>
-Activities: Software development database modelling, tests (automated), user training and support, software maintenance, software documentation.
-Project: Revenue Manager (RM). A software for managing information of a mobile operator in Ukraine.<br>
+Nível: júnior.<br>
+Atividades: Software development database modelling, tests (automated), user training and support, software maintenance, software documentation.
+Projeto: Revenue Manager (RM). A software for managing information of a mobile operator in Ukraine.<br>
 Backend: Java.<br>
 Database: Cassandra.<br>
 Others: JUnit, Camunda, Sonar, Git, Scrum.
 
 - <b>Fundo de Amparo à Pesquisa no Estado da Bahia (FAPESB)</b><br>
-Salvador (Brazil) - In-office<br>
+Salvador (Brazil) - Presencial<br>
 Setembro/2015 - Agosto/2016<br>
-Nível: Researcher.<br>
-Activities: Software requirements, software prototipation, software architecture, software development, tests (not automated), software deploying.
-Project: during an uncompleted master’s program, I worked developing computer vision software to analyze marbling of beef cuts.<br>
+Nível: pleno.<br>
+Atividades: Software requirements, software prototipation, software architecture, software development, tests (not automated), software deploying.
+Projeto: during an uncompleted master’s program, I worked developing computer vision software to analyze marbling of beef cuts.<br>
 Tecnologias: C/C++, OpenCV, MATLAB, LaTeX.
 
 - <b>Colégio e Faculdade São Tomaz de Aquino</b><br>
-Salvador (Brazil) - In-office<br>
+Salvador (Brazil) - Presencial<br>
 Novembro/2006 - Janeiro/2009
-Nível: Junior Software Engineer.<br>
-Activities: Software requirements, software prototipation, software development, database modelling, tests (not automated), user training and support, software deploying, software maintenance.<br>
-Project: Jaguar. A software to manage all information about students, teachers and classes at an education institution.<br>
+Nível: júnior.<br>
+Atividades: Software requirements, software prototipation, software development, database modelling, tests (not automated), user training and support, software deploying, software maintenance.<br>
+Projeto: Jaguar. A software to manage all information about students, teachers and classes at an education institution.<br>
 Tecnologias: Delphi, SQL, Firebird.
 
 ## Work Experience (as college teacher)
@@ -208,7 +206,7 @@ Tecnologias: HTML, CSS, JavaScript, jQuery, PHP, SQL, MySQL.
 
 - <b>Serviço Nacional de Aprendizagem Industrial (SENAI)</b><br>
 Agosto/2017 - Agosto/2017<br>
-Disciplinas: Projects of Applications.
+Disciplinas: Projetos of Applications.
 
 - <b>Universidade Federal da Bahia (UFBA)</b><br>
 Maio/2017 - Setembro/2017<br>
