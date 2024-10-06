@@ -1,10 +1,8 @@
-🚨🚨🚨 Atenção! Currículo sendo refatorado em 05/10/2024!
-
 ###### [_English version_](https://github.com/pabloroxo/pabloroxo/blob/main/en/README.md)
 
 # Pablo Ricardo Roxo Silva
 
-### <b>Cientista de Computação e Engenheiro de Software Sênior especializando em Arquitetura de Software</b>
+### <b>Cientista de Computação | Engenheiro de Software Sênior | Especializando em Arquitetura de Soluções</b>
 
 <b>Eu amo tudo sobre computação, programação e matemática. Programando desde 2001 e atuando profissionalmente desde 2006. Tenho experiência em algoritmos, estruturas de dados, desenvolvimento web, desenvolvimento mobile, aplicações monolíticas, APIs REST, microsserviços, bancos de dados relacionais e NoSQL, conteinerização, cache, mensageria e testes automatizados. Estou aberto a quaisquer linguagens de programação, frameworks, arquiteturas, paradigmas e metodologias. Entusiasta das melhores práticas, padrões, organização e códigos bem escritos.</b>
 
@@ -18,7 +16,7 @@
 
 - <b>Especialização em Arquitetura de Soluções</b><br>
 Pontifícia Universidade Católica de Minas Gerais (PUC Minas)<br>
-Ongoing
+Cursando
 - <b>Especialização em Ciência de Dados & Big Data</b><br>
 Pontifícia Universidade Católica de Minas Gerais (PUC Minas)<br>
 2021
@@ -34,129 +32,108 @@ Universidade Salvador (UNIFACS)<br>
 
 ## Idiomas
 
-- Português: Native
+- Português: Nativo
 - Inglês: Avançado
 - Espanhol: Avançado
 - Francês: Básico
 
 ## Competências técnicas (itens destacados: maior expertise)
 
-- Frontend: <b>HTML</b> (15y, 2009) | <b>CSS</b> (15y, 2009) | <b>JavaScript</b> (15y, 2009) | TypeScript (3y, 2017) | <b>Vue</b> (3y, 2019) | Angular(4y, 2017) | <b>jQuery</b> (15y, 2009) | <b>Bootstrap</b> (6y, 2017) | Tailwind (1y, 2024) | Blade (4y, 2018) | SASS/SCSS/Less (3y, 2017) | jQuery Mobile (1y, 2013) | DataTables (3y, 2019) | Leaflet (1y, 2023)
+- Frontend: <b>HTML</b> | <b>CSS</b> | <b>JavaScript</b> | TypeScript | <b>Vue</b> | Angular | jQuery | <b>Bootstrap</b> | Tailwind | SASS/SCSS/LESS | Blade | jQuery Mobile | DataTables | Leaflet	Moment			
 
-- Backend/Algorithms: <b>PHP</b> (15y, 2009) | <b>Laravel</b> (6y, 2018) | Lumen (1y, 2019) | Nest (1y, 2020) | Express (1y, 2020) | <b>RESTful APIs</b> (7y, 2016) | Python (1y, 2020) | Java (SE) (3y, 2009) | Dart (2y, 2020) | C/C++ (2y, 2009) | Delphi/Pascal (3y, 2006)
+- Backend/Algoritmos: | <b>APIs REST</b> | <b>PHP</b> | <b>Laravel</b> | Lumen | Nest | Express | Python | Java (SE) | Dart | C/C++ | Delphi/Pascal	
 
-- Mobile: IONIC (3y, 2017) | Flutter (2y, 2020)
+- Mobile: IONIC | Flutter				
 
-- Database/Cache/Cloud: <b>SQL</b> (18y, 2006) | <b>MySQL</b> (15y, 2009) | <b>SQL Server</b> (4y, 2019) | PostgreSQL (2y, 2018) | FireBird (4y, 2006) | MongoDB (2y, 2020) | Redis (1y, 2021) | Amazon S3 (1y, 2021) | Backblaze B2 (1y, 2023)
+- Bancos de dados/Cache/Cloud: <b>SQL</b> | <b>MySQL</b> | <b>SQL Server</b> | PostgreSQL | FireBird | MongoDB | Redis | Amazon S3 | Backblaze B2			
 
-- Others: <b>JSON</b> (15y, 2009) | Scikit-Learn (1y, 2020) | Docker (3y, 2017) | Kubernetes (1y, 2024) | Beanstalkd (1y, 2021) | OpenCV (1y, 2015) | Git (8y, 2016) | WordPress (3y, 2014) | PHPUnit (2y, 2021) | JUnit (1y, 2017) | Swagger (1y, 2020) | Scrum (7y, 2017)
+- Arquitetura/Mensageria: Docker | Kubernetes | Clean Code | Clean Architecture | Domain-Driven Design | Aplicações monoliticas | Microsserviços | API Gateway | RabbitMQ | Beanstalked		
 
-## Work Experience (as software engineer)
+- Qualidade: PHPUnit | JUnit | Robot | TDD	PHPStan/Larastan | SonarQube
+
+- Agilidade/Outros: Scrum | Kanban | JSON | XML | Scikit-Learn | OpenCV | Git | Swagger | Wordpress | Jira | Redmine | Trello
+
+## Experiências profissionais (como engenheiro de software colaborador)
 
 - <b>Companhia de Processamento de Dados do Estado da Bahia (PRODEB)</b><br>
-Salvador (Brazil) - Híbrido<br>
+Salvador (Brasil) - Híbrido<br>
 Fevereiro/2024 - Setembro/2024<br>
 Nível: sênior.<br>
-Atividades: Software architecture, software development, database modelling, tests (automated), software deploying, software maintenance.<br>
-Projeto: Atende 2.0. A software to manage services and scheduling for the entity SAC (Serviço de Atendimento ao Cidadão) in the state of Bahia.<br>
-Frontend: HTML, CSS, JavaScript, Vue, jQuery, Tailwind, DataTables.<br>
-Backend: PHP, Laravel.<br>
-Database: SQL, SQL Server, PostgreSQL, Redis.<br>
-Others: RabbitMQ, PHPUnit, Docker, Kubernetes, Supervisor, Sonar, Grafana, Prometheus, Git, Scrum.
+Atividades: arquitetura, prototipação, desenvolvimento, modelagem de dados, testes, deploy, sustentação, documentação.<br>
+Projeto: Atende 2.0. Software para gerenciar agendamentos de serviços no SAC (Serviço de Atendimento ao Cidadão) no estado da Bahia.<br>
+Tecnologias: HTML, CSS, JavaScript, Vue, jQuery, Tailwind, DataTables, PHP, Laravel, SQL, SQL Server, PostgreSQL, Redis, RabbitMQ, PHPUnit, PHPStan/Larastan, Docker, Kubernetes, Supervisor, SonarQube, Grafana, Prometheus, Git, Kanban, Swagger, Redmine.
 
 - <b>Jettax Automação Fiscal</b><br>
-São Paulo (Brazil) - Remoto<br>
+São Paulo (Brasil) - Remoto<br>
 Setembro/2021 - Outubro/2022<br>
 Nível: pleno.<br>
-Atividades: Software prototipation, software development, database modelling, software maintenance.<br>
-Projeto: Jettax 360. A software for accounting automation that retrieves all invoices from companies from different sources and then audit all of them, presenting an easy-to-read report for accountants and their managers.<br>
-Frontend: HTML, CSS, JavaScript, Bootstrap, Vue.<br>
-Backend: PHP, Laravel.<br>
-Database: MongoDB, Amazon S3, Redis.<br>
-Others: Beanstalkd, Docker, Git, Scrum.
+Atividades: prototipação, desenvolvimento, modelagem de dados, sustentação.<br>
+Projeto: Jettax 360. Software para automação contábil que obtinha notas fiscais de diferentes fontes e auditava todas elas, apresentando informações de fácil leitura para contadores.<br>
+Tecnologias: HTML, CSS, JavaScript, Bootstrap, Vue, PHP, Laravel, MongoDB, Amazon S3, Redis, Beanstalkd, Docker, Git, Scrum, Jira.
 
 - <b>Capgemini</b><br>
-Salvador (Brazil) - Remoto<br>
+Salvador (Brasil) - Remoto<br>
 Julho/2020 - Setembro/2021<br>
 Nível: sênior (líder de time no projeto Verbas).<br>
-Atividades: Software requirements, software prototipation, software architecture, software development, database modelling, tests (automated), software maintenance, software documentation.
+Atividades: requisitos, prototipação, arquitetura, desenvolvimento, modelagem de dados, testes, sustentação, documentação.
 
-  - Projeto: Verbas. A software for complementing paycheck information with complex calculations, apart from an existing paycheck software.<br>
-Frontend: HTML, CSS, JavaScript, Bootstrap, Vue.
-Backend: PHP, Laravel.<br>
-Database: SQL, SQL Server.<br>
-Others: PHPUnit, Robot, Swagger, Git, Scrum.
+  - Projeto: Verbas. Software para complementar o sistema de contracheques existentes, com cálculos complexos.<br>
+Tecnologias: HTML, CSS, JavaScript, Bootstrap, Vue, PHP, Laravel, SQL, SQL Server, PHPUnit, Robot, Swagger, Git, Scrum, Jira.
 
-  - Projeto: Uno. A software for managing the processing of confidential court cases.<br>
-Frontend: HTML, CSS, JavaScript, Bootstrap, Blade.<br>
-Backend: PHP, Laravel.<br>
-Database: MongoDB.<br>
-Others: Git, Scrum.
+  - Projeto: Uno. Software para gerenciar a tramitação de processos judiciais.<br>
+Tecnologias: HTML, CSS, JavaScript, Bootstrap, Blade, PHP, Laravel, MongoDB, Git, Scrum, Jira.
 
-  - Projeto: Despesas Miúdas. A software for managing small government projects which don’t need public biddings.<br>
-Frontend: HTML, CSS, JavaScript, Bootstrap, Vue.<br>
-Backend: PHP, Laravel.<br>
-Database: SQL, SQL Server.<br>
-Others: Robot, Swagger, Git, Scrum.
+  - Projeto: Despesas Miúdas. Software para gerenciar a execução de projetos pequenos que não necessitatam de licitações públicas.<br>
+Tecnologias: HTML, CSS, JavaScript, Bootstrap, Vue, PHP, Laravel, SQL, SQL Server, Robot, Swagger, Git, Scrum, Jira.
 
 - <b>Assembleia Legislativa da Bahia (ALBA)</b><br>
-Salvador (Brazil) - Presencial<br>
+Salvador (Brasil) - Presencial<br>
 Maio/2019 - Junho/2020<br>
 Nível: pleno.<br>
-Atividades: Software requirements, software prototipation, software architecture, software development, database modelling, tests (not automated), user training and support, software deploying, software maintenance.
+Atividades: requisitos, prototipação, arquitetura, desenvolvimento, modelagem de dados, testes, treinamento, deploy, sustentação.
 
-  - Projeto: Portal RH ALBA. A software for managing all information about government employees and politicians (deputies) of the state of Bahia.<br>
-Frontend: HTML, CSS, JavaScript, Bootstrap, Blade, jQuery, Datatables.<br>
-Backend: PHP, Laravel, Lumen.<br>
-Database: SQL, SQL Server, Firebird.<br>
-Others: Git.
+  - Projeto: Portal RH ALBA. Software para gerenciar informações dos funcionários públicos e deputados do estado da Bahia.<br>
+Tecnologias: HTML, CSS, JavaScript, Bootstrap, Blade, jQuery, Datatables, PHP, Laravel, Lumen, SQL, SQL Server, Firebird, Git, Scrum, Trello.
 
-  - Projeto: Portal RH ALBA. A mobile application that has the same content of Portal RH ALBA’s website. It was released in both Apple App Store and Google Play Store. This app was rewritten in Flutter and Dart, but this version wasn’t released.<br>
-Mobile: IONIC, Angular, TypeScript.<br>
-Backend: PHP, Laravel.<br>
-Database: SQL, SQL Server.
+  - Projeto: Portal RH ALBA. Aplicação móvel com o mesmo conteúdo do site. Foi lançado para Android e iOS. Foi reescrito em Flutter, mas esta versão não foi lançada.<br>
+Tecnologias: IONIC, Angular, TypeScript, PHP, Laravel, SQL, SQL Server, Git, Scrum, Trello.
 
-  - Projeto: Constituição da Bahia. A mobile application with the entire constitution of the state of Bahia. It was released in both Apple App Store and Google Play Store.<br>
-Mobile: IONIC, Angular, TypeScript.
+  - Projeto: Constituição da Bahia. Aplicaçãomóvel com o toda a Constitução da Bahia. Foi lançado para Android e iOS.<br>
+Tecnologias: IONIC, Angular, TypeScript, Git, Scrum, Trello.
 
 - <b>eCGlobal</b><br>
-Salvador (Brazil) - Presencial<br>
+Salvador (Brasil) - Presencial<br>
 Agosto/2018 - Novembro/2018<br>
 Nível: júnior.<br>
-Atividades: Software requirements, software prototipation, software development, database modelling, tests (not automated), user training and support, software maintenance.<br>
-Projeto: eCGlobal. A software for creating and managing custom social networks focused on surveys. Users could gather points and exchange for prizes after answering questions.<br>
-Frontend: HTML, CSS, JavaScript.<br>
-Backend: PHP, CodeIgniter.<br>
-Database: SQL, PostgreSQL.<br>
-Others: Docker, Git, Scrum.
+Atividades: requisitos, prototipação, desenvolvimento, modelagem de dados, testes, treinamento, sustentação.<br>
+Projeto: eCGlobal. Software para criar e gerenciar redis sociais personalizadas com foco em qustionários que rendiam pontos ao serem respondidos e, posteriormente, os prontos eram trocados por prêmios.<br>
+Tecnologias: HTML, CSS, JavaScript, PHP, CodeIgniter, SQL, PostgreSQL, Docker, Git, Scrum, Redmine.
 
 - <b>Ericsson Inovação S. A. (EISA)</b><br>
-Salvador (Brazil) - Presencial<br>
+Salvador (Brasil) - Presencial<br>
 Agosto/2017 - Novembro/2017<br>
 Nível: júnior.<br>
-Atividades: Software development database modelling, tests (automated), user training and support, software maintenance, software documentation.
-Projeto: Revenue Manager (RM). A software for managing information of a mobile operator in Ukraine.<br>
-Backend: Java.<br>
-Database: Cassandra.<br>
-Others: JUnit, Camunda, Sonar, Git, Scrum.
+Atividades: desenvolvimento, modelagem de dados, testes, treinamento, sustentação, documentação.<br>
+Projeto: Revenue Manager (RM). Software para gerenciar informações de uma operadora telefônica da Ucrânia.<br>
+Tecnologias: Java, Cassandra, JUnit, Camunda, Sonar, Git, Scrum, Jira.
 
 - <b>Fundo de Amparo à Pesquisa no Estado da Bahia (FAPESB)</b><br>
-Salvador (Brazil) - Presencial<br>
+Salvador (Brasil) - Presencial<br>
 Setembro/2015 - Agosto/2016<br>
 Nível: pleno.<br>
-Atividades: Software requirements, software prototipation, software architecture, software development, tests (not automated), software deploying.
-Projeto: during an uncompleted master’s program, I worked developing computer vision software to analyze marbling of beef cuts.<br>
+Atividades: requisitos, prototipação, arquitetura, desenvolvimento, testes, deploy.<br>
+Projeto: Um software de visão computacional para avaliar o marmoreio em carcaças bovinas.<br>
 Tecnologias: C/C++, OpenCV, MATLAB, LaTeX.
 
 - <b>Colégio e Faculdade São Tomaz de Aquino</b><br>
-Salvador (Brazil) - Presencial<br>
+Salvador (Brasil) - Presencial<br>
 Novembro/2006 - Janeiro/2009
 Nível: júnior.<br>
-Atividades: Software requirements, software prototipation, software development, database modelling, tests (not automated), user training and support, software deploying, software maintenance.<br>
-Projeto: Jaguar. A software to manage all information about students, teachers and classes at an education institution.<br>
+Atividades: requisitos, prototipação, desenvolvimento, modelagem de dados, testes, treinamento, deploy, sustentação.<br>
+Projeto: Jaguar. Software para gerenciar todas as informações sobre estudantes, professores e disciplinas numa instituição de ensino.<br>
 Tecnologias: Delphi, SQL, Firebird.
 
-## Work Experience (as college teacher)
+## Experiências profissionais (como professor universitário ou professor técnico colaborador)
 
 - <b>União Metropolitana de Educação e Cultura (UNIME)</b><br>
 Janeiro/2021 - Dezembro/2021<br>
@@ -166,10 +143,14 @@ Disciplinas: Algorithms; Object-Oriented Programming II; Web Development I; Web 
 Fevereiro/2014 - Fevereiro/2015<br>
 Disciplinas: Algorithms; Object-oriented Programming; Databases; Web Development I; Web Development II; Applied Math; Completion of Course Work.
 
-## Work Experience (as temporary worker, freelancer or intern)
+- <b>Centro Tecnológico Social do Pelourinho (CTSP) e Dossier Digital</b><br>
+Janeiro/2011 - Novembro/2011<br>
+Disciplinas: Modelagem de Dados; Desenvolvimento na Plataforma Atelier; Windows e Office.
+
+## Experiências profissionais (como freelancer, estagiário ou professor temporário)
 
 - <b>Renove Psicologia</b><br>
-Agosto/2024 - Ongoing<br>
+Agosto/2024 - Atual<br>
 Tecnologias: HTML, CSS, JavaScript, Blade, jQuery, Bootstrap, DataTables, PHP, Laravel, SQL, MySQL.
 
 - <b>Merkle DACH (Portugal)</b><br>
@@ -231,10 +212,6 @@ Tecnologias: HTML, CSS, JavaScript, PHP, SQL, MySQL.
 - <b>RH Soft</b><br>
 Novembro/2011 - Março/2012<br>
 Tecnologias: Delphi, SQL, Firebird.
-
-- <b>Centro Tecnológico Social do Pelourinho e Dossier Digital</b><br>
-Janeiro/2011 - Novembro/2011<br>
-Disciplinas: Data Modelling; Atelier Platform Development; Windows and Office.
 
 - <b>eCGlobal</b><br>
 Novembro/2009 - Janeiro/2011<br>
