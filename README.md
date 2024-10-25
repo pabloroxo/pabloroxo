@@ -8,6 +8,8 @@
 
 <b>Salvador - Bahia - Brasil. Disponível para vagas presenciais e híbridas em Salvador, ou remotas de qualquer localidade. Considero mudança para outra cidade, dependendo da vaga.</b>
 
+<b>Tenho ME aberta com CNPJ ativo.</b>
+
 [Baixe meu currículo em formato PDF](https://github.com/pabloroxo/pabloroxo/blob/main/Pablo_Roxo_CV.pdf)
 
 ## Educação
