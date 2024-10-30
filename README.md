@@ -41,7 +41,7 @@ Universidade Salvador (UNIFACS)<br>
 
 ## Competências técnicas (itens destacados: maior expertise)
 
-- Frontend: <b>HTML</b> | <b>CSS</b> | <b>JavaScript</b> | TypeScript | <b>Vue</b> | Angular | jQuery | <b>Bootstrap</b> | Tailwind | SASS/SCSS/LESS | Blade | jQuery Mobile | DataTables | Leaflet	Moment			
+- Frontend: <b>HTML</b> | <b>CSS</b> | <b>JavaScript</b> | TypeScript | <b>Vue</b> | Angular | jQuery | <b>Bootstrap</b> | Tailwind | SASS/SCSS/LESS | Blade | jQuery Mobile | DataTables | Leaflet | Moment			
 
 - Backend/Algoritmos: | <b>APIs REST</b> | <b>PHP</b> | <b>Laravel</b> | Lumen | Nest | Express | Python | Java (SE) | Dart | C/C++ | Delphi/Pascal	
 
@@ -51,7 +51,7 @@ Universidade Salvador (UNIFACS)<br>
 
 - Arquitetura/Mensageria: Docker | Kubernetes | Clean Code | Clean Architecture | Domain-Driven Design | Aplicações monoliticas | Microsserviços | API Gateway | RabbitMQ | Beanstalked		
 
-- Qualidade: PHPUnit | JUnit | Robot | TDD	PHPStan/Larastan | SonarQube
+- Qualidade: PHPUnit | JUnit | Robot | TDD | PHPStan/Larastan | SonarQube
 
 - Agilidade/Outros: Scrum | Kanban | JSON | XML | Scikit-Learn | OpenCV | Git | Swagger | Wordpress | Jira | Redmine | Trello
 
