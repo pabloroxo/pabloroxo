@@ -2,7 +2,7 @@
 
 # Pablo Ricardo Roxo Silva
 
-### <b>Cientista de Computação | Engenheiro de Software Sênior | Especializando em Arquitetura de Soluções</b>
+### <b>Engenheiro de Software | Cientista de Computação | Especializando em Arquitetura de Soluções</b>
 
 <b>Eu amo tudo sobre computação, programação e matemática. Programando desde 2001 e atuando profissionalmente desde 2006. Tenho experiência em algoritmos, estruturas de dados, desenvolvimento web, desenvolvimento mobile, aplicações monolíticas, APIs REST, microsserviços, bancos de dados relacionais e NoSQL, conteinerização, cache, mensageria e testes automatizados. Estou aberto a quaisquer linguagens de programação, frameworks, arquiteturas, paradigmas e metodologias. Entusiasta das melhores práticas, padrões, organização e códigos bem escritos.</b>
 
