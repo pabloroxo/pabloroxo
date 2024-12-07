@@ -53,6 +53,14 @@ Universidade Salvador (UNIFACS)<br>
 
 ## Experiências profissionais (como engenheiro de software colaborador)
 
+- <b>Atento</b><br>
+São Paulo (Brasil) - Remoto<br>
+Dezembro/2024 - Atual<br>
+Nível: sênior.<br>
+Atividades: acabei de ser admitido.<br>
+Projeto: acabei de ser admitido².<br>
+Tecnologias: acabei de ser admitido³.
+
 - <b>Companhia de Processamento de Dados do Estado da Bahia (PRODEB)</b><br>
 Salvador (Brasil) - Híbrido<br>
 Fevereiro/2024 - Setembro/2024<br>
