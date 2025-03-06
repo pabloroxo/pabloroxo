@@ -45,7 +45,7 @@ Universidade Salvador (UNIFACS)<br>
 
 - Bancos de dados/Cache/Cloud: <b>SQL</b> | <b>MySQL</b> | <b>SQL Server</b> | PostgreSQL | FireBird | MongoDB | Redis | Amazon S3 | Backblaze B2			
 
-- Arquitetura/Mensageria: Docker | Kubernetes | Clean Code | Clean Architecture | Domain-Driven Design | Aplicações monoliticas | Microsserviços | API Gateway | RabbitMQ | Beanstalked		
+- Arquitetura/Mensageria: Clean Code | Clean Architecture | Domain-Driven Design | Design Patterns | Software as a Service | Aplicações monoliticas | Microsserviços | API Gateway | RabbitMQ | Beanstalked | Docker | Kubernetes
 
 - Qualidade: PHPUnit | JUnit | Robot | TDD | PHPStan/Larastan | SonarQube
 
