@@ -55,11 +55,11 @@ Universidade Salvador (UNIFACS)<br>
 
 - <b>Atento</b><br>
 São Paulo (Brasil) - Remoto<br>
-Dezembro/2024 - Atual<br>
+Novembro/2024 - Atual<br>
 Nível: sênior.<br>
-Atividades: acabei de ser admitido.<br>
-Projeto: acabei de ser admitido².<br>
-Tecnologias: acabei de ser admitido³.
+Atividades: arquitetura, prototipação, desenvolvimento, modelagem de dados, testes, deploy, sustentação.<br>
+Projeto: DAP. Software para gerenciar filas de atendimento de clientes por operadores de telefonia.<br>
+Tecnologias: HTML, CSS, JavaScript, jQuery, Bootstrap, jsGrid, PHP, SQL, MySQL, Git, SVN.
 
 - <b>Companhia de Processamento de Dados do Estado da Bahia (PRODEB)</b><br>
 Salvador (Brasil) - Híbrido<br>
@@ -154,6 +154,10 @@ Janeiro/2011 - Novembro/2011<br>
 Disciplinas: Modelagem de Dados; Desenvolvimento na Plataforma Atelier; Windows e Office.
 
 ## Experiências profissionais (como freelancer, estagiário ou professor temporário)
+
+- <b>ObservaBaía (UFBA)</b><br>
+Fevereiro/2025 - Atual<br>
+Tecnologias: HTML, CSS, JavaScript, jQuery, Bootstrap, Leaflet, PHP, WordPress, SQL, MySQL.
 
 - <b>Renove Psicologia</b><br>
 Agosto/2024 - Atual<br>
