@@ -63,7 +63,7 @@ Tecnologias: HTML, CSS, JavaScript, jQuery, Bootstrap, jsGrid, PHP, SQL, MySQL, 
 
 - <b>Companhia de Processamento de Dados do Estado da Bahia (PRODEB)</b><br>
 Salvador (Brasil) - Híbrido<br>
-Fevereiro/2024 - Setembro/2024<br>
+Janeiro/2024 - Setembro/2024<br>
 Nível: sênior.<br>
 Atividades: arquitetura, prototipação, desenvolvimento, modelagem de dados, testes, deploy, sustentação, documentação.<br>
 Projeto: Atende 2.0. Software para gerenciar agendamentos de serviços no SAC (Serviço de Atendimento ao Cidadão) no estado da Bahia.<br>
