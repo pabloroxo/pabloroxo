@@ -99,7 +99,7 @@ Nível: pleno.<br>
 Atividades: requisitos, prototipação, arquitetura, desenvolvimento, modelagem de dados, testes, treinamento, deploy, sustentação.
 
   - Projeto: Portal RH ALBA. Software para gerenciar informações dos funcionários públicos e deputados do estado da Bahia.<br>
-Tecnologias: HTML, CSS, JavaScript, Bootstrap, Blade, jQuery, Datatables, PHP, Laravel, Lumen, SQL, SQL Server, Firebird, Git, Scrum, Trello.
+Tecnologias: HTML, CSS, JavaScript, Bootstrap, Blade, jQuery, Datatables, PHP, Laravel, Lumen, SQL, SQL Server, FireBird, Git, Scrum, Trello.
 
   - Projeto: Portal RH ALBA. Aplicação móvel com o mesmo conteúdo do site. Foi lançado para Android e iOS. Foi reescrito em Flutter, mas esta versão não foi lançada.<br>
 Tecnologias: IONIC, Angular, TypeScript, PHP, Laravel, SQL, SQL Server, Git, Scrum, Trello.
@@ -137,7 +137,7 @@ Novembro/2006 - Janeiro/2009
 Nível: júnior.<br>
 Atividades: requisitos, prototipação, desenvolvimento, modelagem de dados, testes, treinamento, deploy, sustentação.<br>
 Projeto: Jaguar. Software para gerenciar todas as informações sobre estudantes, professores e disciplinas numa instituição de ensino.<br>
-Tecnologias: Delphi, SQL, Firebird.
+Tecnologias: Delphi, SQL, FireBird.
 
 ## Experiências profissionais (como professor universitário ou professor técnico colaborador)
 
