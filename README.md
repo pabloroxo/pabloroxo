@@ -59,7 +59,7 @@ Novembro/2024 - Atual<br>
 Nível: sênior.<br>
 Atividades: arquitetura, prototipação, desenvolvimento, modelagem de dados, testes, deploy, sustentação.<br>
 Projeto: DAP. Software para gerenciar filas de atendimento de clientes por operadores de telefonia.<br>
-Tecnologias: HTML, CSS, JavaScript, jQuery, Bootstrap, jsGrid, PHP, SQL, MySQL, Git, SVN.
+Tecnologias: HTML, CSS, JavaScript, jQuery, Bootstrap, jsGrid, PHP, SQL, MySQL, Git, SVN, Azure DevOps.
 
 - <b>Companhia de Processamento de Dados do Estado da Bahia (PRODEB)</b><br>
 Salvador (Brasil) - Híbrido<br>
