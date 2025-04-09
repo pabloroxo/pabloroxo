@@ -49,7 +49,7 @@ Universidade Salvador (UNIFACS)<br>
 
 - Qualidade: <b>PHPUnit</b> | JUnit | Robot | TDD | PHPStan/Larastan | SonarQube
 
-- Agilidade/Outros: <b>Scrum</b> | Kanban | <b>JSON</b> | XML | Scikit-Learn | OpenCV | <b>Git</b> | SVN | <b>Postman</b> | Swagger | OpenAPI | Wordpress | Jira | Confluence | Redmine | Trello
+- Agilidade/Outros: <b>Scrum</b> | Kanban | <b>JSON</b> | XML | Scikit-Learn | OpenCV | <b>Git</b> | SVN | <b>Postman</b> | Swagger | OpenAPI | Wordpress | Jira | Azure DevOps | Confluence | Redmine | Trello
 
 ## Experiências profissionais (como engenheiro de software colaborador)
 
