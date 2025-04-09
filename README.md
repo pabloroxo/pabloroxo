@@ -39,11 +39,11 @@ Universidade Salvador (UNIFACS)<br>
 
 - Frontend: <b>HTML</b> | <b>CSS</b> | <b>JavaScript</b> | TypeScript | <b>Vue</b> | Angular | jQuery | <b>Bootstrap</b> | Tailwind | SASS/SCSS/LESS | Blade | jQuery Mobile | DataTables | Leaflet | Moment | jsGrid | Responsividade
 
-- Backend/Algoritmos: | <b>REST</b> | GraphQL | SOAP | <b>PHP</b> | <b>Laravel</b> | Lumen | Nest | Express | Python | Java (SE) | Dart | C/C++ | Delphi/Pascal
+- Backend/Algoritmos: | <b>REST</b> | GraphQL | SOAP | <b>PHP</b> | <b>Laravel</b> | Lumen | Node.js | Nest.js | Express.js | Python | Java (SE) | Dart | C/C++ | Delphi/Pascal
 
 - Mobile: IONIC | Flutter
 
-- Bancos de dados/Cache/Cloud: <b>SQL</b> | <b>MySQL</b> | <b>SQL Server</b> | PostgreSQL | FireBird | MongoDB | Redis | Amazon S3 | Backblaze B2
+- Bancos de dados/Cache/Cloud/ORM: <b>SQL</b> | <b>MySQL</b> | <b>SQL Server</b> | PostgreSQL | FireBird | MongoDB | Redis | Amazon S3 | Backblaze B2 | Eloquent | TypeORM
 
 - Arquitetura/DevOps/Segurança/Mensageria: Clean Code | Clean Architecture | Domain-Driven Design | Design Patterns | <b>Software as a Service</b> | <b>Aplicações monoliticas</b> | <b>Microsserviços</b> | <b>API Gateway</b> | Micro-Frontends | Backend for Frontend | Docker | Kubernetes | GitHub Actions | GitLab CI | Open Authorization 2.0 | <b>JSON Web Token</b> | Sanctum | RabbitMQ | Beanstalked | WebSockets
 
