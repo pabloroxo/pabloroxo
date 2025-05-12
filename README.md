@@ -37,7 +37,7 @@ Universidade Salvador (UNIFACS)<br>
 
 ## Competências técnicas (itens destacados: maior expertise)
 
-- Frontend: <b>HTML</b> | <b>CSS</b> | <b>JavaScript</b> | TypeScript | <b>Vue</b> | Angular | jQuery | <b>Bootstrap</b> | Tailwind | SASS/SCSS/LESS | Blade | jQuery Mobile | DataTables | Leaflet | Moment | jsGrid | Responsividade
+- Frontend: <b>HTML</b> | <b>CSS</b> | <b>JavaScript</b> | TypeScript | <b>Vue.js</b> | Angular | jQuery | <b>Bootstrap</b> | Tailwind | SASS/SCSS/LESS | Blade | jQuery Mobile | DataTables | Leaflet | Moment | jsGrid | Responsividade
 
 - Backend/Algoritmos: | <b>REST</b> | GraphQL | SOAP | <b>PHP</b> | <b>Laravel</b> | Lumen | Node.js | Nest.js | Express.js | Python | Java (SE) | Dart | C/C++ | Delphi/Pascal
 
@@ -45,21 +45,23 @@ Universidade Salvador (UNIFACS)<br>
 
 - Bancos de dados/Cache/Cloud/ORM: <b>SQL</b> | <b>MySQL</b> | <b>SQL Server</b> | PostgreSQL | FireBird | MongoDB | Redis | Amazon S3 | Backblaze B2 | Eloquent | TypeORM
 
-- Arquitetura/DevOps/Segurança/Mensageria: Clean Code | Clean Architecture | Domain-Driven Design | Design Patterns | <b>Software as a Service</b> | <b>Aplicações monoliticas</b> | <b>Microsserviços</b> | <b>API Gateway</b> | Micro-Frontends | Backend for Frontend | Docker | Kubernetes | GitHub Actions | GitLab CI | Open Authorization 2.0 | <b>JSON Web Token</b> | Sanctum | RabbitMQ | Beanstalked | WebSockets
+- Arquitetura/DevOps/Segurança/Mensageria: Clean Code | Clean Architecture | Domain-Driven Design (DDD) | Design Patterns | <b>Software as a Service (SaaS)</b> | <b>Aplicações monoliticas</b> | <b>Microsserviços</b> | <b>API Gateway</b> | Micro-Frontends | Backend for Frontend (BFF) | Docker | Kubernetes | GitHub Actions | GitLab CI | Open Authorization 2.0 (OAuth2) | <b>JSON Web Token</b> | Sanctum | RabbitMQ | Beanstalked | WebSockets
 
-- Qualidade: <b>PHPUnit</b> | JUnit | Robot | TDD | PHPStan/Larastan | SonarQube
+- Ciência de Dados/Inteligência Artificial: Machine Learning | NumPy | Pandas | Jupyter Notebook | Extract-Transform-Load (ETL) | Scikit-Learn
 
-- Agilidade/Outros: <b>Scrum</b> | Kanban | <b>JSON</b> | XML | Scikit-Learn | OpenCV | <b>Git</b> | SVN | <b>Postman</b> | Swagger | OpenAPI | Wordpress | Jira | Azure DevOps | Confluence | Redmine | Trello
+- Qualidade: <b>PHPUnit</b> | JUnit | Robot | Test Driver Development (TDD) | PHPStan/Larastan | SonarLint/SonarQube
+
+- Agilidade/Outros: <b>Scrum</b> | Kanban | <b>JSON</b> | XML | OpenCV | <b>Git</b> | SVN | <b>Postman</b> | Swagger | OpenAPI | WordPress | Jira | Azure DevOps | Confluence | Redmine | Trello
 
 ## Experiências profissionais (como engenheiro de software colaborador)
 
 - <b>Atento</b><br>
 São Paulo (Brasil) - Remoto<br>
-Novembro/2024 - Atual<br>
+Novembro/2024 - Maio/2025<br>
 Nível: sênior.<br>
 Atividades: arquitetura, prototipação, desenvolvimento, modelagem de dados, testes, deploy, sustentação.<br>
 Projeto: DAP. Software para gerenciar filas de atendimento de clientes por operadores de telefonia.<br>
-Tecnologias: HTML, CSS, JavaScript, jQuery, Bootstrap, jsGrid, PHP, SQL, MySQL, Git, SVN, Azure DevOps.
+Tecnologias: HTML, CSS, JavaScript, jQuery, Bootstrap, jsGrid, PHP, SQL, MySQL, SVN, Azure DevOps.
 
 - <b>Companhia de Processamento de Dados do Estado da Bahia (PRODEB)</b><br>
 Salvador (Brasil) - Híbrido<br>
@@ -67,7 +69,7 @@ Janeiro/2024 - Setembro/2024<br>
 Nível: sênior.<br>
 Atividades: arquitetura, prototipação, desenvolvimento, modelagem de dados, testes, deploy, sustentação, documentação.<br>
 Projeto: Atende 2.0. Software para gerenciar agendamentos de serviços no SAC (Serviço de Atendimento ao Cidadão) no estado da Bahia.<br>
-Tecnologias: HTML, CSS, JavaScript, Vue, jQuery, Tailwind, DataTables, PHP, Laravel, SQL, SQL Server, PostgreSQL, Redis, RabbitMQ, PHPUnit, PHPStan/Larastan, Docker, Kubernetes, Supervisor, SonarQube, Grafana, Prometheus, Git, Kanban, Swagger, Redmine.
+Tecnologias: HTML, CSS, JavaScript, Vue, jQuery, Tailwind, DataTables, PHP, Laravel, SQL, SQL Server, PostgreSQL, Redis, RabbitMQ, PHPUnit, PHPStan/Larastan, Docker, Kubernetes, Supervisor, SonarQube, Grafana, Prometheus, Git, GitLab, GitLab CI, Kanban, Swagger, Redmine.
 
 - <b>Jettax Automação Fiscal</b><br>
 São Paulo (Brasil) - Remoto<br>
@@ -75,7 +77,7 @@ Setembro/2021 - Outubro/2022<br>
 Nível: pleno.<br>
 Atividades: prototipação, desenvolvimento, modelagem de dados, sustentação.<br>
 Projeto: Jettax 360. Software para automação contábil que obtinha notas fiscais de diferentes fontes e auditava todas elas, apresentando informações de fácil leitura para contadores.<br>
-Tecnologias: HTML, CSS, JavaScript, Bootstrap, Vue, PHP, Laravel, MongoDB, Amazon S3, Redis, Beanstalkd, Docker, Git, Scrum, Jira.
+Tecnologias: HTML, CSS, JavaScript, Bootstrap, Vue, PHP, Laravel, MongoDB, Amazon S3, Redis, Beanstalkd, Docker, Git, BitBucket, Scrum, Jira.
 
 - <b>Capgemini</b><br>
 Salvador (Brasil) - Remoto<br>
@@ -84,13 +86,13 @@ Nível: sênior (líder de time no projeto Verbas).<br>
 Atividades: requisitos, prototipação, arquitetura, desenvolvimento, modelagem de dados, testes, sustentação, documentação.
 
   - Projeto: Verbas. Software para complementar o sistema de contracheques existentes, com cálculos complexos.<br>
-Tecnologias: HTML, CSS, JavaScript, Bootstrap, Vue, PHP, Laravel, SQL, SQL Server, PHPUnit, Robot, Swagger, Git, Scrum, Jira.
+Tecnologias: HTML, CSS, JavaScript, Bootstrap, Vue, PHP, Laravel, SQL, SQL Server, PHPUnit, Robot, Swagger, Git, GitLab, Scrum, Jira.
 
   - Projeto: Uno. Software para gerenciar a tramitação de processos judiciais.<br>
-Tecnologias: HTML, CSS, JavaScript, Bootstrap, Blade, PHP, Laravel, MongoDB, Git, Scrum, Jira.
+Tecnologias: HTML, CSS, JavaScript, Bootstrap, Blade, PHP, Laravel, MongoDB, Git, GitLab, Scrum, Jira.
 
   - Projeto: Despesas Miúdas. Software para gerenciar a execução de projetos pequenos que não necessitatam de licitações públicas.<br>
-Tecnologias: HTML, CSS, JavaScript, Bootstrap, Vue, PHP, Laravel, SQL, SQL Server, Robot, Swagger, Git, Scrum, Jira.
+Tecnologias: HTML, CSS, JavaScript, Bootstrap, Vue, PHP, Laravel, SQL, SQL Server, Robot, Swagger, Git, GitLab, Scrum, Jira.
 
 - <b>Assembleia Legislativa da Bahia (ALBA)</b><br>
 Salvador (Brasil) - Presencial<br>
@@ -99,13 +101,13 @@ Nível: pleno.<br>
 Atividades: requisitos, prototipação, arquitetura, desenvolvimento, modelagem de dados, testes, treinamento, deploy, sustentação.
 
   - Projeto: Portal RH ALBA. Software para gerenciar informações dos funcionários públicos e deputados do estado da Bahia.<br>
-Tecnologias: HTML, CSS, JavaScript, Bootstrap, Blade, jQuery, Datatables, PHP, Laravel, Lumen, SQL, SQL Server, FireBird, Git, Scrum, Trello.
+Tecnologias: HTML, CSS, JavaScript, Bootstrap, Blade, jQuery, Datatables, PHP, Laravel, Lumen, SQL, SQL Server, FireBird, Git, GitHub, Scrum, Trello.
 
   - Projeto: Portal RH ALBA. Aplicação móvel com o mesmo conteúdo do site. Foi lançado para Android e iOS. Foi reescrito em Flutter, mas esta versão não foi lançada.<br>
-Tecnologias: IONIC, Angular, TypeScript, PHP, Laravel, SQL, SQL Server, Git, Scrum, Trello.
+Tecnologias: IONIC, Angular, TypeScript, PHP, Laravel, SQL, SQL Server, Git, GitHub, Scrum, Trello.
 
   - Projeto: Constituição da Bahia. Aplicaçãomóvel com o toda a Constitução da Bahia. Foi lançado para Android e iOS.<br>
-Tecnologias: IONIC, Angular, TypeScript, Git, Scrum, Trello.
+Tecnologias: IONIC, Angular, TypeScript, Git, GitHub, Scrum, Trello.
 
 - <b>eCGlobal</b><br>
 Salvador (Brasil) - Presencial<br>
@@ -113,7 +115,7 @@ Agosto/2018 - Novembro/2018<br>
 Nível: júnior.<br>
 Atividades: requisitos, prototipação, desenvolvimento, modelagem de dados, testes, treinamento, sustentação.<br>
 Projeto: eCGlobal. Software para criar e gerenciar redis sociais personalizadas com foco em qustionários que rendiam pontos ao serem respondidos e, posteriormente, os prontos eram trocados por prêmios.<br>
-Tecnologias: HTML, CSS, JavaScript, PHP, CodeIgniter, SQL, PostgreSQL, Docker, Git, Scrum, Redmine.
+Tecnologias: HTML, CSS, JavaScript, PHP, CodeIgniter, SQL, PostgreSQL, Docker, Git, GitHub, Scrum, Redmine.
 
 - <b>Ericsson Inovação S. A. (EISA)</b><br>
 Salvador (Brasil) - Presencial<br>
@@ -121,7 +123,7 @@ Agosto/2017 - Novembro/2017<br>
 Nível: júnior.<br>
 Atividades: desenvolvimento, modelagem de dados, testes, treinamento, sustentação, documentação.<br>
 Projeto: Revenue Manager (RM). Software para gerenciar informações de uma operadora telefônica da Ucrânia.<br>
-Tecnologias: Java, Cassandra, JUnit, Camunda, Sonar, Git, Scrum, Jira.
+Tecnologias: Java, Cassandra, JUnit, Camunda, Sonar, Git, GitHub, Scrum, Jira.
 
 - <b>Fundo de Amparo à Pesquisa no Estado da Bahia (FAPESB)</b><br>
 Salvador (Brasil) - Presencial<br>
