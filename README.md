@@ -45,7 +45,7 @@ Universidade Salvador (UNIFACS)<br>
 
 - Bancos de dados/Cache/Cloud/ORM: <b>SQL</b> | <b>MySQL</b> | <b>SQL Server</b> | PostgreSQL | FireBird | MongoDB | Redis | Amazon S3 | Backblaze B2 | Eloquent | TypeORM
 
-- Arquitetura/DevOps/Segurança/Mensageria: Clean Code | Clean Architecture | Domain-Driven Design (DDD) | Design Patterns | Object Calisthenics | <b>Software as a Service (SaaS)</b> | <b>Aplicações monoliticas</b> | <b>Microsserviços</b> | <b>API Gateway</b> | <b>Model-View-Controller</b> (MVC) | <b>Controller-Service-Repository (CSR)</b> | Micro-Frontends | Backend for Frontend (BFF) | Docker | Kubernetes | GitHub Actions | GitLab CI | Open Authorization 2.0 (OAuth2) | <b>JSON Web Token</b> | Sanctum | RabbitMQ | Beanstalked | WebSockets
+- Arquitetura/DevOps/Segurança/Mensageria: Clean Code | Clean Architecture | Domain-Driven Design (DDD) | Design Patterns | Object Calisthenics | <b>Software as a Service (SaaS)</b> | <b>Aplicações monoliticas</b> | <b>Microsserviços</b> | <b>API Gateway</b> | <b>Model-View-Controller (MVC)</b> | <b>Controller-Service-Repository (CSR)</b> | Micro-Frontends | Backend for Frontend (BFF) | Docker | Kubernetes | GitHub Actions | GitLab CI | Open Authorization 2.0 (OAuth2) | <b>JSON Web Token</b> | Sanctum | RabbitMQ | Beanstalked | WebSockets
 
 - Ciência de Dados/Inteligência Artificial: Machine Learning | NumPy | Pandas | Jupyter Notebook | Extract-Transform-Load (ETL) | Scikit-Learn
 
