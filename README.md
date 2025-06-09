@@ -6,6 +6,8 @@
 
 <b>Eu amo tudo sobre computação, programação e matemática. Programando desde 2001 e atuando profissionalmente desde 2006. Tenho experiência em algoritmos, estruturas de dados, desenvolvimento full-stack, desenvolvimento mobile, aplicações monolíticas, APIs, microsserviços, bancos de dados relacionais e NoSQL, conteinerização, cache, mensageria e testes automatizados. Estou aberto a quaisquer linguagens de programação, frameworks, arquiteturas, paradigmas e metodologias. Entusiasta das melhores práticas, padrões, organização e códigos bem escritos.</b>
 
+<b>Salvador - Bahia - Brasil. Disponível para vagas presenciais e híbridas em Salvador, ou remotas de qualquer localidade. Considero mudança para outra cidade.</b>
+
 [Baixe meu currículo em formato PDF](https://github.com/pabloroxo/pabloroxo/blob/main/Pablo_Roxo_CV.pdf)
 
 ## Educação
