@@ -259,8 +259,7 @@ Tecnologias: Windows.
 - Java SE e MySQL (60h, Área 1, 2009)
 - UML 2.0 (16h, TecKnow, 2009)
 - Aplicativos móveis e jogos com Java ME (8h, UNIFACS, 2009)
-- Instalação e manutenção de computadores e redes (120h, SOS
-- Computadores, 2007)
+- Instalação e manutenção de computadores e redes (120h, SOS Computadores, 2007)
 - Robótica com Lego Mindstorm (8h, UNIFACS, 2006)
 
 ## Participação em palestras
