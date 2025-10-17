@@ -38,7 +38,7 @@ Concluído em 2014
 
 - Backend/Algoritmos:, <b><ins>REST</ins></b>, GraphQL, SOAP, <b><ins>PHP</ins></b>, <b><ins>Laravel</ins></b>, Lumen, Node.js, Nest.js, Express.js, Python, Java (SE), Dart, C/C++, Delphi/Pascal.
 
-- Mobile: IONIC, Flutter
+- Mobile: IONIC, Flutter.
 
 - Bancos de dados/Cache/Cloud/ORM: <b><ins>SQL</ins></b>, <b><ins>MySQL</ins></b>, <b><ins>SQL Server</ins></b>, PostgreSQL, FireBird, MongoDB, Redis, KeyDB, Amazon S3, Backblaze B2, Eloquent, TypeORM.
 
@@ -52,34 +52,33 @@ Concluído em 2014
 
 ## Experiências profissionais (como engenheiro de software colaborador)
 
-- <b>Atento</b><br>
-São Paulo (Brasil) - Remoto<br>
-Novembro/2024 - Maio/2025<br>
-Nível: sênior.<br>
+- <b>Fóton Informática S.A.</b> - Brasília (Remoto).<br>
+Junho/2025 - Atual - Nível: sênior.<br>
+Cliente: J17Bank.<br>
+Atividades: desenvolvimento, modelagem de dados, testes, sustentação.<br>
+Projeto: Plataforma do J17Bank. Software para gerenciar operações bancárias.<br>
+Tecnologias: HTML, CSS, JavaScript, React, PHP, Laravel, SQL, MySQL, RabbitMQ, PHPStan, PHPCS, Docker, Git, GitHub, GitHub Actions, New Relic, Jira.
+
+- <b>Atento</b> - São Paulo (Remoto).<br>
+Novembro/2024 a Maio/2025 - Nível: sênior.<br>
 Atividades: arquitetura, prototipação, desenvolvimento, modelagem de dados, testes, deploy, sustentação.<br>
 Projeto: DAP. Software para gerenciar filas de atendimento de clientes por operadores de telefonia.<br>
 Tecnologias: HTML, CSS, JavaScript, jQuery, Bootstrap, jsGrid, PHP, SQL, MySQL, SVN, Azure DevOps.
 
-- <b>Companhia de Processamento de Dados do Estado da Bahia (PRODEB)</b><br>
-Salvador (Brasil) - Híbrido<br>
-Janeiro/2024 - Setembro/2024<br>
-Nível: sênior.<br>
+- <b>Companhia de Processamento de Dados do Estado da Bahia (PRODEB)</b> - Salvador (Híbrido).<br>
+Janeiro/2024 a Setembro/2024 - Nível: sênior.<br>
 Atividades: arquitetura, prototipação, desenvolvimento, modelagem de dados, testes, deploy, sustentação, documentação.<br>
 Projeto: Atende 2.0. Software para gerenciar agendamentos de serviços no SAC (Serviço de Atendimento ao Cidadão) no estado da Bahia.<br>
 Tecnologias: HTML, CSS, JavaScript, Vue, jQuery, Tailwind, DataTables, PHP, Laravel, SQL, SQL Server, PostgreSQL, Redis, RabbitMQ, PHPUnit, PHPStan/Larastan, Docker, Kubernetes, Supervisor, SonarQube, Grafana, Prometheus, Git, GitLab, GitLab CI, Kanban, Swagger, Redmine.
 
-- <b>Jettax Automação Fiscal</b><br>
-São Paulo (Brasil) - Remoto<br>
-Setembro/2021 - Outubro/2022<br>
-Nível: pleno.<br>
+- <b>Jettax Automação Fiscal</b> - São Paulo (Remoto).<br>
+Setembro/2021 a Outubro/2022 - Nível: pleno.<br>
 Atividades: prototipação, desenvolvimento, modelagem de dados, sustentação.<br>
 Projeto: Jettax 360. Software para automação contábil que obtinha notas fiscais de diferentes fontes e auditava todas elas, apresentando informações de fácil leitura para contadores.<br>
 Tecnologias: HTML, CSS, JavaScript, Bootstrap, Vue, PHP, Laravel, MongoDB, Amazon S3, Redis, Beanstalkd, Docker, Git, BitBucket, Scrum, Jira.
 
-- <b>Capgemini</b><br>
-Salvador (Brasil) - Remoto<br>
-Julho/2020 - Setembro/2021<br>
-Nível: sênior (líder de time no projeto Verbas).<br>
+- <b>Capgemini</b> - Salvador (Remoto)<br>
+Julho/2020 a Setembro/2021 - Nível: sênior (líder de time no projeto Verbas).<br>
 Atividades: requisitos, prototipação, arquitetura, desenvolvimento, modelagem de dados, testes, sustentação, documentação.
 
   - Projeto: Verbas. Software para complementar o sistema de contracheques existentes, com cálculos complexos.<br>
@@ -91,10 +90,8 @@ Tecnologias: HTML, CSS, JavaScript, Bootstrap, Blade, PHP, Laravel, MongoDB, Git
   - Projeto: Despesas Miúdas. Software para gerenciar a execução de projetos pequenos que não necessitatam de licitações públicas.<br>
 Tecnologias: HTML, CSS, JavaScript, Bootstrap, Vue, PHP, Laravel, SQL, SQL Server, Robot, Swagger, Git, GitLab, Scrum, Jira.
 
-- <b>Assembleia Legislativa da Bahia (ALBA)</b><br>
-Salvador (Brasil) - Presencial<br>
-Maio/2019 - Junho/2020<br>
-Nível: pleno.<br>
+- <b>Assembleia Legislativa da Bahia (ALBA)</b> - Salvador (Presencial).<br>
+Maio/2019 a Junho/2020 - Nível: pleno.<br>
 Atividades: requisitos, prototipação, arquitetura, desenvolvimento, modelagem de dados, testes, treinamento, deploy, sustentação.
 
   - Projeto: Portal RH ALBA. Software para gerenciar informações dos funcionários públicos e deputados do estado da Bahia.<br>
@@ -106,128 +103,110 @@ Tecnologias: IONIC, Angular, TypeScript, PHP, Laravel, SQL, SQL Server, Git, Git
   - Projeto: Constituição da Bahia. Aplicaçãomóvel com o toda a Constitução da Bahia. Foi lançado para Android e iOS.<br>
 Tecnologias: IONIC, Angular, TypeScript, Git, GitHub, Scrum, Trello.
 
-- <b>eCGlobal</b><br>
-Salvador (Brasil) - Presencial<br>
-Agosto/2018 - Novembro/2018<br>
-Nível: júnior.<br>
+- <b>eCGlobal</b> - Salvador (Presencial).<br>
+Agosto/2018 a Novembro/2018 - Nível: júnior.<br>
 Atividades: requisitos, prototipação, desenvolvimento, modelagem de dados, testes, treinamento, sustentação.<br>
 Projeto: eCGlobal. Software para criar e gerenciar redis sociais personalizadas com foco em qustionários que rendiam pontos ao serem respondidos e, posteriormente, os prontos eram trocados por prêmios.<br>
 Tecnologias: HTML, CSS, JavaScript, PHP, CodeIgniter, SQL, PostgreSQL, Docker, Git, GitHub, Scrum, Redmine.
 
-- <b>Ericsson Inovação S. A. (EISA)</b><br>
-Salvador (Brasil) - Presencial<br>
-Agosto/2017 - Novembro/2017<br>
-Nível: júnior.<br>
+- <b>Ericsson Inovação S. A. (EISA)</b> - Salvador (Presencial).<br>
+Agosto/2017 a Novembro/2017 - Nível: júnior.<br>
 Atividades: desenvolvimento, modelagem de dados, testes, treinamento, sustentação, documentação.<br>
 Projeto: Revenue Manager (RM). Software para gerenciar informações de uma operadora telefônica da Ucrânia.<br>
 Tecnologias: Java, Cassandra, JUnit, Camunda, Sonar, Git, GitHub, Scrum, Jira.
 
-- <b>Fundo de Amparo à Pesquisa no Estado da Bahia (FAPESB)</b><br>
-Salvador (Brasil) - Presencial<br>
-Setembro/2015 - Agosto/2016<br>
-Nível: pleno.<br>
+- <b>Fundo de Amparo à Pesquisa no Estado da Bahia (FAPESB)</b> - Salvador (Presencial).<br>
+Setembro/2015 a Agosto/2016 - Nível: pleno.<br>
 Atividades: requisitos, prototipação, arquitetura, desenvolvimento, testes, deploy.<br>
 Projeto: Um software de visão computacional para avaliar o marmoreio em carcaças bovinas.<br>
 Tecnologias: C/C++, OpenCV, MATLAB, LaTeX.
 
-- <b>Colégio e Faculdade São Tomaz de Aquino</b><br>
-Salvador (Brasil) - Presencial<br>
-Novembro/2006 - Janeiro/2009
-Nível: júnior.<br>
+- <b>Colégio e Faculdade São Tomaz de Aquino</b> - Salvador (Presencial).<br>
+Novembro/2006 a Janeiro/2009 - Nível: júnior.<br>
 Atividades: requisitos, prototipação, desenvolvimento, modelagem de dados, testes, treinamento, deploy, sustentação.<br>
 Projeto: Jaguar. Software para gerenciar todas as informações sobre estudantes, professores e disciplinas numa instituição de ensino.<br>
 Tecnologias: Delphi, SQL, FireBird.
 
+## Experiências profissionais (como empreendedor, realizando todas as etapas do desenvolvimento de software, da concepção até a produção)
+
+- <b>ALD Escritório de Advocacia</b> - Salvador.<br>
+Julho/2025 - Atual<br>
+Projeto: SisCalc. Software para calcular atualizações monetárias de processos judiciais, obtendo índices diretamente de APIs do IBGE.<br>
+Tecnologias: HTML, CSS, JavaScript, Blade, jQuery, Bootstrap, DataTables, PHP, Laravel, SQL, MySQL.
+
+- <b>Renove Psicologia</b> - Salvador.<br>
+Agosto/2024 - Atual<br>
+Projeto: Sistema da Renove. Software para gerenciar cadastros de pacientes, psicólogos, planos de saúde, guias e sessões, organizando os horários e o faturamento da empresa.<br>
+Tecnologias: HTML, CSS, JavaScript, Blade, jQuery, Bootstrap, DataTables, FullCalendar.js, Vis.js, PHP, Laravel, SQL, MySQL.
+
 ## Experiências profissionais (como professor universitário ou professor técnico colaborador)
 
-- <b>União Metropolitana de Educação e Cultura (UNIME)</b><br>
+- <b>União Metropolitana de Educação e Cultura (UNIME)</b> - Lauro de Freitas<br>
 Janeiro/2021 - Dezembro/2021<br>
 Disciplinas: Algorithms; Object-Oriented Programming II; Web Development I; Web Development II.
 
-- <b>Serviço Nacional de Aprendizagem Industrial (SENAI)</b><br>
+- <b>Serviço Nacional de Aprendizagem Industrial (SENAI)</b> - Salvador<br>
 Fevereiro/2014 - Fevereiro/2015<br>
 Disciplinas: Algorithms; Object-oriented Programming; Databases; Web Development I; Web Development II; Applied Math; Completion of Course Work.
 
-- <b>Centro Tecnológico Social do Pelourinho (CTSP) e Dossier Digital</b><br>
+- <b>Centro Tecnológico Social do Pelourinho (CTSP) e Dossier Digital</b> - Salvador<br>
 Janeiro/2011 - Novembro/2011<br>
 Disciplinas: Modelagem de Dados; Desenvolvimento na Plataforma Atelier; Windows e Office.
 
 ## Experiências profissionais (como freelancer, estagiário ou professor temporário)
 
-- <b>ObservaBaía (UFBA)</b><br>
-Fevereiro/2025 - Atual<br>
+- <b>ObservaBaía (UFBA)</b> - Fevereiro/2025 - Atual<br>
 Tecnologias: HTML, CSS, JavaScript, jQuery, Bootstrap, Leaflet, PHP, WordPress, SQL, MySQL.
 
-- <b>Renove Psicologia</b><br>
-Agosto/2024 - Atual<br>
-Tecnologias: HTML, CSS, JavaScript, Blade, jQuery, Bootstrap, DataTables, PHP, Laravel, SQL, MySQL.
-
-- <b>Merkle DACH (Portugal)</b><br>
-Dezembro/2023 - Janeiro/2024<br>
+- <b>Merkle DACH (Portugal)</b> - Dezembro/2023 a Janeiro/2024<br>
 Tecnologias: PHP, CSCart, SQL, MySQL, PHPUnit, Git, Scrum.
 
-- <b>Prefeitura de Gaspar-SC</b><br>
-Outubro/2023 - Dezembro/2023<br>
+- <b>Prefeitura de Gaspar-SC</b> - Outubro/2023 a Dezembro/2023<br>
 Tecnologias: HTML, CSS, JavaScript, jQuery, Bootstrap, DataTables, Leaflet,  PHP, Laravel, SQL, MySQL, Backblaze B2, Git.
 
-- <b>Loginfo</b><br>
-Agosto/2023 - Setembro/2023<br>
+- <b>Loginfo</b> - Agosto/2023 a Setembro/2023<br>
 Tecnologias: HTML, CSS, JavaScript, jQuery, Bootstrap, PHP, Laravel, SQL, MySQL.
 
-- <b>Loovi</b><br>
-Julho/2023 - Agosto/2023<br>
+- <b>Loovi</b> - Julho/2023 a Agosto/2023<br>
 Tecnologias: HTML, CSS, JavaScript, Angular, TypeScript.
 
-- <b>ObservaBaía (UFBA)</b><br>
-Maio/2023 - Agosto/2023<br>
+- <b>ObservaBaía (UFBA)</b> - Maio/2023 a Agosto/2023<br>
 Tecnologias: HTML, CSS, JavaScript, jQuery, Bootstrap, Leaflet, PHP, WordPress, SQL, MySQL.
 
-- <b>Sábio Portal Educacional</b><br>
-Agosto/2019 - Março/2020 <br>
+- <b>Sábio Portal Educacional</b> - Agosto/2019 a Março/2020 <br>
 Tecnologias: HTML, CSS, JavaScript, jQuery, PHP, Laravel, SQL, MySQL.
 
-- <b>StartOnApp</b><br>
-Outubro/2018 - Maio/2019<br>
+- <b>StartOnApp</b> - Outubro/2018 a Maio/2019<br>
 Tecnologias: HTML, CSS, JavaScript, Bootstrap, IONIC, Angular, TypeScript Git.
 
-- <b>Serviço Nacional de Aprendizagem Industrial (SENAI)</b><br>
-Novembro/2017 - Fevereiro/2018<br>
+- <b>Serviço Nacional de Aprendizagem Industrial (SENAI)</b> - Novembro/2017 a Fevereiro/2018<br>
 Tecnologias: HTML, CSS, JavaScript, jQuery, PHP, SQL, MySQL.
 
-- <b>Serviço Nacional de Aprendizagem Industrial (SENAI)</b><br>
-Agosto/2017 - Agosto/2017<br>
+- <b>Serviço Nacional de Aprendizagem Industrial (SENAI)</b> - Agosto/2017 a Agosto/2017<br>
 Disciplinas: Projetos of Applications.
 
-- <b>Universidade Federal da Bahia (UFBA)</b><br>
-Maio/2017 - Setembro/2017<br>
+- <b>Universidade Federal da Bahia (UFBA)</b> - Maio/2017 a Setembro/2017<br>
 Disciplinas: Algorithms.
 
-- <b>Quântica Comunicação Digital</b><br>
-Março/2017 - Junho/2017<br>
+- <b>Quântica Comunicação Digital</b> - Março/2017 a Junho/2017<br>
 Tecnologias: HTML, CSS, JavaScript, jQuery, Bootstrap, PHP, WordPress, IONIC, Angular, TypeScript, SQL, MySQL.
 
-- <b>Serviço Nacional de Aprendizagem Industrial (SENAI)</b><br>
-Setembro/2016 - Dezembro/2016<br>
+- <b>Serviço Nacional de Aprendizagem Industrial (SENAI)</b> - Setembro/2016 a Dezembro/2016<br>
 Tecnologias: HTML, CSS, JavaScript, jQuery, PHP, SQL, MySQL.
 
-- <b>KD Inovação</b><br>
-Agosto/2015 - Setembro/2015<br>
+- <b>KD Inovação</b> - Agosto/2015 a Setembro/2015<br>
 Tecnologias: HTML, CSS, JavaScript, PHP, SQL, MySQL.
 
-- <b>CNP Promotora - Correspondente Bradesco Promotora</b><br>
-April/2012 - Fevereiro/2013<br>
+- <b>CNP Promotora - Correspondente Bradesco Promotora</b> - April/2012 a Fevereiro/2013<br>
 Tecnologias: HTML, CSS, JavaScript, PHP, SQL, MySQL.
 
-- <b>RH Soft</b><br>
-Novembro/2011 - Março/2012<br>
+- <b>RH Soft</b> - Novembro/2011 - Março/2012<br>
 Tecnologias: Delphi, SQL, Firebird.
 
-- <b>eCGlobal</b><br>
-Novembro/2009 - Janeiro/2011<br>
+- <b>eCGlobal</b> - Novembro/2009 a Janeiro/2011<br>
 Tecnologias: HTML, CSS, JavaScript, PHP, SQL, MySQL.
 
-- <b>Faculdade Área 1</b><br>
-April/2009 - Setembro/2009<br>
+- <b>Faculdade Área 1</b> - April/2009 a Setembro/2009<br>
 Tecnologias: Windows.
 
 ## Artigos publicados
