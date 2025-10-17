@@ -1,5 +1,3 @@
-###### [_English version_](https://github.com/pabloroxo/pabloroxo/blob/main/en/README.md)
-
 # Pablo Ricardo Roxo Silva
 
 ### <b>Engenheiro de Software e Cientista de Computação</b>
