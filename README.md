@@ -2,33 +2,28 @@
 
 # Pablo Ricardo Roxo Silva
 
-### <b>Engenheiro de Software | Cientista de Computação | Especializando em Arquitetura de Soluções</b>
+### <b>Engenheiro de Software e Cientista de Computação</b>
 
-<b>Eu amo tudo sobre computação, programação e matemática. Programando desde 2001 e atuando profissionalmente desde 2006. Tenho experiência em algoritmos, estruturas de dados, desenvolvimento full-stack, desenvolvimento mobile, aplicações monolíticas, APIs, microsserviços, bancos de dados relacionais e NoSQL, conteinerização, cache, mensageria e testes automatizados. Estou aberto a quaisquer linguagens de programação, frameworks, arquiteturas, paradigmas e metodologias. Entusiasta das melhores práticas, padrões, organização e códigos bem escritos.</b>
+<b>Eu amo tudo sobre computação, programação e matemática. Programando desde 2001 e atuando profissionalmente desde 2006. Tenho experiência em algoritmos, estruturas de dados, desenvolvimento full-stack e mobile, aplicações monolíticas, APIs, microsserviços, bancos de dados relacionais e NoSQL, conteinerização, cache, mensageria, testes automatizados e observabilidade. Estou aberto a quaisquer linguagens de programação, frameworks, arquiteturas, paradigmas e metodologias. Entusiasta das melhores práticas, padrões, organização e códigos bem escritos.</b>
 
-<b>Salvador - Bahia - Brasil. Disponível para vagas presenciais e híbridas em Salvador, ou remotas de qualquer localidade. Considero mudança para outra cidade.</b>
+<b>Disponível para vagas presenciais e híbridas em Salvador ou vagas remotas em todo o Brasil.</b>
 
 [Baixe meu currículo em formato PDF](https://github.com/pabloroxo/pabloroxo/blob/main/Pablo_Roxo_CV.pdf)
 
-## Educação
-
-### Pós-Graduação
+## Formação acadêmica
 
 - <b>Especialização em Arquitetura de Soluções</b><br>
 Pontifícia Universidade Católica de Minas Gerais (PUC Minas)<br>
-Cursando
+Concluído em 2025
 - <b>Especialização em Ciência de Dados & Big Data</b><br>
 Pontifícia Universidade Católica de Minas Gerais (PUC Minas)<br>
-2021
+Concluído em 2021
 - <b>Especialização em Desenvolvimento de Aplicativos para Dispostivos Móveis</b><br>
 Serviço Nacional de Aprendizagem Industrial (SENAI)<br>
-2018
-
-### Educação
-
+Concluído em 2018
 - <b>Bacharelado em Ciência da Computação</b><br>
 Universidade Salvador (UNIFACS)<br>
-2014
+Concluído em 2014
 
 ## Idiomas
 
@@ -39,21 +34,21 @@ Universidade Salvador (UNIFACS)<br>
 
 ## Competências técnicas (itens destacados: maior expertise)
 
-- Frontend: <b>HTML</b> | <b>CSS</b> | <b>JavaScript</b> | TypeScript | <b>Vue.js</b> | Angular | jQuery | <b>Bootstrap</b> | Tailwind | SASS/SCSS/LESS | Blade | jQuery Mobile | DataTables | Leaflet | Moment | jsGrid | Responsividade
+- Frontend: <b><ins>HTML</ins></b>, <b><ins>CSS</ins></b>, <b><ins>JavaScript</ins></b>, TypeScript, <b><ins>Vue.js</ins></b>, Angular, React, jQuery, <b><ins>Bootstrap</ins></b>, Tailwind, SASS/SCSS/LESS, Blade, jQuery Mobile, DataTables, Leaflet, Moment, jsGrid, FullCalendar.js, Vis.js, Responsividade.
 
-- Backend/Algoritmos: | <b>REST</b> | GraphQL | SOAP | <b>PHP</b> | <b>Laravel</b> | Lumen | Node.js | Nest.js | Express.js | Python | Java (SE) | Dart | C/C++ | Delphi/Pascal
+- Backend/Algoritmos:, <b><ins>REST</ins></b>, GraphQL, SOAP, <b><ins>PHP</ins></b>, <b><ins>Laravel</ins></b>, Lumen, Node.js, Nest.js, Express.js, Python, Java (SE), Dart, C/C++, Delphi/Pascal.
 
-- Mobile: IONIC | Flutter
+- Mobile: IONIC, Flutter
 
-- Bancos de dados/Cache/Cloud/ORM: <b>SQL</b> | <b>MySQL</b> | <b>SQL Server</b> | PostgreSQL | FireBird | MongoDB | Redis | Amazon S3 | Backblaze B2 | Eloquent | TypeORM
+- Bancos de dados/Cache/Cloud/ORM: <b><ins>SQL</ins></b>, <b><ins>MySQL</ins></b>, <b><ins>SQL Server</ins></b>, PostgreSQL, FireBird, MongoDB, Redis, KeyDB, Amazon S3, Backblaze B2, Eloquent, TypeORM.
 
-- Arquitetura/DevOps/Segurança/Mensageria: Clean Code | Clean Architecture | Domain-Driven Design (DDD) | Design Patterns | Object Calisthenics | <b>Software as a Service (SaaS)</b> | <b>Aplicações monoliticas</b> | <b>Microsserviços</b> | <b>API Gateway</b> | <b>Model-View-Controller (MVC)</b> | <b>Controller-Service-Repository (CSR)</b> | Micro-Frontends | Backend for Frontend (BFF) | Docker | Kubernetes | GitHub Actions | GitLab CI | Open Authorization 2.0 (OAuth2) | <b>JSON Web Token</b> | Sanctum | RabbitMQ | Beanstalked | WebSockets
+- Arquitetura/DevOps/Segurança/Mensageria: Clean Code, Clean Architecture, Domain-Driven Design (DDD), SOLID, Design Patterns, Object Calisthenics, <b><ins>Software as a Service (SaaS)</ins></b>, <b><ins>Aplicações monoliticas</ins></b>, <b><ins>Microsserviços</ins></b>, <b><ins>API Gateway</ins></b>, <b><ins>Model-View-Controller (MVC)</ins></b>, <b><ins>Controller-Service-Repository (CSR)</ins></b>, Micro-Frontends, Backend For Frontend (BFF), Docker, Kubernetes, GitHub Actions, GitLab CI, Open Authorization 2.0 (OAuth2), <b><ins>JSON Web Token</ins></b>, Sanctum, RabbitMQ, Beanstalked, WebSockets, New Relic, Prometheus, Grafana.
 
-- Ciência de Dados/Inteligência Artificial: Machine Learning | NumPy | Pandas | Jupyter Notebook | Extract-Transform-Load (ETL) | Scikit-Learn
+- Ciência de Dados/Inteligência Artificial: Machine Learning, NumPy, Pandas, Jupyter Notebook, Extract-Transform-Load (ETL), Scikit-Learn.
 
-- Qualidade: <b>PHPUnit</b> | JUnit | Robot | Test Driver Development (TDD) | PHPStan/Larastan | SonarLint/SonarQube
+- Qualidade: <b><ins>PHPUnit</ins></b>, JUnit, Robot, Test Driver Development (TDD), <b><ins>PHPStan/Larastan</ins></b>, PHPCS, SonarLint/SonarQube.
 
-- Agilidade/Outros: <b>Scrum</b> | Kanban | <b>JSON</b> | XML | OpenCV | <b>Git</b> | SVN | <b>Postman</b> | Swagger | OpenAPI | WordPress | Jira | Azure DevOps | Confluence | Redmine | Trello
+- Agilidade/Outros: <b><ins>Scrum</ins></b>, Kanban, <b><ins>JSON</ins></b>, XML, OpenCV, <b><ins>Git</ins></b>, SVN, <b><ins>Postman</ins></b>, Swagger, OpenAPI, WordPress, <b><ins>Jira</ins></b>, Azure DevOps, Confluence, Redmine, Trello.
 
 ## Experiências profissionais (como engenheiro de software colaborador)
 
