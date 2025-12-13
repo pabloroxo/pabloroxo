@@ -4,7 +4,7 @@
 
 <b>Eu amo tudo sobre computação, programação e matemática. Programando desde 2001 e atuando profissionalmente desde 2006. Tenho experiência em algoritmos, estruturas de dados, desenvolvimento full-stack e mobile, aplicações monolíticas, APIs, microsserviços, bancos de dados relacionais e NoSQL, conteinerização, cache, mensageria, testes automatizados e observabilidade. Estou aberto a quaisquer linguagens de programação, frameworks, arquiteturas, paradigmas e metodologias. Entusiasta das melhores práticas, padrões, organização e códigos bem escritos.</b>
 
-<b>Disponível para vagas presenciais e híbridas em Salvador ou vagas remotas em todo o Brasil.</b>
+<b>Disponível para vagas em Salvador ou vagas remotas em todo o Brasil. Tenho intenção de mudança para São Paulo em 2026.</b>
 
 [Baixe meu currículo em formato PDF](https://github.com/pabloroxo/pabloroxo/blob/main/Pablo_Roxo_CV.pdf)
 
@@ -57,7 +57,7 @@ Atividades: desenvolvimento, modelagem de dados, testes, sustentação.<br>
 Projeto: Plataforma do J17Bank. Software para gerenciar operações bancárias.<br>
 Tecnologias: HTML, CSS, JavaScript, React, PHP, Laravel, SQL, MySQL, RabbitMQ, PHPStan, PHPCS, Docker, Git, GitHub, GitHub Actions, New Relic, Jira.
 
-- <b>Atento</b> - São Paulo (Remoto).<br>
+- <b>Atento</b> - São Paulo (Remoto). <b>Desligado por layoff.</b><br>
 Novembro/2024 a Maio/2025 - Nível: sênior.<br>
 Atividades: arquitetura, prototipação, desenvolvimento, modelagem de dados, testes, deploy, sustentação.<br>
 Projeto: DAP. Software para gerenciar filas de atendimento de clientes por operadores de telefonia.<br>
@@ -69,7 +69,7 @@ Atividades: arquitetura, prototipação, desenvolvimento, modelagem de dados, te
 Projeto: Atende 2.0. Software para gerenciar agendamentos de serviços no SAC (Serviço de Atendimento ao Cidadão) no estado da Bahia.<br>
 Tecnologias: HTML, CSS, JavaScript, Vue, jQuery, Tailwind, DataTables, PHP, Laravel, SQL, SQL Server, PostgreSQL, Redis, RabbitMQ, PHPUnit, PHPStan/Larastan, Docker, Kubernetes, Supervisor, SonarQube, Grafana, Prometheus, Git, GitLab, GitLab CI, Kanban, Swagger, Redmine.
 
-- <b>Jettax Automação Fiscal</b> - São Paulo (Remoto).<br>
+- <b>Jettax Automação Fiscal</b> - São Paulo (Remoto). <b>Desligado por layoff.</b><br>
 Setembro/2021 a Outubro/2022 - Nível: pleno.<br>
 Atividades: prototipação, desenvolvimento, modelagem de dados, sustentação.<br>
 Projeto: Jettax 360. Software para automação contábil que obtinha notas fiscais de diferentes fontes e auditava todas elas, apresentando informações de fácil leitura para contadores.<br>
@@ -113,7 +113,7 @@ Atividades: desenvolvimento, modelagem de dados, testes, treinamento, sustentaç
 Projeto: Revenue Manager (RM). Software para gerenciar informações de uma operadora telefônica da Ucrânia.<br>
 Tecnologias: Java, Cassandra, JUnit, Camunda, Sonar, Git, GitHub, Scrum, Jira.
 
-- <b>Fundo de Amparo à Pesquisa no Estado da Bahia (FAPESB)</b> - Salvador (Presencial).<br>
+- <b>Fundo de Amparo à Pesquisa no Estado da Bahia (FAPESB)</b> - Salvador (Presencial). <b>Contrato de 12 meses.</b><br>
 Setembro/2015 a Agosto/2016 - Nível: pleno.<br>
 Atividades: requisitos, prototipação, arquitetura, desenvolvimento, testes, deploy.<br>
 Projeto: Um software de visão computacional para avaliar o marmoreio em carcaças bovinas.<br>
@@ -153,58 +153,58 @@ Disciplinas: Modelagem de Dados; Desenvolvimento na Plataforma Atelier; Windows 
 
 ## Experiências profissionais (como freelancer, estagiário ou professor temporário)
 
-- <b>ObservaBaía (UFBA)</b> - Fevereiro/2025 - Atual<br>
+- <b>ObservaBaía (UFBA)</b> - Fevereiro/2025 - Atual. Freelancer.<br>
 Tecnologias: HTML, CSS, JavaScript, jQuery, Bootstrap, Leaflet, PHP, WordPress, SQL, MySQL.
 
-- <b>Merkle DACH (Portugal)</b> - Dezembro/2023 a Janeiro/2024<br>
+- <b>Merkle DACH (Portugal)</b> - Dezembro/2023 a Janeiro/2024. Freelancer.<br>
 Tecnologias: PHP, CSCart, SQL, MySQL, PHPUnit, Git, Scrum.
 
-- <b>Prefeitura de Gaspar-SC</b> - Outubro/2023 a Dezembro/2023<br>
+- <b>Prefeitura de Gaspar-SC</b> - Outubro/2023 a Dezembro/2023. Freelancer.<br>
 Tecnologias: HTML, CSS, JavaScript, jQuery, Bootstrap, DataTables, Leaflet,  PHP, Laravel, SQL, MySQL, Backblaze B2, Git.
 
-- <b>Loginfo</b> - Agosto/2023 a Setembro/2023<br>
+- <b>Loginfo</b> - Agosto/2023 a Setembro/2023. Freelancer.<br>
 Tecnologias: HTML, CSS, JavaScript, jQuery, Bootstrap, PHP, Laravel, SQL, MySQL.
 
-- <b>Loovi</b> - Julho/2023 a Agosto/2023<br>
+- <b>Loovi</b> - Julho/2023 a Agosto/2023. Freelancer.<br>
 Tecnologias: HTML, CSS, JavaScript, Angular, TypeScript.
 
-- <b>ObservaBaía (UFBA)</b> - Maio/2023 a Agosto/2023<br>
+- <b>ObservaBaía (UFBA)</b> - Maio/2023 a Agosto/2023. Freelancer.<br>
 Tecnologias: HTML, CSS, JavaScript, jQuery, Bootstrap, Leaflet, PHP, WordPress, SQL, MySQL.
 
-- <b>Sábio Portal Educacional</b> - Agosto/2019 a Março/2020 <br>
+- <b>Sábio Portal Educacional</b> - Agosto/2019 a Março/2020. Freelancer.<br>
 Tecnologias: HTML, CSS, JavaScript, jQuery, PHP, Laravel, SQL, MySQL.
 
-- <b>StartOnApp</b> - Outubro/2018 a Maio/2019<br>
+- <b>StartOnApp</b> - Outubro/2018 a Maio/2019. Freelancer.<br>
 Tecnologias: HTML, CSS, JavaScript, Bootstrap, IONIC, Angular, TypeScript Git.
 
-- <b>Serviço Nacional de Aprendizagem Industrial (SENAI)</b> - Novembro/2017 a Fevereiro/2018<br>
+- <b>Serviço Nacional de Aprendizagem Industrial (SENAI)</b> - Novembro/2017 a Fevereiro/2018. Freelancer.<br>
 Tecnologias: HTML, CSS, JavaScript, jQuery, PHP, SQL, MySQL.
 
-- <b>Serviço Nacional de Aprendizagem Industrial (SENAI)</b> - Agosto/2017 a Agosto/2017<br>
-Disciplinas: Projetos of Applications.
+- <b>Serviço Nacional de Aprendizagem Industrial (SENAI)</b> - Agosto/2017 a Agosto/2017. Professor temporário.<br>
+Disciplinas: Projetos de Aplicações.
 
-- <b>Universidade Federal da Bahia (UFBA)</b> - Maio/2017 a Setembro/2017<br>
-Disciplinas: Algorithms.
+- <b>Universidade Federal da Bahia (UFBA)</b> - Maio/2017 a Setembro/2017. Professor temporário.<br>
+Disciplinas: Algoritmos.
 
-- <b>Quântica Comunicação Digital</b> - Março/2017 a Junho/2017<br>
+- <b>Quântica Comunicação Digital</b> - Março/2017 a Junho/2017. Freelancer.<br>
 Tecnologias: HTML, CSS, JavaScript, jQuery, Bootstrap, PHP, WordPress, IONIC, Angular, TypeScript, SQL, MySQL.
 
-- <b>Serviço Nacional de Aprendizagem Industrial (SENAI)</b> - Setembro/2016 a Dezembro/2016<br>
+- <b>Serviço Nacional de Aprendizagem Industrial (SENAI)</b> - Setembro/2016 a Dezembro/2016. Freelancer.<br>
 Tecnologias: HTML, CSS, JavaScript, jQuery, PHP, SQL, MySQL.
 
-- <b>KD Inovação</b> - Agosto/2015 a Setembro/2015<br>
+- <b>KD Inovação</b> - Agosto/2015 a Setembro/2015. Freelancer.<br>
 Tecnologias: HTML, CSS, JavaScript, PHP, SQL, MySQL.
 
-- <b>CNP Promotora - Correspondente Bradesco Promotora</b> - April/2012 a Fevereiro/2013<br>
+- <b>CNP Promotora - Correspondente Bradesco Promotora</b> - April/2012 a Fevereiro/2013. Estágio.<br>
 Tecnologias: HTML, CSS, JavaScript, PHP, SQL, MySQL.
 
-- <b>RH Soft</b> - Novembro/2011 - Março/2012<br>
+- <b>RH Soft</b> - Novembro/2011 - Março/2012. Estágio.<br>
 Tecnologias: Delphi, SQL, Firebird.
 
-- <b>eCGlobal</b> - Novembro/2009 a Janeiro/2011<br>
+- <b>eCGlobal</b> - Novembro/2009 a Janeiro/2011. Estágio.<br>
 Tecnologias: HTML, CSS, JavaScript, PHP, SQL, MySQL.
 
-- <b>Faculdade Área 1</b> - April/2009 a Setembro/2009<br>
+- <b>Faculdade Área 1</b> - April/2009 a Setembro/2009. Estágio.<br>
 Tecnologias: Windows.
 
 ## Artigos publicados
