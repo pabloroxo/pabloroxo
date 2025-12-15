@@ -36,7 +36,7 @@ Concluído em 2014
 
 - Backend/Algoritmos:, <b><ins>REST</ins></b>, GraphQL, SOAP, <b><ins>PHP</ins></b>, <b><ins>Laravel</ins></b>, Lumen, Node.js, Nest.js, Express.js, Python, Java (SE), Dart, C/C++, Delphi/Pascal.
 
-- Mobile: IONIC, Flutter.
+- Mobile: Flutter, IONIC.
 
 - Bancos de dados/Cache/Cloud/ORM: <b><ins>SQL</ins></b>, <b><ins>MySQL</ins></b>, <b><ins>SQL Server</ins></b>, PostgreSQL, FireBird, MongoDB, Redis, KeyDB, Amazon S3, Backblaze B2, Eloquent, TypeORM.
 
