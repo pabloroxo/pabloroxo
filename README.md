@@ -2,9 +2,9 @@
 
 ### <b>Engenheiro de Software e Cientista de Computação</b>
 
-<b>Eu amo tudo sobre computação, programação e matemática. Programando desde 2001 e atuando profissionalmente desde 2006. Tenho experiência em algoritmos, estruturas de dados, desenvolvimento full-stack e mobile, aplicações monolíticas, APIs, microsserviços, bancos de dados relacionais e NoSQL, conteinerização, cache, mensageria, testes automatizados e observabilidade. Estou aberto a quaisquer linguagens de programação, frameworks, arquiteturas, paradigmas e metodologias. Entusiasta das melhores práticas, padrões, organização e códigos bem escritos.</b>
+<b>Eu amo tudo sobre computação, programação e matemática. Programando desde 2001 e atuando profissionalmente desde 2006. Tenho experiência em algoritmos, estruturas de dados, desenvolvimento full stack e mobile, aplicações monolíticas, APIs, microsserviços, bancos de dados relacionais e NoSQL, DevOps, integração/entrega contínua, conteinerização, cache, mensageria, testes automatizados, monitoração e observabilidade. Estou aberto a quaisquer linguagens de programação, frameworks, arquiteturas, paradigmas e metodologias. Entusiasta das melhores práticas, padrões, organização e códigos bem escritos.</b>
 
-<b>Disponível para vagas em Salvador ou vagas remotas em todo o Brasil. Tenho intenção de mudança para São Paulo em 2026.</b>
+<b>Disponível para vagas presenciais e híbridas em Salvador ou vagas remotas em todo o Brasil. Avalio mudança para outras cidades.</b>
 
 [Baixe meu currículo em formato PDF](https://github.com/pabloroxo/pabloroxo/blob/main/Pablo_Roxo_CV.pdf)
 
@@ -38,15 +38,15 @@ Concluído em 2014
 
 - Mobile: Flutter, IONIC.
 
-- Bancos de dados/Cache/Cloud/ORM: <b><ins>SQL</ins></b>, <b><ins>MySQL</ins></b>, <b><ins>SQL Server</ins></b>, PostgreSQL, FireBird, MongoDB, Redis, KeyDB, Amazon S3, Backblaze B2, Eloquent, TypeORM.
+- Bancos de dados/Cache/Cloud/ORM: <b><ins>SQL</ins></b>, <b><ins>MySQL</ins></b>, <b><ins>SQL Server</ins></b>, PostgreSQL, Oracle, FireBird, MongoDB, Redis, KeyDB, Amazon S3, Backblaze B2, Eloquent, TypeORM.
 
-- Arquitetura/DevOps/Segurança/Mensageria: Clean Code, Clean Architecture, Domain-Driven Design (DDD), SOLID, Design Patterns, Object Calisthenics, <b><ins>Software as a Service (SaaS)</ins></b>, <b><ins>Aplicações monoliticas</ins></b>, <b><ins>Microsserviços</ins></b>, <b><ins>API Gateway</ins></b>, <b><ins>Model-View-Controller (MVC)</ins></b>, <b><ins>Controller-Service-Repository (CSR)</ins></b>, Micro-Frontends, Backend For Frontend (BFF), Docker, Kubernetes, GitHub Actions, GitLab CI, Open Authorization 2.0 (OAuth2), <b><ins>JSON Web Token</ins></b>, Sanctum, RabbitMQ, Beanstalked, WebSockets, New Relic, Prometheus, Grafana.
+- Arquitetura/DevOps/Segurança/Mensageria: Clean Code, Clean Architecture, Domain-Driven Design (DDD), SOLID, Design Patterns, Object Calisthenics, <b><ins>Software as a Service (SaaS)</ins></b>, <b><ins>Aplicações monoliticas</ins></b>, <b><ins>Microsserviços</ins></b>, <b><ins>API Gateway</ins></b>, <b><ins>Model-View-Controller (MVC)</ins></b>, <b><ins>Controller-Service-Repository (CSR)</ins></b>, Micro-Frontends, Backend For Frontend (BFF), Docker, Kubernetes, OpenShift, GitHub Actions, GitLab CI, Open Authorization 2.0 (OAuth2), <b><ins>JSON Web Token</ins></b>, Sanctum, RabbitMQ, Beanstalked, WebSockets, New Relic, Graylog, Prometheus, Grafana.
 
 - Ciência de Dados/Inteligência Artificial: Machine Learning, NumPy, Pandas, Jupyter Notebook, Extract-Transform-Load (ETL), Scikit-Learn.
 
 - Qualidade: <b><ins>PHPUnit</ins></b>, JUnit, Robot, Test Driver Development (TDD), <b><ins>PHPStan/Larastan</ins></b>, PHPCS, SonarLint/SonarQube.
 
-- Agilidade/Outros: <b><ins>Scrum</ins></b>, Kanban, <b><ins>JSON</ins></b>, XML, OpenCV, <b><ins>Git</ins></b>, SVN, <b><ins>Postman</ins></b>, Swagger, OpenAPI, WordPress, <b><ins>Jira</ins></b>, Azure DevOps, Confluence, Redmine, Trello.
+- Agilidade/Outros: <b><ins>Scrum</ins></b>, Kanban, <b><ins>JSON</ins></b>, XML, OpenCV, <b><ins>Git</ins></b>, SVN, <b><ins>Postman</ins></b>, Swagger, OpenAPI, WordPress, JasperReports, <b><ins>Jira</ins></b>, Azure DevOps, Confluence, Redmine, Trello.
 
 ## Experiências profissionais (como engenheiro de software colaborador)
 
