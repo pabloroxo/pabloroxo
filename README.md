@@ -38,7 +38,7 @@ Concluído em 2014
 
 - Mobile: Flutter, IONIC.
 
-- Bancos de dados/Cache/Cloud/ORM: <b><ins>SQL</ins></b>, <b><ins>MySQL</ins></b>, <b><ins>SQL Server</ins></b>, PostgreSQL, Oracle, FireBird, MongoDB, Redis, KeyDB, Amazon S3, Backblaze B2, Eloquent, TypeORM.
+- Bancos de dados/Cache/Cloud/ORM: <b><ins>SQL</ins></b>, <b><ins>MySQL</ins></b>, <b><ins>SQL Server</ins></b>, PostgreSQL, Oracle, FireBird, MongoDB, Redis, KeyDB, Amazon S3, Backblaze B2, Eloquent, Hibernate, TypeORM.
 
 - Arquitetura/DevOps/Segurança/Mensageria: Clean Code, Clean Architecture, Domain-Driven Design (DDD), SOLID, Design Patterns, Object Calisthenics, <b><ins>Software as a Service (SaaS)</ins></b>, <b><ins>Aplicações monoliticas</ins></b>, <b><ins>Microsserviços</ins></b>, <b><ins>API Gateway</ins></b>, <b><ins>Model-View-Controller (MVC)</ins></b>, <b><ins>Controller-Service-Repository (CSR)</ins></b>, Micro-Frontends, Backend For Frontend (BFF), Docker, Kubernetes, OpenShift, GitHub Actions, GitLab CI, Open Authorization 2.0 (OAuth2), <b><ins>JSON Web Token</ins></b>, Sanctum, RabbitMQ, Beanstalked, WebSockets, New Relic, Graylog, Prometheus, Grafana.
 
@@ -52,51 +52,54 @@ Concluído em 2014
 
 - <b>Fóton Informática S.A.</b> - Brasília (Remoto).<br>
 Junho/2025 - Atual - Nível: sênior.<br>
-Cliente: J17Bank.<br>
 Atividades: desenvolvimento, modelagem de dados, testes, sustentação.<br>
-Projeto: Plataforma do J17Bank. Software para gerenciar operações bancárias.<br>
-Tecnologias: HTML, CSS, JavaScript, React, PHP, Laravel, SQL, MySQL, RabbitMQ, PHPStan, PHPCS, Docker, Git, GitHub, GitHub Actions, New Relic, Jira.
+  - Cliente: Banco BRB. Dezembro/2025 - atual.<br>
+  Projeto: BHB Imobiliário. Software de backend para ser consumido pelo aplicativo móvel BHB Imobiliário.<br>
+  Tecnologias: Java, SpringBoot, SQL, Oracle, Hibernate, JUnit, OpenShift, SonarLint, SonarQube, Git, GitLab, JasperReports, Graylog, Jira.
+  - Cliente: J17Bank. Junho/2025 a Dezembro/2025.<br>
+  Projeto: Plataforma do J17Bank. Software para gerenciar operações bancárias.<br>
+  Tecnologias: HTML, CSS, JavaScript, React, PHP, Laravel, SQL, MySQL, Eloquent, RabbitMQ, PHPStan, PHPCS, Docker, Git, GitHub, GitHub Actions, New Relic, Jira.
 
 - <b>Atento</b> - São Paulo (Remoto). <b>Desligado por layoff.</b><br>
 Novembro/2024 a Maio/2025 - Nível: sênior.<br>
 Atividades: arquitetura, prototipação, desenvolvimento, modelagem de dados, testes, deploy, sustentação.<br>
 Projeto: DAP. Software para gerenciar filas de atendimento de clientes por operadores de telefonia.<br>
-Tecnologias: HTML, CSS, JavaScript, jQuery, Bootstrap, jsGrid, PHP, SQL, MySQL, SVN, Azure DevOps.
+Tecnologias: HTML, CSS, JavaScript, jQuery, Bootstrap, jsGrid, PHP, SQL, MySQL, Eloquent, SVN, Azure DevOps.
 
 - <b>Companhia de Processamento de Dados do Estado da Bahia (PRODEB)</b> - Salvador (Híbrido).<br>
 Janeiro/2024 a Setembro/2024 - Nível: sênior.<br>
 Atividades: arquitetura, prototipação, desenvolvimento, modelagem de dados, testes, deploy, sustentação, documentação.<br>
 Projeto: Atende 2.0. Software para gerenciar agendamentos de serviços no SAC (Serviço de Atendimento ao Cidadão) no estado da Bahia.<br>
-Tecnologias: HTML, CSS, JavaScript, Vue, jQuery, Tailwind, DataTables, PHP, Laravel, SQL, SQL Server, PostgreSQL, Redis, RabbitMQ, PHPUnit, PHPStan/Larastan, Docker, Kubernetes, Supervisor, SonarQube, Grafana, Prometheus, Git, GitLab, GitLab CI, Kanban, Swagger, Redmine.
+Tecnologias: HTML, CSS, JavaScript, Vue, jQuery, Tailwind, DataTables, PHP, Laravel, SQL, SQL Server, PostgreSQL, Eloquent, Redis, RabbitMQ, PHPUnit, PHPStan/Larastan, Docker, Kubernetes, Supervisor, SonarQube, Grafana, Prometheus, Git, GitLab, GitLab CI, Kanban, Swagger, Redmine.
 
 - <b>Jettax Automação Fiscal</b> - São Paulo (Remoto). <b>Desligado por layoff.</b><br>
 Setembro/2021 a Outubro/2022 - Nível: pleno.<br>
 Atividades: prototipação, desenvolvimento, modelagem de dados, sustentação.<br>
 Projeto: Jettax 360. Software para automação contábil que obtinha notas fiscais de diferentes fontes e auditava todas elas, apresentando informações de fácil leitura para contadores.<br>
-Tecnologias: HTML, CSS, JavaScript, Bootstrap, Vue, PHP, Laravel, MongoDB, Amazon S3, Redis, Beanstalkd, Docker, Git, BitBucket, Scrum, Jira.
+Tecnologias: HTML, CSS, JavaScript, Bootstrap, Vue, PHP, Laravel, MongoDB, Eloquent, Amazon S3, Redis, Beanstalkd, Docker, Git, BitBucket, Scrum, Jira.
 
 - <b>Capgemini</b> - Salvador (Remoto)<br>
 Julho/2020 a Setembro/2021 - Nível: sênior (líder de time no projeto Verbas).<br>
 Atividades: requisitos, prototipação, arquitetura, desenvolvimento, modelagem de dados, testes, sustentação, documentação.
 
   - Projeto: Verbas. Software para complementar o sistema de contracheques existentes, com cálculos complexos.<br>
-Tecnologias: HTML, CSS, JavaScript, Bootstrap, Vue, PHP, Laravel, SQL, SQL Server, PHPUnit, Robot, Swagger, Git, GitLab, Scrum, Jira.
+Tecnologias: HTML, CSS, JavaScript, Bootstrap, Vue, PHP, Laravel, SQL, SQL Server, Eloquent, PHPUnit, Robot, Swagger, Git, GitLab, Scrum, Jira.
 
   - Projeto: Uno. Software para gerenciar a tramitação de processos judiciais.<br>
-Tecnologias: HTML, CSS, JavaScript, Bootstrap, Blade, PHP, Laravel, MongoDB, Git, GitLab, Scrum, Jira.
+Tecnologias: HTML, CSS, JavaScript, Bootstrap, Blade, PHP, Laravel, MongoDB, Eloquent, Git, GitLab, Scrum, Jira.
 
   - Projeto: Despesas Miúdas. Software para gerenciar a execução de projetos pequenos que não necessitatam de licitações públicas.<br>
-Tecnologias: HTML, CSS, JavaScript, Bootstrap, Vue, PHP, Laravel, SQL, SQL Server, Robot, Swagger, Git, GitLab, Scrum, Jira.
+Tecnologias: HTML, CSS, JavaScript, Bootstrap, Vue, PHP, Laravel, SQL, SQL Server, Eloquent, Robot, Swagger, Git, GitLab, Scrum, Jira.
 
 - <b>Assembleia Legislativa da Bahia (ALBA)</b> - Salvador (Presencial).<br>
 Maio/2019 a Junho/2020 - Nível: pleno.<br>
 Atividades: requisitos, prototipação, arquitetura, desenvolvimento, modelagem de dados, testes, treinamento, deploy, sustentação.
 
   - Projeto: Portal RH ALBA. Software para gerenciar informações dos funcionários públicos e deputados do estado da Bahia.<br>
-Tecnologias: HTML, CSS, JavaScript, Bootstrap, Blade, jQuery, Datatables, PHP, Laravel, Lumen, SQL, SQL Server, FireBird, Git, GitHub, Scrum, Trello.
+Tecnologias: HTML, CSS, JavaScript, Bootstrap, Blade, jQuery, Datatables, PHP, Laravel, Lumen, SQL, SQL Server, Eloquent, FireBird, Git, GitHub, Scrum, Trello.
 
   - Projeto: Portal RH ALBA. Aplicação móvel com o mesmo conteúdo do site. Foi lançado para Android e iOS. Foi reescrito em Flutter, mas esta versão não foi lançada.<br>
-Tecnologias: IONIC, Angular, TypeScript, PHP, Laravel, SQL, SQL Server, Git, GitHub, Scrum, Trello.
+Tecnologias: IONIC, Angular, TypeScript, PHP, Laravel, SQL, SQL Server, Eloquent, Git, GitHub, Scrum, Trello.
 
   - Projeto: Constituição da Bahia. Aplicaçãomóvel com o toda a Constitução da Bahia. Foi lançado para Android e iOS.<br>
 Tecnologias: IONIC, Angular, TypeScript, Git, GitHub, Scrum, Trello.
@@ -130,12 +133,12 @@ Tecnologias: Delphi, SQL, FireBird.
 - <b>ALD Escritório de Advocacia</b> - Salvador.<br>
 Julho/2025 - Atual<br>
 Projeto: SisCalc. Software para calcular atualizações monetárias de processos judiciais, obtendo índices diretamente de APIs do IBGE.<br>
-Tecnologias: HTML, CSS, JavaScript, Blade, jQuery, Bootstrap, DataTables, PHP, Laravel, SQL, MySQL.
+Tecnologias: HTML, CSS, JavaScript, Blade, jQuery, Bootstrap, DataTables, PHP, Laravel, SQL, MySQL, Eloquent.
 
 - <b>Renove Psicologia</b> - Salvador.<br>
 Agosto/2024 - Atual<br>
 Projeto: Sistema da Renove. Software para gerenciar cadastros de pacientes, psicólogos, planos de saúde, guias e sessões, organizando os horários e o faturamento da empresa.<br>
-Tecnologias: HTML, CSS, JavaScript, Blade, jQuery, Bootstrap, DataTables, FullCalendar.js, Vis.js, PHP, Laravel, SQL, MySQL.
+Tecnologias: HTML, CSS, JavaScript, Blade, jQuery, Bootstrap, DataTables, FullCalendar.js, Vis.js, PHP, Laravel, SQL, MySQL, Eloquent.
 
 ## Experiências profissionais (como professor universitário ou professor técnico colaborador)
 
@@ -160,10 +163,10 @@ Tecnologias: HTML, CSS, JavaScript, jQuery, Bootstrap, Leaflet, PHP, WordPress, 
 Tecnologias: PHP, CSCart, SQL, MySQL, PHPUnit, Git, Scrum.
 
 - <b>Prefeitura de Gaspar-SC</b> - Outubro/2023 a Dezembro/2023. Freelancer.<br>
-Tecnologias: HTML, CSS, JavaScript, jQuery, Bootstrap, DataTables, Leaflet,  PHP, Laravel, SQL, MySQL, Backblaze B2, Git.
+Tecnologias: HTML, CSS, JavaScript, jQuery, Bootstrap, DataTables, Leaflet,  PHP, Laravel, SQL, MySQL, Eloquent, Backblaze B2, Git.
 
 - <b>Loginfo</b> - Agosto/2023 a Setembro/2023. Freelancer.<br>
-Tecnologias: HTML, CSS, JavaScript, jQuery, Bootstrap, PHP, Laravel, SQL, MySQL.
+Tecnologias: HTML, CSS, JavaScript, jQuery, Bootstrap, PHP, Laravel, SQL, MySQL, Eloquent.
 
 - <b>Loovi</b> - Julho/2023 a Agosto/2023. Freelancer.<br>
 Tecnologias: HTML, CSS, JavaScript, Angular, TypeScript.
@@ -172,7 +175,7 @@ Tecnologias: HTML, CSS, JavaScript, Angular, TypeScript.
 Tecnologias: HTML, CSS, JavaScript, jQuery, Bootstrap, Leaflet, PHP, WordPress, SQL, MySQL.
 
 - <b>Sábio Portal Educacional</b> - Agosto/2019 a Março/2020. Freelancer.<br>
-Tecnologias: HTML, CSS, JavaScript, jQuery, PHP, Laravel, SQL, MySQL.
+Tecnologias: HTML, CSS, JavaScript, jQuery, PHP, Laravel, SQL, MySQL, Eloquent.
 
 - <b>StartOnApp</b> - Outubro/2018 a Maio/2019. Freelancer.<br>
 Tecnologias: HTML, CSS, JavaScript, Bootstrap, IONIC, Angular, TypeScript Git.
