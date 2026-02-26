@@ -52,7 +52,7 @@ Concluído em 2014
 
 - <b>Fóton Informática S.A.</b> - Brasília (Remoto).<br>
 Junho/2025 - Atual - Nível: sênior.<br>
-Atividades: desenvolvimento, modelagem de dados, testes, sustentação.<br>
+Atividades: desenvolvimento, modelagem de dados, testes, deploy, sustentação.<br>
   - Cliente: Banco BRB. Dezembro/2025 - atual.<br>
   Projeto: BHB Imobiliário. Software de backend para ser consumido pelo aplicativo móvel BHB Imobiliário.<br>
   Tecnologias: Java, SpringBoot, SQL, Oracle, Hibernate, JUnit, OpenShift, SonarLint, SonarQube, Git, GitLab, JasperReports, Graylog, Jira.
